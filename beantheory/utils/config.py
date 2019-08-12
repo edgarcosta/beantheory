@@ -175,9 +175,7 @@ class Configuration(object):
             if opt in args_dict:
                 self.flask_options[opt] = args_dict[opt]
 
-        self.color = getint('core', 'color')
-
-        self.logging_options = {'logfile': get('logging', 'logfile')} 
+        self.logging_options = {'logfile': get('logging', 'logfile')}
         if "logfocus" in args_dict:
             self.logging_options["logfocus"] = args_dict["logfocus"]
 

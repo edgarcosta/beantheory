@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from generic import GenericSeminar
-import dateutil
 from sage.all import cached_method
+import dateutil.parser
 
 
 class BU(GenericSeminar):
@@ -29,5 +29,5 @@ class BU(GenericSeminar):
             except ValueError:
                 continue
             time = day + self.time()
-            res.append({'time':time, 'speaker': row[1], 'desc': row[2], 'seminar': self.name})
+            res.append({'time': time, 'speaker': row[1], 'desc': row[2], 'seminar': self.name})
         return res

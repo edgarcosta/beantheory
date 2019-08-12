@@ -2,6 +2,8 @@
 from generic import GenericSeminar
 import dateutil
 from sage.all import cached_method
+import re
+from datetime import timedelta
 
 class STAGE(GenericSeminar):
     url = "http://math.mit.edu/nt/stage.html"
