@@ -37,7 +37,7 @@ app.jinja_env.add_extension('jinja2.ext.do')
 # if you want to do more than just the default, use it for example this way:
 # {{ <datetimeobject>|fmtdatetime('%H:%M:%S') }}
 @app.template_filter("fmtdatetime")
-def fmtdatetime(value, format='%m-%d %H:%M'):
+def fmtdatetime(value, format='%b %d %H:%M'):
     if isinstance(value, datetime.datetime):
         return value.strftime(format)
     else:
@@ -49,10 +49,27 @@ def fmtdatetime(value, format='%m-%d %H:%M'):
 #       Top-level pages      #
 ##############################
 
+def talks():
+    from datetime import date
+    from seminars import BU, MIT
+    talks = sorted(BU().talks + MIT().talks, key=lambda x: x['time'])
+    today = date.today()
+    _, weeknumber, weekday = today.isocalendar()
+    if weekday == 7: # sunday
+        weeknumber += 1
+    past = [elt for elt in talks
+            if elt['time'].isocalendar()[1] < weeknumber]
+    upcoming = [elt for elt in talks
+                if elt['time'].isocalendar()[1] > weeknumber]
+    thisweek = [elt for elt in talks
+                if elt['time'].isocalendar()[1] == weeknumber]
+    return past, thisweek, upcoming
+
+
 @app.route("/")
 def index():
-    from seminars import BU, MIT
-    talks = sorted(BU().talks() + MIT().talks(), key=lambda x: x['time'])
-    print talks
+    past, thisweek, upcoming = talks()
     return render_template('index.html',
-        upcoming=talks)
+        past=past,
+        thisweek=thisweek,
+        upcoming=upcoming)

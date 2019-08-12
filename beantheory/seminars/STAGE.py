@@ -1,30 +1,31 @@
 # -*- coding: utf-8 -*-
 from generic import GenericSeminar
 import dateutil
-from sage.all import cached_method
+from cached_property import cached_property
 import re
 from datetime import timedelta
 
 class STAGE(GenericSeminar):
     url = "http://math.mit.edu/nt/stage.html"
     name = "STAGE"
-    room_regex = '(?<=in MIT room )(.+)(?=\,)'
-    table_regex = '(?<=<TABLE BORDER=5 CELLPADDING=10 width=100% >)((.|\n)*)(?=</TABLE>)'
+    place = "MIT"
+    room_regex = r'(?<=in MIT room )(?:.+)(\d\-\d{3})(?:.+)(?=, unless indicated otherwise below)'
+    table_regex = r'(?<=<TABLE BORDER=5 CELLPADDING=10 width=100% >)((.|\n)*)(?=</TABLE>)'
 
-    @cached_method
+    @cached_property
     def time(self):
-        time_blob = re.search('(?<=Meetings are held on)(.*)(?=in MIT room)', self.html)
-        h = re.search('(?<=, )([0-9]+)(?=[[a|p]m|-)', time_blob.group(0)).group(0)
+        time_blob = re.search(r'(?<=Meetings are held on)(.*)(?=in MIT room)', self.html)
+        h = re.search(r'(?<=, )([0-9]+)(?=[[a|p]m|-)', time_blob.group(0)).group(0)
         h = int(h)
         if h < 8:
             h += 12
         return timedelta(hours=h)
 
-    @cached_method
+    @cached_property
     def talks(self):
         res = []
         # skip header
-        for row in self.table():
+        for row in self.table:
             # skip ill formed rows
             if len(row) != 1:
                 continue
@@ -50,14 +51,19 @@ class STAGE(GenericSeminar):
                 day = dateutil.parser.parse(row[0])
             except ValueError:
                 continue
-            time = day + self.time()
+            time = day + self.time
 
             if '.' in row[1]:
                 author, desc = row[1].split('.', 1)
             else:
                 author, desc = None, row[1]
 
-            res.append({'time':time, 'speaker': author, 'desc': desc, 'seminar': self.name})
+            res.append({
+                'time':time,
+                'speaker': author,
+                'desc': desc,
+                'place': self.place,
+                'room': self.room})
         return res
 
 class STAGES19(STAGE):

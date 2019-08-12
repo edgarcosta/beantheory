@@ -2,7 +2,7 @@
 import requests
 from datetime import timedelta
 import re
-from sage.all import cached_method
+from cached_property import cached_property
 from beantheory.utils import TableParser
 
 class GenericSeminar(object):
@@ -10,11 +10,11 @@ class GenericSeminar(object):
         r = requests.get(self.url)
         self.html = r.text.replace('\n','').replace('&nbsp;','')
 
-    @cached_method
+    @cached_property
     def room(self):
-        return re.search(self.room_regex, self.html).group(0)
+        return re.search(self.room_regex, self.html).group(1)
 
-    @cached_method
+    @cached_property
     def time(self):
         h, m = re.search(self.time_regex, self.html).groups()
         h = int(h)
@@ -23,9 +23,9 @@ class GenericSeminar(object):
             h += 12
         return timedelta(hours=h, minutes=m)
 
-    @cached_method
+    @cached_property
     def table(self):
-        table_text = re.search(self.table_regex, self.html).group(0)
+        table_text = re.search(self.table_regex, self.html).group(1)
 
         parser = TableParser()
         parser.feed(table_text)

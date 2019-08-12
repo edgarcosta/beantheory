@@ -1,20 +1,21 @@
 # -*- coding: utf-8 -*-
 from generic import GenericSeminar
 import dateutil
-from sage.all import cached_method
+from cached_property import cached_property
 
 class MIT(GenericSeminar):
     url = "http://math.mit.edu/nt/nts.html"
     name = "MIT NT"
-    room_regex = '(?<=in MIT room )(.+)(?=\.)'
-    time_regex = '(?<=, )([0-9]+):([0-9]+)(?=\-[0-9]+:[0-9]+[a|p]m)'
-    table_regex = '(?<=<TABLE BORDER=5 CELLPADDING=10 width=100% >)((.|\n)*)(?=</TABLE>)'
+    place = "MIT"
+    room_regex = r'(?<=in MIT room )(?:.+)(\d\-\d{3})(?:.+?)(?=\.)'
+    time_regex = r'(?<=, )([0-9]+):([0-9]+)(?=\-[0-9]+:[0-9]+[a|p]m)'
+    table_regex = r'(?<=<TABLE BORDER=5 CELLPADDING=10 width=100% >)((.|\n)*)(?=</TABLE>)'
 
-    @cached_method
+    @cached_property
     def talks(self):
         res = []
         # skip header
-        for row in self.table():
+        for row in self.table:
             # skip ill formed rows
             if len(row) != 1:
                 continue
@@ -41,9 +42,14 @@ class MIT(GenericSeminar):
                 day = dateutil.parser.parse(row[0])
             except ValueError:
                 continue
-            time = day + self.time()
+            time = day + self.time
 
-            {'time':time, 'speaker': row[1], 'desc': None, 'seminar': self.name}
+            res.append({
+                'time': time,
+                'speaker': row[1],
+                'desc': None,
+                'place': self.place,
+                'room': self.room})
         return res
 
 class MITS17(MIT):
