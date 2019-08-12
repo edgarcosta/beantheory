@@ -1,0 +1,14 @@
+config.ini
+
+*.pyc
+*.pyo
+*.so
+*.o
+*.c
+*.swp
+*~
+
+flasklog
+
+
+
