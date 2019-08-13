@@ -15,6 +15,8 @@ def talks():
         weeknumber += 1
     past = [elt for elt in talks
             if elt['time'].isocalendar()[1] < weeknumber]
+    # reverse ordering on the past seminars
+    past.reverse()
     upcoming = [elt for elt in talks
                 if elt['time'].isocalendar()[1] > weeknumber]
     thisweek = [elt for elt in talks
