@@ -1,9 +1,3 @@
----
-title: Bean Theory
----
-# Bean Theory
-## a unified webpage for Number Theory seminars in the Boston area
-
 ### This week
 <ul>
 {% for talk in site.data.talks.thisweek %}
