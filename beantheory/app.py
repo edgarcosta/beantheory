@@ -4,10 +4,11 @@ import yaml
 from datetime import date, datetime
 from seminars import BU, MIT
 from seminars.STAGE import STAGES19
+from seminars.MIT import MITS19
 from utils import root_path
 
 def talks():
-    talks = sorted(BU().talks + MIT().talks + STAGES19().talks, key=lambda x: x['time'])
+    talks = sorted(BU().talks + MIT().talks + STAGES19().talks + MITS19().talks, key=lambda x: x['time'])
     today = date.today()
     _, weeknumber, weekday = today.isocalendar()
     if weekday == 7:  # sunday

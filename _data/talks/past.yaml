@@ -1,3 +1,10 @@
+- desc: null
+  place: MIT
+  room: 2-143
+  seminar: MIT NT
+  speaker: 'Emre Sert z '
+  time: 2019-01-08 16:30:00
+  url: http://math.mit.edu/nt/old/nts_s19.html
 - desc: ' Overview of the Pila-Wilkie strategy (Scanlon, O-minimality, Sections 1
     and 2)'
   place: MIT
@@ -14,6 +21,13 @@
   speaker: Yibo Ji
   time: 2019-02-15 15:00:00
   url: http://math.mit.edu/nt/old/stage_s19.html
+- desc: null
+  place: MIT
+  room: 2-143
+  seminar: MIT NT
+  speaker: Erick Knight
+  time: 2019-02-19 16:30:00
+  url: http://math.mit.edu/nt/old/nts_s19.html
 - desc: '  The Pila-Wilkie counting theorem'
   place: MIT
   room: 2-131
@@ -21,6 +35,20 @@
   speaker: Borys Kadets
   time: 2019-02-22 15:00:00
   url: http://math.mit.edu/nt/old/stage_s19.html
+- desc: null
+  place: MIT
+  room: 2-143
+  seminar: MIT NT
+  speaker: Ye Tian
+  time: 2019-02-26 16:30:00
+  url: http://math.mit.edu/nt/old/nts_s19.html
+- desc: null
+  place: MIT
+  room: 2-143
+  seminar: MIT NT
+  speaker: Valentijn Karemaker
+  time: 2019-03-05 16:30:00
+  url: http://math.mit.edu/nt/old/nts_s19.html
 - desc: '  Proof of the Manin-Mumford conjecture using o-minimality.'
   place: MIT
   room: 2-131
@@ -28,6 +56,13 @@
   speaker: Atticus Christensen
   time: 2019-03-08 15:00:00
   url: http://math.mit.edu/nt/old/stage_s19.html
+- desc: null
+  place: MIT
+  room: 2-143
+  seminar: MIT NT
+  speaker: Don Zagier
+  time: 2019-03-12 16:30:00
+  url: http://math.mit.edu/nt/old/nts_s19.html
 - desc: '  Pila''s Andr -Oort theorem.'
   place: MIT
   room: 2-131
@@ -35,6 +70,20 @@
   speaker: Yongyi Chen
   time: 2019-03-15 15:00:00
   url: http://math.mit.edu/nt/old/stage_s19.html
+- desc: null
+  place: MIT
+  room: 2-143
+  seminar: MIT NT
+  speaker: Luc Illusie, 3-4pm and 4:30-5:30pm
+  time: 2019-03-19 16:30:00
+  url: http://math.mit.edu/nt/old/nts_s19.html
+- desc: null
+  place: MIT
+  room: 2-143
+  seminar: MIT NT
+  speaker: Luis Garcia
+  time: 2019-04-02 16:30:00
+  url: http://math.mit.edu/nt/old/nts_s19.html
 - desc: ' Andre-Oort for A_g (meeting  10am-noon in 2-255 )'
   place: MIT
   room: 2-131
@@ -49,6 +98,13 @@
   speaker: Alex Best
   time: 2019-04-12 15:00:00
   url: http://math.mit.edu/nt/old/stage_s19.html
+- desc: null
+  place: MIT
+  room: 2-143
+  seminar: MIT NT
+  speaker: Ilya Khayutin
+  time: 2019-04-23 16:30:00
+  url: http://math.mit.edu/nt/old/nts_s19.html
 - desc: ''
   place: MIT
   room: 2-131
@@ -56,6 +112,20 @@
   speaker: Junho Peter Whang (meeting  10am-noon in 2-255 )
   time: 2019-04-26 15:00:00
   url: http://math.mit.edu/nt/old/stage_s19.html
+- desc: null
+  place: MIT
+  room: 2-143
+  seminar: MIT NT
+  speaker: 'Frank Thorne at  5:45pm sharp  '
+  time: 2019-04-30 16:30:00
+  url: http://math.mit.edu/nt/old/nts_s19.html
+- desc: null
+  place: MIT
+  room: 2-143
+  seminar: MIT NT
+  speaker: Rapha l Beuzart-Plessis
+  time: 2019-05-07 16:30:00
+  url: http://math.mit.edu/nt/old/nts_s19.html
 - desc: ''
   place: MIT
   room: 2-131
