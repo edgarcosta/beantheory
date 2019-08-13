@@ -1,4 +1,3 @@
-config.ini
 
 *.pyc
 *.pyo
@@ -8,7 +7,7 @@ config.ini
 *.swp
 *~
 
-flasklog
 
+_site/*
 
 
