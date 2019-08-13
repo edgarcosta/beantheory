@@ -1,61 +1,14 @@
-# -*- coding: utf-8 -*-
-from flask import Flask, render_template
-import datetime
-app = Flask(__name__)
-
-app.is_running = False
-def set_running():
-    app.is_running = True
-def is_running():
-    return app.is_running
-
-
-# If the debug toolbar is installed then use it
-if app.debug:
-    try:
-        from flask_debugtoolbar import DebugToolbarExtension
-        app.config['SECRET_KEY'] = '''shh, it's a secret'''
-        toolbar = DebugToolbarExtension(app)
-    except ImportError:
-        pass
-
-
-# tell jinja to remove linebreaks
-app.jinja_env.trim_blocks = True
-
-# enable break and continue in jinja loops
-app.jinja_env.add_extension('jinja2.ext.loopcontrols')
-app.jinja_env.add_extension('jinja2.ext.do')
-
-
-##############################
-#      Jinja formatters      #
-##############################
-
-# you can pass in a datetime.datetime python object and via
-# {{ <datetimeobject> | fmtdatetime }} you can format it inside a jinja template
-# if you want to do more than just the default, use it for example this way:
-# {{ <datetimeobject>|fmtdatetime('%H:%M:%S') }}
-@app.template_filter("fmtdatetime")
-def fmtdatetime(value, format='%b %d %H:%M'):
-    if isinstance(value, datetime.datetime):
-        return value.strftime(format)
-    else:
-        return "-"
-
-
-
-##############################
-#       Top-level pages      #
-##############################
+import os
+import yaml
+from datetime import date
+from seminars import BU, MIT
+from utils import root_path
 
 def talks():
-    from datetime import date
-    from seminars import BU, MIT
     talks = sorted(BU().talks + MIT().talks, key=lambda x: x['time'])
     today = date.today()
     _, weeknumber, weekday = today.isocalendar()
-    if weekday == 7: # sunday
+    if weekday == 7:  # sunday
         weeknumber += 1
     past = [elt for elt in talks
             if elt['time'].isocalendar()[1] < weeknumber]
@@ -66,10 +19,47 @@ def talks():
     return past, thisweek, upcoming
 
 
-@app.route("/")
-def index():
-    past, thisweek, upcoming = talks()
-    return render_template('index.html',
-        past=past,
-        thisweek=thisweek,
-        upcoming=upcoming)
+def yaml_talks(folder=None):
+    if folder is None:
+        folder = os.path.join(root_path(), '_data/talks')
+
+    for filename, data in zip(['past', 'thisweek', 'upcoming'], talks()):
+        with open(os.path.join(folder, filename + ".yaml")) as F:
+            F.write(yaml.safe_dump(data))
+
+
+def git_infos():
+    try:
+        from subprocess import Popen, PIPE
+        # cwd should be the root of git repo
+        cwd = root_path()
+        git_rev_cmd = '''git rev-parse HEAD'''
+        git_date_cmd = '''git show --format="%ci" -s HEAD'''
+        rev = Popen([git_rev_cmd], shell=True, stdout=PIPE, cwd=cwd).communicate()[0]
+        date = Popen([git_date_cmd], shell=True, stdout=PIPE, cwd=cwd).communicate()[0]
+        cmd_output = rev, date
+    except Exception:
+        cmd_output = '-', '-', '-'
+    return cmd_output
+
+def yaml_meta(folder=None):
+    if folder is None:
+        folder = os.path.join(root_path(), '_data/')
+    git_rev, git_date = git_infos()
+    data = {'git_rev': git_rev,
+        'git_data': git_data,
+        'now:' datetime.datetime.now()}
+    with open(os.path.join(folder, 'meta.yaml') as F:
+        F.write(yaml.safe_dump(data))
+
+
+def yaml_all(folder=None):
+    yaml_talks(folder)
+    yaml_meta(folder)
+
+
+
+
+
+
+
