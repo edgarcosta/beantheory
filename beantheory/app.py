@@ -1,6 +1,7 @@
+# -*- coding: utf-8 -*-
 import os
 import yaml
-from datetime import date
+from datetime import date, datetime
 from seminars import BU, MIT
 from utils import root_path
 
@@ -24,7 +25,7 @@ def yaml_talks(folder=None):
         folder = os.path.join(root_path(), '_data/talks')
 
     for filename, data in zip(['past', 'thisweek', 'upcoming'], talks()):
-        with open(os.path.join(folder, filename + ".yaml")) as F:
+        with open(os.path.join(folder, filename + ".yaml"), 'w') as F:
             F.write(yaml.safe_dump(data))
 
 
@@ -37,7 +38,7 @@ def git_infos():
         git_date_cmd = '''git show --format="%ci" -s HEAD'''
         rev = Popen([git_rev_cmd], shell=True, stdout=PIPE, cwd=cwd).communicate()[0]
         date = Popen([git_date_cmd], shell=True, stdout=PIPE, cwd=cwd).communicate()[0]
-        cmd_output = rev, date
+        cmd_output = rev.rstrip('\n'), date.rstrip('\n')
     except Exception:
         cmd_output = '-', '-', '-'
     return cmd_output
@@ -47,9 +48,9 @@ def yaml_meta(folder=None):
         folder = os.path.join(root_path(), '_data/')
     git_rev, git_date = git_infos()
     data = {'git_rev': git_rev,
-        'git_data': git_data,
-        'now:' datetime.datetime.now()}
-    with open(os.path.join(folder, 'meta.yaml') as F:
+        'git_date': git_date,
+        'now': datetime.now()}
+    with open(os.path.join(folder, 'meta.yaml'), 'w') as F:
         F.write(yaml.safe_dump(data))
 
 
