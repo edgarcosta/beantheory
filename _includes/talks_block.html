@@ -3,7 +3,7 @@
 <ul>
 {% for talk in include.talks %}
   <li>
-    {{ talk.time | date: "%b %d" }}
+    {{ talk.time | date: "%b %d %H:%M" }}
     at
     <a href="{{ talk.url}}" title="Usually at {{ talk.time | date : "%H:%M" }} in room {{talk.room}}">{{talk.place}}</a>
     -
