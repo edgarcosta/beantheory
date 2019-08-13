@@ -66,7 +66,9 @@ class STAGE(GenericSeminar):
         return res
 
 class STAGES19(STAGE):
+    name = "STAGE S19"
     url = "http://math.mit.edu/nt/old/stage_s19.html"
 
 class STAGEF18(STAGE):
     url = "http://math.mit.edu/nt/old/stage_f18.html"
+    name = "STAGE F18"

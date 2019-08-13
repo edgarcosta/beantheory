@@ -8,7 +8,13 @@ from seminars.MIT import MITS19
 from utils import root_path
 
 def talks():
-    talks = sorted(BU().talks + MIT().talks + STAGES19().talks + MITS19().talks, key=lambda x: x['time'])
+    talks = []
+    seminars = []
+    for s in [BU(), MIT(),  STAGES19(), MITS19()]:
+        talks += s.talks
+        seminars.append({"name": s.name, "url": s.url})
+    talks.sort(key=lambda x: x['time'])
+
     today = date.today()
     _, weeknumber, weekday = today.isocalendar()
     if weekday == 7:  # sunday
@@ -21,14 +27,14 @@ def talks():
                 if elt['time'].isocalendar()[1] > weeknumber]
     thisweek = [elt for elt in talks
                 if elt['time'].isocalendar()[1] == weeknumber]
-    return past, thisweek, upcoming
+    return past, thisweek, upcoming, seminars
 
 
 def yaml_talks(folder=None):
     if folder is None:
         folder = os.path.join(root_path(), '_data/talks')
 
-    for filename, data in zip(['past', 'thisweek', 'upcoming'], talks()):
+    for filename, data in zip(['past', 'thisweek', 'upcoming', 'seminars'], talks()):
         with open(os.path.join(folder, filename + ".yaml"), 'w') as F:
             F.write(yaml.safe_dump(data))
 

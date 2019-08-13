@@ -6,7 +6,7 @@ import dateutil.parser
 
 class BU(GenericSeminar):
     url = "http://math.bu.edu/research/algebra/seminar.html"
-    name = "BU"
+    name = "BU number theory seminar"
     place = "BU"
     room_regex = '(?<= in room )(.+)(?= unless)'
     time_regex = '(?<=talks at )([0-9]+):([0-9]+)(?= in)'

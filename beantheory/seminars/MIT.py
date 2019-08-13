@@ -5,7 +5,7 @@ from cached_property import cached_property
 
 class MIT(GenericSeminar):
     url = "http://math.mit.edu/nt/nts.html"
-    name = "MIT NT"
+    name = "MIT number theory seminar"
     place = "MIT"
     room_regex = r'(?<=in MIT room )(?:.+)(\d\-\d{3})(?:.+?)(?=\.)'
     time_regex = r'(?<=, )([0-9]+):([0-9]+)(?=\-[0-9]+:[0-9]+[a|p]m)'
@@ -52,5 +52,7 @@ class MIT(GenericSeminar):
 
 class MITS17(MIT):
     url = "http://math.mit.edu/nt/old/nts_s17.html"
+    name = "MIT number theory seminar Spring 17"
 class MITS19(MIT):
+    name = "MIT number theory seminar Spring 19"
     url = "http://math.mit.edu/nt/old/nts_s19.html"
