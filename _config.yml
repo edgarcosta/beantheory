@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 title: Bean Theory
-description: a unified webpage for Number Theory seminars in the Boston area
+description: Number Theory seminars in the Boston area
 show_downloads: "false"
 exclude: ["beantheory", "generate-data.py", "requirements.txt", "README.md"]

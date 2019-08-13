@@ -1,6 +1,8 @@
 # Bean Theory
 ## a unified webpage for Number Theory seminars in the Boston area
 
+beantheory.xyz
+
 
 To cover
 - [x] BU Number Theory: http://math.bu.edu/research/algebra/seminar.html
