@@ -54,16 +54,15 @@ class STAGE(GenericSeminar):
             time = day + self.time
 
             if '.' in row[1]:
-                author, desc = row[1].split('.', 1)
+                speaker, desc = row[1].split('.', 1)
             else:
-                author, desc = None, row[1]
+                speaker, desc = None, row[1]
 
-            res.append({
-                'time':time,
-                'speaker': author,
-                'desc': desc,
-                'place': self.place,
-                'room': self.room})
+            talk = dict(self.talk_constant)
+            talk['time'] = time
+            talk['speaker'] = speaker
+            talk['desc'] = desc
+            res.append(talk)
         return res
 
 class STAGES19(STAGE):

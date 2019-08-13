@@ -1,30 +1,42 @@
 - desc: null
   place: BU
   room: MCS B21
+  seminar: BU
   speaker: Daniel Disegni (Ben Gurion University)
   time: 2019-09-09 16:15:00
+  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   place: BU
   room: MCS B21
+  seminar: BU
   speaker: ' Benjamin Matschke (Boston University)'
   time: 2019-09-16 16:15:00
+  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   place: BU
   room: MCS B21
+  seminar: BU
   speaker: Alina Cojocaru (University of Illinois )
   time: 2019-10-07 16:15:00
+  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   place: MIT
   room: 2-143
+  seminar: MIT NT
   speaker: Ziyang Gao
   time: 2019-10-08 16:30:00
+  url: http://math.mit.edu/nt/nts.html
 - desc: null
   place: BU
   room: MCS B21
+  seminar: BU
   speaker: Margaret Bilu (Courant Institute, NYU)
   time: 2019-11-04 16:15:00
+  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   place: MIT
   room: 2-143
+  seminar: MIT NT
   speaker: Michael Stoll
   time: 2019-11-19 16:30:00
+  url: http://math.mit.edu/nt/nts.html

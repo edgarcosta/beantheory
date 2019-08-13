@@ -43,13 +43,11 @@ class MIT(GenericSeminar):
             except ValueError:
                 continue
             time = day + self.time
-
-            res.append({
-                'time': time,
-                'speaker': row[1],
-                'desc': None,
-                'place': self.place,
-                'room': self.room})
+            talk = dict(self.talk_constant)
+            talk['time'] = time
+            talk['speaker'] = row[1]
+            talk['desc'] = None
+            res.append(talk)
         return res
 
 class MITS17(MIT):

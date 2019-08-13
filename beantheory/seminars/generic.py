@@ -32,3 +32,10 @@ class GenericSeminar(object):
         table = parser.table[:]
         parser.close
         return table
+
+    @cached_property
+    def talk_constant(self):
+        return {'url': self.url,
+                'seminar': self.name,
+                'place': self.place,
+                'room': self.room}

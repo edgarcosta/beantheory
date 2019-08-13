@@ -1,45 +1,7 @@
-### This weekaa
-<ul>
-{% for talk in site.data.talks.thisweek %}
-  <li>
-    {{talk['time'] | fmtdatetime}}
-    - {{talk['speaker']}}
-    {% if talk['desc'] %}
-      <br>
-      {{ talk['desc'] }}
-    {% endif %}
-    <br>
-    at {{talk['place']}} - {{talk['room']}}
-  </li>
-  {% endfor %}
-</ul>
-### Upcoming
-<ul>
-{% for talk in site.data.talks.upcoming %}
-  <li>
-    {{talk['time'] | fmtdatetime}}
-    - {{talk['speaker']}}
-    {% if talk['desc'] %}
-      <br>
-      {{ talk['desc'] }}
-    {% endif %}
-    <br>
-    at {{talk['place']}} - {{talk['room']}}
-  </li>
-  {% endfor %}
-</ul>
-### Past
-<ul>
-{% for talk in site.data.talks.past %}
-  <li>
-    {{talk['time'] | fmtdatetime}}
-    - {{talk['speaker']}}
-    {% if talk['desc'] %}
-      <br>
-      {{ talk['desc'] }}
-    {% endif %}
-    <br>
-    at {{talk['place']}} - {{talk['room']}}
-  </li>
-  {% endfor %}
-</ul>
+---
+title: Bean Theory
+description: a unified webpage for Number Theory seminars in the Boston area
+---
+{% include talks_block.html title="This week" talks=site.data.talks.thisweek %}
+{% include talks_block.html title="Upcoming" talks=site.data.talks.upcoming %}
+{% include talks_block.html title="Past" talks=site.data.talks.past %}

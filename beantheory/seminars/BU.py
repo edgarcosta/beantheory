@@ -29,14 +29,13 @@ class BU(GenericSeminar):
                 day = dateutil.parser.parse(row[0])
             except ValueError:
                 continue
-            speaker = row[1]
-            desc = row[2]
-            if 'TBA' in desc:
-                desc = None
             time = day + self.time
-            res.append({'time': time,
-                'speaker': speaker,
-                'desc': desc,
-                'place': self.place,
-                'room': self.room})
+            talk = dict(self.talk_constant)
+            talk['time'] = time
+            talk['speaker'] = row[1]
+            talk['desc'] = row[2]
+            if 'TBA' in talk['desc']:
+                talk['desc'] = None
+            res.append(talk)
+
         return res
