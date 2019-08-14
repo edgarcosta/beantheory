@@ -64,6 +64,10 @@ class STAGE(GenericSeminar):
             else:
                 speaker, desc = row[1], None
 
+            if desc:
+                if re.match('^\s+$', desc):
+                    desc = None
+
             talk = dict(self.talk_constant)
             talk['time'] = time
             talk['speaker'] = speaker

@@ -1,4 +1,4 @@
-- desc: ' '
+- desc: null
   note: null
   place: MIT
   room: 2-131
@@ -22,7 +22,7 @@
   speaker: 'Frank Thorne at 5:45pm sharp  '
   time: 2019-04-30 16:30:00
   url: http://math.mit.edu/nt/old/nts_s19.html
-- desc: ' '
+- desc: null
   note: null
   place: MIT
   room: 2-131
