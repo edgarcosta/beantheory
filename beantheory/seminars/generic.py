@@ -51,7 +51,7 @@ class GenericSeminar(object):
             try:
                 # try to only parse the first two words
                 text = text.lstrip(" ")
-                words = text.split(" ", 3)
+                words = text.split(" ", 2)
                 twowords = " ".join(words[:2])
                 day = dateutil.parser.parse(twowords)
                 other = words[2]
