@@ -1,7 +1,7 @@
 # Bean Theory
 ## a unified webpage for Number Theory seminars in the Boston area
 
-beantheory.xyz
+https://beantheory.xyz
 
 
 To cover
