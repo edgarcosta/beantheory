@@ -1,8 +1,12 @@
-- name: BU number theory seminar
+- errors: 'Could not parse: u''No seminar '' to a date'
+  name: BU number theory seminar
   url: http://math.bu.edu/research/algebra/seminar.html
-- name: MIT number theory seminar
+- errors: ''
+  name: MIT number theory seminar
   url: http://math.mit.edu/nt/nts.html
-- name: STAGE S19
-  url: http://math.mit.edu/nt/old/stage_s19.html
-- name: MIT number theory seminar Spring 19
+- errors: ''
+  name: MIT number theory seminar Spring 19
   url: http://math.mit.edu/nt/old/nts_s19.html
+- errors: ''
+  name: STAGE S19
+  url: http://math.mit.edu/nt/old/stage_s19.html

@@ -4,11 +4,13 @@ from datetime import timedelta
 import re
 from cached_property import cached_property
 from beantheory.utils import TableParser
+import dateutil
 
 class GenericSeminar(object):
     def __init__(self):
         r = requests.get(self.url)
-        self.html = r.text.replace('\n','').replace('&nbsp;','')
+        self.html = r.text.replace('\n',' ').replace('&nbsp;',' ')
+        self.errors = []
 
     @cached_property
     def room(self):
@@ -39,3 +41,23 @@ class GenericSeminar(object):
                 'seminar': self.name,
                 'place': self.place,
                 'room': self.room}
+
+
+    def parse_day(self, text):
+        try:
+            day = dateutil.parser.parse(text)
+            other = None
+        except ValueError:
+            try:
+                # try to only parse the first two words
+                text = text.lstrip(" ")
+                words = text.split(" ", 3)
+                twowords = " ".join(words[:2])
+                day = dateutil.parser.parse(twowords)
+                other = words[2]
+            except ValueError:
+                self.errors.append('Could not parse: {} to a date'.format(repr(text)))
+                day = None
+                other = text
+
+        return day, other

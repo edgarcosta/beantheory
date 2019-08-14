@@ -1,4 +1,5 @@
-- desc: ''
+- desc: ' '
+  note: null
   place: MIT
   room: 2-131
   seminar: STAGE S19
@@ -6,20 +7,23 @@
   time: 2019-05-17 15:00:00
   url: http://math.mit.edu/nt/old/stage_s19.html
 - desc: null
+  note: null
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar Spring 19
-  speaker: "Rapha\xEBl Beuzart-Plessis"
+  speaker: "Rapha\xEBl Beuzart-Plessis "
   time: 2019-05-07 16:30:00
   url: http://math.mit.edu/nt/old/nts_s19.html
 - desc: null
+  note: null
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar Spring 19
-  speaker: 'Frank Thorne at 5:45pm sharp '
+  speaker: 'Frank Thorne at 5:45pm sharp  '
   time: 2019-04-30 16:30:00
   url: http://math.mit.edu/nt/old/nts_s19.html
-- desc: ''
+- desc: ' '
+  note: null
   place: MIT
   room: 2-131
   seminar: STAGE S19
@@ -27,20 +31,23 @@
   time: 2019-04-26 15:00:00
   url: http://math.mit.edu/nt/old/stage_s19.html
 - desc: null
+  note: null
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar Spring 19
-  speaker: Ilya Khayutin
+  speaker: 'Ilya Khayutin '
   time: 2019-04-23 16:30:00
   url: http://math.mit.edu/nt/old/nts_s19.html
-- desc: ' The Brauer-Siegel Theorem '
+- desc: ' The Brauer-Siegel Theorem  '
+  note: null
   place: MIT
   room: 2-131
   seminar: STAGE S19
   speaker: Alex Best
   time: 2019-04-12 15:00:00
   url: http://math.mit.edu/nt/old/stage_s19.html
-- desc: ' Andre-Oort for A_g (meeting 10am-noon in 2-255)'
+- desc: ' Andre-Oort for A_g (meeting 10am-noon in 2-255) '
+  note: null
   place: MIT
   room: 2-131
   seminar: STAGE S19
@@ -48,20 +55,23 @@
   time: 2019-04-05 15:00:00
   url: http://math.mit.edu/nt/old/stage_s19.html
 - desc: null
+  note: null
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar Spring 19
-  speaker: Luis Garcia
+  speaker: 'Luis Garcia '
   time: 2019-04-02 16:30:00
   url: http://math.mit.edu/nt/old/nts_s19.html
 - desc: null
+  note: null
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar Spring 19
-  speaker: Luc Illusie, 3-4pm and 4:30-5:30pm
+  speaker: 'Luc Illusie, 3-4pm and 4:30-5:30pm '
   time: 2019-03-19 16:30:00
   url: http://math.mit.edu/nt/old/nts_s19.html
-- desc: "  Pila's Andr\xE9-Oort theorem."
+- desc: "  Pila's Andr\xE9-Oort theorem. "
+  note: null
   place: MIT
   room: 2-131
   seminar: STAGE S19
@@ -69,13 +79,15 @@
   time: 2019-03-15 15:00:00
   url: http://math.mit.edu/nt/old/stage_s19.html
 - desc: null
+  note: null
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar Spring 19
-  speaker: Don Zagier
+  speaker: 'Don Zagier '
   time: 2019-03-12 16:30:00
   url: http://math.mit.edu/nt/old/nts_s19.html
-- desc: '  Proof of the Manin-Mumford conjecture using o-minimality.'
+- desc: '  Proof of the Manin-Mumford conjecture using o-minimality. '
+  note: null
   place: MIT
   room: 2-131
   seminar: STAGE S19
@@ -83,20 +95,23 @@
   time: 2019-03-08 15:00:00
   url: http://math.mit.edu/nt/old/stage_s19.html
 - desc: null
+  note: null
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar Spring 19
-  speaker: Valentijn Karemaker
+  speaker: 'Valentijn Karemaker '
   time: 2019-03-05 16:30:00
   url: http://math.mit.edu/nt/old/nts_s19.html
 - desc: null
+  note: null
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar Spring 19
-  speaker: Ye Tian
+  speaker: 'Ye Tian '
   time: 2019-02-26 16:30:00
   url: http://math.mit.edu/nt/old/nts_s19.html
-- desc: '  The Pila-Wilkie counting theorem'
+- desc: '  The Pila-Wilkie counting theorem '
+  note: null
   place: MIT
   room: 2-131
   seminar: STAGE S19
@@ -104,14 +119,16 @@
   time: 2019-02-22 15:00:00
   url: http://math.mit.edu/nt/old/stage_s19.html
 - desc: null
+  note: null
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar Spring 19
-  speaker: Erick Knight
+  speaker: 'Erick Knight '
   time: 2019-02-19 16:30:00
   url: http://math.mit.edu/nt/old/nts_s19.html
 - desc: '  Review of first-order logic, and o-minimality (Scanlon, O-minimality, Section
-    3)'
+    3) '
+  note: null
   place: MIT
   room: 2-131
   seminar: STAGE S19
@@ -119,7 +136,8 @@
   time: 2019-02-15 15:00:00
   url: http://math.mit.edu/nt/old/stage_s19.html
 - desc: ' Overview of the Pila-Wilkie strategy (Scanlon, O-minimality, Sections 1
-    and 2)'
+    and 2) '
+  note: null
   place: MIT
   room: 2-131
   seminar: STAGE S19
@@ -127,9 +145,10 @@
   time: 2019-02-08 15:00:00
   url: http://math.mit.edu/nt/old/stage_s19.html
 - desc: null
+  note: null
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar Spring 19
-  speaker: "Emre Sert\xF6z "
+  speaker: "Emre Sert\xF6z  "
   time: 2019-01-08 16:30:00
   url: http://math.mit.edu/nt/old/nts_s19.html

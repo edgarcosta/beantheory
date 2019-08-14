@@ -1,42 +1,56 @@
 - desc: null
+  note: null
   place: BU
   room: MCS B21
   seminar: BU number theory seminar
-  speaker: Daniel Disegni (Ben Gurion University)
+  speaker: ' Daniel Disegni   (Ben Gurion University) '
   time: 2019-09-09 16:15:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
+  note: null
   place: BU
   room: MCS B21
   seminar: BU number theory seminar
-  speaker: ' Benjamin Matschke (Boston University)'
+  speaker: '  Benjamin Matschke   (Boston University) '
   time: 2019-09-16 16:15:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
+  note: null
   place: BU
   room: MCS B21
   seminar: BU number theory seminar
-  speaker: Alina Cojocaru (University of Illinois )
+  speaker: ' Alina Cojocaru   (University of Illinois ) '
   time: 2019-10-07 16:15:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
+  note: null
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar
-  speaker: Ziyang Gao
+  speaker: 'Ziyang Gao '
   time: 2019-10-08 16:30:00
   url: http://math.mit.edu/nt/nts.html
 - desc: null
+  note: (Note
   place: BU
   room: MCS B21
   seminar: BU number theory seminar
-  speaker: Margaret Bilu (Courant Institute, NYU)
+  speaker: ' John Bergdall   (Bryn Mawr College) '
+  time: 2019-10-15 16:15:00
+  url: http://math.bu.edu/research/algebra/seminar.html
+- desc: null
+  note: null
+  place: BU
+  room: MCS B21
+  seminar: BU number theory seminar
+  speaker: ' Margaret Bilu   (Courant Institute, NYU) '
   time: 2019-11-04 16:15:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
+  note: null
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar
-  speaker: Michael Stoll
+  speaker: 'Michael Stoll '
   time: 2019-11-19 16:30:00
   url: http://math.mit.edu/nt/nts.html

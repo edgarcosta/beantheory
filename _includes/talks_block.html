@@ -8,8 +8,12 @@
     <a href="{{ talk.url}}" title="Usually at {{ talk.time | date : "%H:%M" }} in room {{talk.room}}">{{talk.place}}</a>
     -
     {{talk['speaker']}}
+    {% if talk.note %}
+      &mdash;
+      {{ talk.note }}
+    {% endif %}
     {% if talk.desc %}
-      <br>
+      &mdash;
       {{ talk.desc }}
     {% endif %}
   </li>

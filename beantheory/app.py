@@ -4,15 +4,17 @@ import yaml
 from datetime import date, datetime
 from seminars import BU, MIT
 from seminars.STAGE import STAGES19
-from seminars.MIT import MITS19
+from seminars.MIT import MITS19, MITS17
 from utils import root_path
 
 def talks():
     talks = []
     seminars = []
-    for s in [BU(), MIT(),  STAGES19(), MITS19()]:
+    for s in [BU(), MIT(), MITS19(), STAGES19()]:
         talks += s.talks
-        seminars.append({"name": s.name, "url": s.url})
+        seminars.append({"name": s.name,
+                         "url": s.url,
+                         "errors": "\n ".join(s.errors)})
     talks.sort(key=lambda x: x['time'])
 
     today = date.today()

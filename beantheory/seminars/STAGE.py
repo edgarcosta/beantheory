@@ -26,18 +26,24 @@ class STAGE(GenericSeminar):
         res = []
         # skip header
         for row in self.table:
+            # there are some empty rows in the table
+            if len(row) == 0:
+                continue
             # skip ill formed rows
             if len(row) != 1:
+                self.errors.append('Skipping ill formed row = {}'.format(row))
                 continue
 
-
             # fetch the first two words
-            s = row[0].split(' ', 2)
+            s = row[0].lstrip(' ').split(' ', 2)
             if len(s) != 3:
                 continue
             row = [s[0] + " " + s[1], s[2]]
             if ":" == row[0][-1]:
                 row[0] = row[0][:-1]
+            if ":" == row[1][0]:
+                row[1] = row[1][1:]
+
 
 
             # skip no meeting
@@ -47,21 +53,22 @@ class STAGE(GenericSeminar):
             # skip emtpy slots
             if re.match('^\s+$', row[1]):
                 continue
-            try:
-                day = dateutil.parser.parse(row[0])
-            except ValueError:
+
+            day, note = self.parse_day(row[0])
+            if day is None:
                 continue
             time = day + self.time
 
             if '.' in row[1]:
                 speaker, desc = row[1].split('.', 1)
             else:
-                speaker, desc = None, row[1]
+                speaker, desc = row[1], None
 
             talk = dict(self.talk_constant)
             talk['time'] = time
             talk['speaker'] = speaker
             talk['desc'] = desc
+            talk['note'] = note
             res.append(talk)
         return res
 
