@@ -1,1 +1,1 @@
-{% include talks_block.html title="Past" talks=site.data.talks.past %}
+{% include talks_block.html title="Previous" talks=site.data.talks.past %}
