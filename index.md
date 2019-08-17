@@ -1,6 +1,6 @@
 {% include talks_block.html title="This week" talks=site.data.talks.thisweek %}
 {% include talks_block.html title="Upcoming" talks=site.data.talks.upcoming %}
-### [Previous]{% link /previous.html %}
+### [Previous](./previous.html)
 
 #### Currently covering:
 <ul>
