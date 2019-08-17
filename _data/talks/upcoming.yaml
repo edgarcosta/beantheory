@@ -19,7 +19,15 @@
   place: BU
   room: MCS B21
   seminar: BU number theory seminar
-  speaker: ' Alina Cojocaru   (University of Illinois ) '
+  speaker: ' Charlotte Chan   (MIT) '
+  time: 2019-09-23 16:15:00
+  url: http://math.bu.edu/research/algebra/seminar.html
+- desc: null
+  note: null
+  place: BU
+  room: MCS B21
+  seminar: BU number theory seminar
+  speaker: ' Daniel Hast   (Boston University) '
   time: 2019-10-07 16:15:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
@@ -31,12 +39,20 @@
   time: 2019-10-08 16:30:00
   url: http://math.mit.edu/nt/nts.html
 - desc: null
-  note: '(Note special day.) '
+  note: '  (Note special day: TUESDAY.) '
   place: BU
   room: MCS B21
   seminar: BU number theory seminar
   speaker: ' John Bergdall   (Bryn Mawr College) '
   time: 2019-10-15 16:15:00
+  url: http://math.bu.edu/research/algebra/seminar.html
+- desc: null
+  note: null
+  place: BU
+  room: MCS B21
+  seminar: BU number theory seminar
+  speaker: ' Alexander Smith   (Harvard University) '
+  time: 2019-10-21 16:15:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   note: null

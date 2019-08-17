@@ -1,4 +1,4 @@
-- errors: 'Could not parse: u''No seminar '' to a date'
+- errors: ''
   name: BU number theory seminar
   url: http://math.bu.edu/research/algebra/seminar.html
 - errors: ''
