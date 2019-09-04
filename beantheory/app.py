@@ -2,15 +2,13 @@
 import os
 import yaml
 from datetime import date, datetime
-from seminars import BU, MIT
-from seminars.STAGE import STAGES19
-from seminars.MIT import MITS19, MITS17
+from seminars import BU, MIT, BC, TUFTS, STAGE
 from utils import root_path
 
 def talks():
     talks = []
     seminars = []
-    for s in [BU(), MIT(), MITS19(), STAGES19()]:
+    for s in [BU(), MIT(), TUFTS(), BC(), STAGE()]:
         talks += s.talks
         seminars.append({"name": s.name,
                          "url": s.url,
@@ -18,17 +16,18 @@ def talks():
     talks.sort(key=lambda x: x['time'])
 
     today = date.today()
-    _, weeknumber, weekday = today.isocalendar()
+    year, weeknumber, weekday = today.isocalendar()
     if weekday == 7:  # sunday
         weeknumber += 1
+    ywpair = (year, weeknumber)
     past = [elt for elt in talks
-            if elt['time'].isocalendar()[1] < weeknumber]
+            if tuple(elt['time'].isocalendar()[:2]) < ywpair]
     # reverse ordering on the past seminars
     past.reverse()
     upcoming = [elt for elt in talks
-                if elt['time'].isocalendar()[1] > weeknumber]
+                if tuple(elt['time'].isocalendar()[:2]) > ywpair]
     thisweek = [elt for elt in talks
-                if elt['time'].isocalendar()[1] == weeknumber]
+                if tuple(elt['time'].isocalendar()[:2]) == ywpair]
     return past, thisweek, upcoming, seminars
 
 

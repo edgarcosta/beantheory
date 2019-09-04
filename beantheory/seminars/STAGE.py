@@ -50,6 +50,10 @@ class STAGE(GenericSeminar):
             if 'no meeting' in row[1].lower():
                 continue
 
+            # skip no seminar
+            if 'no seminar' in row[1].lower():
+                continue
+
             # skip emtpy slots
             if re.match('^\s+$', row[1]):
                 continue

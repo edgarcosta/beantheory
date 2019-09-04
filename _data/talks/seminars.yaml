@@ -5,8 +5,11 @@
   name: MIT number theory seminar
   url: http://math.mit.edu/nt/nts.html
 - errors: ''
-  name: MIT number theory seminar Spring 19
-  url: http://math.mit.edu/nt/old/nts_s19.html
+  name: Tufts Algebra, Geometry, and Number Theory Seminar
+  url: https://sites.google.com/view/tuftsagents/home
 - errors: ''
-  name: STAGE S19
-  url: http://math.mit.edu/nt/old/stage_s19.html
+  name: BC NT & AG Seminar
+  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- errors: ''
+  name: STAGE
+  url: http://math.mit.edu/nt/stage.html

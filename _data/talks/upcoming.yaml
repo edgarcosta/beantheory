@@ -1,34 +1,82 @@
-- desc: null
+- desc: '   p-adic equidistribution of CM points and applications  '
   note: null
   place: BU
-  room: MCS B21
+  room: MCS B31
   seminar: BU number theory seminar
   speaker: ' Daniel Disegni   (Ben Gurion University) '
-  time: 2019-09-09 16:15:00
+  time: 2019-09-09 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   note: null
+  place: MIT
+  room: 2-143
+  seminar: MIT number theory seminar
+  speaker: 'Raymond van Bommel '
+  time: 2019-09-10 16:30:00-04:00
+  url: http://math.mit.edu/nt/nts.html
+- desc: null
+  note: null
+  place: MIT
+  room: 2-132
+  seminar: STAGE
+  speaker: 'Formal group laws (Zink, Chapter 1, Sections 6-10) '
+  time: 2019-09-13 10:00:00-04:00
+  url: http://math.mit.edu/nt/stage.html
+- desc: null
+  note: null
   place: BU
-  room: MCS B21
+  room: MCS B31
   seminar: BU number theory seminar
   speaker: '  Benjamin Matschke   (Boston University) '
-  time: 2019-09-16 16:15:00
+  time: 2019-09-16 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   note: null
   place: BU
-  room: MCS B21
+  room: MCS B31
   seminar: BU number theory seminar
   speaker: ' Charlotte Chan   (MIT) '
-  time: 2019-09-23 16:15:00
+  time: 2019-09-23 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   note: null
+  place: MIT
+  room: 2-143
+  seminar: MIT number theory seminar
+  speaker: 'Wanlin Li '
+  time: 2019-09-24 16:30:00-04:00
+  url: http://math.mit.edu/nt/nts.html
+- desc: ' Formal groups as functors (Zink, Chapter 2, Sections 1-3) '
+  note: null
+  place: MIT
+  room: 2-132
+  seminar: STAGE
+  speaker: Hyuk Jun Kweon
+  time: 2019-09-27 10:00:00-04:00
+  url: http://math.mit.edu/nt/stage.html
+- desc: null
+  note: null
+  place: MIT
+  room: 2-143
+  seminar: MIT number theory seminar
+  speaker: 'Sam Schiavone '
+  time: 2019-10-01 16:30:00-04:00
+  url: http://math.mit.edu/nt/nts.html
+- desc: null
+  note: null
+  place: MIT
+  room: 2-132
+  seminar: STAGE
+  speaker: 'Formal groups as functors (Zink, Chapter 2, Sections 4-6) '
+  time: 2019-10-04 10:00:00-04:00
+  url: http://math.mit.edu/nt/stage.html
+- desc: null
+  note: null
   place: BU
-  room: MCS B21
+  room: MCS B31
   seminar: BU number theory seminar
   speaker: ' Daniel Hast   (Boston University) '
-  time: 2019-10-07 16:15:00
+  time: 2019-10-07 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   note: null
@@ -36,31 +84,69 @@
   room: 2-143
   seminar: MIT number theory seminar
   speaker: 'Ziyang Gao '
-  time: 2019-10-08 16:30:00
+  time: 2019-10-08 16:30:00-04:00
   url: http://math.mit.edu/nt/nts.html
 - desc: null
   note: '  (Note special day: TUESDAY.) '
   place: BU
-  room: MCS B21
+  room: MCS B31
   seminar: BU number theory seminar
   speaker: ' John Bergdall   (Bryn Mawr College) '
-  time: 2019-10-15 16:15:00
+  time: 2019-10-15 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   note: null
   place: BU
-  room: MCS B21
+  room: MCS B31
   seminar: BU number theory seminar
   speaker: ' Alexander Smith   (Harvard University) '
-  time: 2019-10-21 16:15:00
+  time: 2019-10-21 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   note: null
+  place: MIT
+  room: 2-143
+  seminar: MIT number theory seminar
+  speaker: "Francesc Fit\xE9 "
+  time: 2019-10-22 16:30:00-04:00
+  url: http://math.mit.edu/nt/nts.html
+- desc: null
+  place: Tufts
+  room: Bromfield-Pearson 101
+  seminar: Tufts Algebra, Geometry, and Number Theory Seminar
+  speaker: Benjamin Linowitz (Oberlin)
+  time: 2019-10-24 16:30:00-04:00
+  url: https://sites.google.com/view/tuftsagents/home
+- desc: null
+  note: null
   place: BU
-  room: MCS B21
+  room: MCS B31
   seminar: BU number theory seminar
   speaker: ' Margaret Bilu   (Courant Institute, NYU) '
-  time: 2019-11-04 16:15:00
+  time: 2019-11-04 16:15:00-05:00
+  url: http://math.bu.edu/research/algebra/seminar.html
+- desc: null
+  note: null
+  place: MIT
+  room: 2-143
+  seminar: MIT number theory seminar
+  speaker: 'Andreas Mihatsch '
+  time: 2019-11-05 16:30:00-05:00
+  url: http://math.mit.edu/nt/nts.html
+- desc: null
+  place: Tufts
+  room: Bromfield-Pearson 101
+  seminar: Tufts Algebra, Geometry, and Number Theory Seminar
+  speaker: Brandon Alberts (UConn)
+  time: 2019-11-07 16:30:00-05:00
+  url: https://sites.google.com/view/tuftsagents/home
+- desc: null
+  note: null
+  place: BU
+  room: MCS B31
+  seminar: BU number theory seminar
+  speaker: ' Wanlin Li   (MIT) '
+  time: 2019-11-11 16:15:00-05:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   note: null
@@ -68,5 +154,12 @@
   room: 2-143
   seminar: MIT number theory seminar
   speaker: 'Michael Stoll '
-  time: 2019-11-19 16:30:00
+  time: 2019-11-19 16:30:00-05:00
   url: http://math.mit.edu/nt/nts.html
+- desc: null
+  place: Tufts
+  room: Bromfield-Pearson 101
+  seminar: Tufts Algebra, Geometry, and Number Theory Seminar
+  speaker: Aaron Landesman (Stanford)
+  time: 2019-11-21 16:30:00-05:00
+  url: https://sites.google.com/view/tuftsagents/home

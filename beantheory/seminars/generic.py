@@ -5,6 +5,10 @@ import re
 from cached_property import cached_property
 from beantheory.utils import TableParser
 import dateutil
+from pytz import timezone
+
+
+eastern = timezone('US/Eastern')
 
 class GenericSeminar(object):
     def __init__(self):
@@ -59,5 +63,8 @@ class GenericSeminar(object):
                 self.errors.append('Could not parse: {} to a date'.format(repr(text)))
                 day = None
                 other = text
+
+        if day:
+            day = eastern.localize(day)
 
         return day, other
