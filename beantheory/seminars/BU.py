@@ -8,6 +8,7 @@ class BU(GenericSeminar):
     url = "http://math.bu.edu/research/algebra/seminar.html"
     name = "BU number theory seminar"
     place = "BU"
+    label = "BU"
     room_regex = '(?<= in room )(.+)(?= unless)'
     time_regex = '(?<=talks at )([0-9]+):([0-9]+)(?= in)'
     table_regex = '(?<=<table BORDER=3 CELLSPACING=0 CELLPADDING=8 >)((.|\n)*)(?=</table>)'

@@ -28,7 +28,8 @@ class IcalSeminar(object):
         return {'url': self.url,
                 'seminar': self.name,
                 'place': self.place,
-                'room': self.room}
+                'room': self.room,
+                'label': self.label}
 
     @cached_property
     def table(self):

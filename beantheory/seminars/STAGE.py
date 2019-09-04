@@ -9,6 +9,7 @@ class STAGE(GenericSeminar):
     url = "http://math.mit.edu/nt/stage.html"
     name = "STAGE"
     place = "MIT"
+    label = "STAGE"
     room_regex = r'(?<=in MIT room )(?:.+)(\d\-\d{3})(?:.+)(?=, unless indicated otherwise below)'
     table_regex = r'(?<=<TABLE BORDER=5 CELLPADDING=10 width=100% >)((.|\n)*)(?=</TABLE>)'
 

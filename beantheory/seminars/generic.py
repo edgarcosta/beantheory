@@ -44,7 +44,8 @@ class GenericSeminar(object):
         return {'url': self.url,
                 'seminar': self.name,
                 'place': self.place,
-                'room': self.room}
+                'room': self.room,
+                'label': self.label}
 
 
     def parse_day(self, text):

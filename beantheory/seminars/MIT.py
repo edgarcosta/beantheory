@@ -7,6 +7,7 @@ class MIT(GenericSeminar):
     url = "http://math.mit.edu/nt/nts.html"
     name = "MIT number theory seminar"
     place = "MIT"
+    label = "MIT"
     room_regex = r'(?<=in MIT room )(?:.+)(\d\-\d{3})(?:.+?)(?=\.)'
     time_regex = r'(?<=, )([0-9]+):([0-9]+)(?=\-[0-9]+:[0-9]+[a|p]m)'
     table_regex = r'(?<=<TABLE BORDER=5 CELLPADDING=10 width=100% >)((.|\n)*)(?=</TABLE>)'
