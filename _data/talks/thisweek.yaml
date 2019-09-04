@@ -1,4 +1,5 @@
 - desc: Conifold transitions and mirror symmetry
+  label: BC
   place: BC
   room: Maloney 560
   seminar: BC NT & AG Seminar
@@ -6,6 +7,7 @@
   time: 2019-09-05 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: ' Formal group laws (Zink, Chapter 1, Sections 1-5) '
+  label: STAGE
   note: null
   place: MIT
   room: 2-132

@@ -1,4 +1,4 @@
 cached-property
-dateutil
+python-dateutil
 icalendar
 pyyaml
