@@ -12,7 +12,11 @@ class BC(IcalSeminar):
     room = "Maloney 560"
 
     def speaker_parser(self, x):
-        return x[15:] if x.startswith('NT&AG Seminar: ') else x
+        if x.startswith('NT&AG Seminar: '):
+            return x[15:]
+        else:
+            print "x"
+            return x
 
     def desc_parser(self, text):
         if text and text.lstrip().startswith('Title: '):
