@@ -54,7 +54,7 @@ class IcalSeminar(object):
         for time, speaker, desc, location in self.table:
             talk = dict(self.talk_constant)
             talk['time'] = time
-            self.speaker_parser(speaker)
+            speaker = self.speaker_parser(speaker)
             if not speaker or 'TBA' in speaker or 'TBD' in speaker:
                 continue
             talk['speaker'] = speaker

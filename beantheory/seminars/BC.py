@@ -15,7 +15,6 @@ class BC(IcalSeminar):
         if x.startswith('NT&AG Seminar: '):
             return x[15:]
         else:
-            print x
             return x
 
     def desc_parser(self, text):
