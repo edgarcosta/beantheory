@@ -15,7 +15,7 @@ $(document).ready(function () {
     if( $(this).text() == 'Show' ) {
       talks.show("fast");
       document.cookie = label + '=True;path=/';
-      $(this).text('True');
+      $(this).text('Hide');
     } else {
       talks.hide("fast");
       document.cookie = label + '=False;path=/';
