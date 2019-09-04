@@ -1,8 +1,8 @@
 ### {{ include.title }}
 {% if include.talks.size > 0%}
-<ul>
+<ul class="talks">
 {% for talk in include.talks %}
-  <li>
+  <li class="{{talk['label']}}">
     {{ talk.time | date: "%a %b %d, %H:%M" }}
     at
     <a href="{{ talk.url}}" title="Usually at {{ talk.time | date : "%H:%M" }} in room {{talk.room}}">{{talk.place}}</a>

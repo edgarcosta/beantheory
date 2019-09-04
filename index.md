@@ -10,6 +10,7 @@
   {% if s.errors != ''%}
     {% include cross.html title=s.errors %}
   {% endif %}
+  (<a href="#" id="{{s.label}}" class="button-toggle" >Hide</a>)
   </li>
 {% endfor %}
 </ul>
