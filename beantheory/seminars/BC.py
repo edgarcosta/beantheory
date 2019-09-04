@@ -10,8 +10,6 @@ class BC(IcalSeminar):
     place = "BC"
     label = "BC"
     room = "Maloney 560"
-    speaker_parser = lambda x: x[15:] if x.startswith('NT&AG Seminar: ') else x
-    desc_parser = lambda x: only_title(x)
 
     def speaker_parser(self, x):
         return x[15:] if x.startswith('NT&AG Seminar: ') else x
