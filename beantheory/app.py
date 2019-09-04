@@ -16,6 +16,8 @@ def talks():
                          "label": s.label})
     talks.sort(key=lambda x: x['time'])
 
+    seminars.sort(key=lambda x: x['name'])
+
     today = date.today()
     year, weeknumber, weekday = today.isocalendar()
     if weekday == 7:  # sunday
