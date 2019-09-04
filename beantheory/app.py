@@ -12,7 +12,8 @@ def talks():
         talks += s.talks
         seminars.append({"name": s.name,
                          "url": s.url,
-                         "errors": "\n ".join(s.errors)})
+                         "errors": "\n ".join(s.errors),
+                         "label": s.label})
     talks.sort(key=lambda x: x['time'])
 
     today = date.today()
