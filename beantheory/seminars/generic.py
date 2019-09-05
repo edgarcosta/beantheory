@@ -4,7 +4,6 @@ from datetime import timedelta
 import re
 from cached_property import cached_property
 from beantheory.utils import TableParser
-import dateutil
 from pytz import timezone
 
 
@@ -30,7 +29,7 @@ class GenericSeminar(object):
         return timedelta(hours=h, minutes=m)
 
     @cached_property
-    def table(self):
+    def html_table(self):
         table_text = re.search(self.table_regex, self.html).group(1)
 
         parser = TableParser()
@@ -38,6 +37,10 @@ class GenericSeminar(object):
         table = parser.table[:]
         parser.close
         return table
+
+    @cached_property
+    def table(self):
+        return self.html_table
 
     @cached_property
     def talk_constant(self):
@@ -49,8 +52,9 @@ class GenericSeminar(object):
 
 
     def parse_day(self, text):
+        from dateutil import parser
         try:
-            day = dateutil.parser.parse(text)
+            day = parser.parse(text)
             other = None
         except ValueError:
             try:
@@ -58,7 +62,7 @@ class GenericSeminar(object):
                 text = text.lstrip(" ")
                 words = text.split(" ", 2)
                 twowords = " ".join(words[:2])
-                day = dateutil.parser.parse(twowords)
+                day = parser.parse(twowords)
                 other = words[2]
             except ValueError:
                 self.errors.append('Could not parse: {} to a date'.format(repr(text)))
