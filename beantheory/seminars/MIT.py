@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
-from generic import GenericSeminar
+from ical import IcalSeminar
 from cached_property import cached_property
 import re
 
-class MIT(GenericSeminar):
+class MIT(IcalSeminar):
     url = "http://math.mit.edu/nt/nts.html"
+    cal_url = 'http://calendar.mit.edu/search/events.ics?search="MIT+Number+Theory+Seminar"'
     name = "MIT number theory seminar"
     place = "MIT"
     label = "MIT"
@@ -13,7 +14,7 @@ class MIT(GenericSeminar):
     table_regex = r'(?<=<TABLE BORDER=5 CELLPADDING=10 width=100% >)((.|\n)*)(?=</TABLE>)'
 
     @cached_property
-    def talks(self):
+    def html_talks(self):
         res = []
         # skip header
         for row in self.table:
@@ -57,6 +58,43 @@ class MIT(GenericSeminar):
             talk['desc'] = None
             talk['note'] = note
             res.append(talk)
+        return res
+
+    @cached_property
+    def ical_talks(self):
+        res = []
+        for time, summary, desc, location in self.ical_table:
+            if summary != 'MIT Number Theory Seminar':
+                continue
+            talk = dict(self.talk_constant)
+            talk['time'] = time
+            # the speaker is the first line
+            speaker = desc.split('\n',1)[0]
+            talk['speaker'] = speaker
+            # this gets the title between utf-8 quotes
+            title = re.search(u'\xe2\x80\x9c((.|\n)*?)\xe2\x80\x9d', desc.decode('utf-8'))
+            if desc:
+                talk['desc'] = title.group(1)
+            else:
+                talk['desc'] = None
+            if location:
+                talk['room'] = location
+
+            res.append(talk)
+        return res
+
+
+    @cached_property
+    def talks(self):
+        res = self.ical_talks
+        days = {elt['time'].date() for elt in res}
+        for elt in self.html_talks:
+            d = elt['time'].date()
+            if d in days:
+                continue
+            res.append(elt)
+
+        res.sort(key=lambda x: x['time'])
         return res
 
 class MITS17(MIT):

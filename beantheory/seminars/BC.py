@@ -71,7 +71,6 @@ class BC(IcalSeminar):
             if d in days:
                 continue
             res.append(elt)
-            #days.add(d)
 
         res.sort(key=lambda x: x['time'])
         return res

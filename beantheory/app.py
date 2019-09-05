@@ -22,23 +22,24 @@ def talks():
     year, weeknumber, weekday = today.isocalendar()
     if weekday == 7:  # sunday
         weeknumber += 1
-    ywpair = (year, weeknumber)
     past = [elt for elt in talks
-            if tuple(elt['time'].isocalendar()[:2]) < ywpair]
+            if tuple(elt['time'].isocalendar()[:2]) < (year, weeknumber)]
     # reverse ordering on the past seminars
     past.reverse()
     upcoming = [elt for elt in talks
-                if tuple(elt['time'].isocalendar()[:2]) > ywpair]
+                if tuple(elt['time'].isocalendar()[:2]) > (year, weeknumber + 1)]
     thisweek = [elt for elt in talks
-                if tuple(elt['time'].isocalendar()[:2]) == ywpair]
-    return past, thisweek, upcoming, seminars
+                if tuple(elt['time'].isocalendar()[:2]) == (year, weeknumber)]
+    nextweek = [elt for elt in talks
+                if tuple(elt['time'].isocalendar()[:2]) == (year, weeknumber + 1)]
+    return past, thisweek, nextweek, upcoming, seminars
 
 
 def yaml_talks(folder=None):
     if folder is None:
         folder = os.path.join(root_path(), '_data/talks')
 
-    for filename, data in zip(['past', 'thisweek', 'upcoming', 'seminars'], talks()):
+    for filename, data in zip(['past', 'thisweek', 'nextweek', 'upcoming', 'seminars'], talks()):
         with open(os.path.join(folder, filename + ".yaml"), 'w') as F:
             F.write(yaml.safe_dump(data))
 

@@ -1,4 +1,5 @@
 {% include talks_block.html title="This week" talks=site.data.talks.thisweek %}
+{% include talks_block.html title="Next week" talks=site.data.talks.nextweek %}
 {% include talks_block.html title="Upcoming" talks=site.data.talks.upcoming %}
 ### [Previous](./previous.html)
 
