@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 from generic import GenericSeminar
-import dateutil
 from cached_property import cached_property
 import re
 from datetime import timedelta

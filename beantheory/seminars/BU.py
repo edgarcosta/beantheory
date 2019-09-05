@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 from generic import GenericSeminar
 from cached_property import cached_property
-import dateutil.parser
 
 
 class BU(GenericSeminar):
