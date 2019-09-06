@@ -74,7 +74,7 @@ class STAGE(GenericSeminar):
 
             talk = dict(self.talk_constant)
             talk['time'] = time
-            talk['speaker'] = speaker
+            talk['speaker'] = '[STAGE] ' + speaker
             talk['desc'] = desc
             talk['note'] = note
             res.append(talk)
