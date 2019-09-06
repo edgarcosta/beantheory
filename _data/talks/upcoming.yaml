@@ -57,7 +57,7 @@
   place: MIT
   room: 2-132
   seminar: STAGE
-  speaker: Hyuk Jun Kweon
+  speaker: '[STAGE] Hyuk Jun Kweon'
   time: 2019-09-27 10:00:00-04:00
   url: http://math.mit.edu/nt/stage.html
 - desc: null
@@ -84,7 +84,7 @@
   place: MIT
   room: 2-132
   seminar: STAGE
-  speaker: 'Formal groups as functors (Zink, Chapter 2, Sections 4-6) '
+  speaker: '[STAGE] Formal groups as functors (Zink, Chapter 2, Sections 4-6) '
   time: 2019-10-04 10:00:00-04:00
   url: http://math.mit.edu/nt/stage.html
 - desc: null
