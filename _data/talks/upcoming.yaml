@@ -28,7 +28,7 @@
 - desc: null
   label: MIT
   note: null
-  place: MIT-NT
+  place: MIT
   room: 2-143
   seminar: MIT number theory seminar
   speaker: 'Wanlin Li '
@@ -63,7 +63,7 @@
 - desc: null
   label: MIT
   note: null
-  place: MIT-NT
+  place: MIT
   room: 2-143
   seminar: MIT number theory seminar
   speaker: 'Sam Schiavone '
@@ -99,7 +99,7 @@
 - desc: null
   label: MIT
   note: null
-  place: MIT-NT
+  place: MIT
   room: 2-143
   seminar: MIT number theory seminar
   speaker: 'Ziyang Gao '
@@ -152,7 +152,7 @@
 - desc: null
   label: MIT
   note: null
-  place: MIT-NT
+  place: MIT
   room: 2-143
   seminar: MIT number theory seminar
   speaker: "Francesc Fit\xE9 "
@@ -187,7 +187,7 @@
 - desc: null
   label: MIT
   note: null
-  place: MIT-NT
+  place: MIT
   room: 2-143
   seminar: MIT number theory seminar
   speaker: 'Andreas Mihatsch '
@@ -222,7 +222,7 @@
 - desc: null
   label: MIT
   note: null
-  place: MIT-NT
+  place: MIT
   room: 2-143
   seminar: MIT number theory seminar
   speaker: 'Anup Dixit '
@@ -248,7 +248,7 @@
 - desc: null
   label: MIT
   note: null
-  place: MIT-NT
+  place: MIT
   room: 2-143
   seminar: MIT number theory seminar
   speaker: 'Michael Stoll '
