@@ -115,6 +115,14 @@
   time: 2019-10-10 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: null
+  label: TUFTS
+  place: Tufts
+  room: Bromfield-Pearson 101
+  seminar: Tufts Algebra, Geometry, and Number Theory Seminar
+  speaker: Wanlin Li (MIT)
+  time: 2019-10-10 16:30:00-04:00
+  url: https://sites.google.com/view/tuftsagents/home
+- desc: null
   label: BU
   note: '  (Note special day: TUESDAY.) '
   place: BU
@@ -212,6 +220,15 @@
   time: 2019-11-11 16:15:00-05:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
+  label: MIT
+  note: null
+  place: MIT
+  room: 2-143
+  seminar: MIT number theory seminar
+  speaker: 'Anup Dixit '
+  time: 2019-11-12 16:30:00-05:00
+  url: http://math.mit.edu/nt/nts.html
+- desc: null
   label: BC
   note: null
   place: BC
@@ -220,6 +237,14 @@
   speaker: ' Jennifer Balakrishnan (BU) '
   time: 2019-11-14 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: null
+  label: TUFTS
+  place: Tufts
+  room: Bromfield-Pearson 101
+  seminar: Tufts Algebra, Geometry, and Number Theory Seminar
+  speaker: Nicole Looper (Brown)
+  time: 2019-11-14 16:30:00-05:00
+  url: https://sites.google.com/view/tuftsagents/home
 - desc: null
   label: MIT
   note: null
@@ -255,3 +280,11 @@
   speaker: ' Nicole Looper (Brown) '
   time: 2019-12-05 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: null
+  label: TUFTS
+  place: Tufts
+  room: Bromfield-Pearson 101
+  seminar: Tufts Algebra, Geometry, and Number Theory Seminar
+  speaker: Naomi Tanabe (Bowdoin)
+  time: 2019-12-05 16:30:00-05:00
+  url: https://sites.google.com/view/tuftsagents/home
