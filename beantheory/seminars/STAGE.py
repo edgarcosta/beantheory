@@ -7,7 +7,7 @@ from datetime import timedelta
 class STAGE(GenericSeminar):
     url = "http://math.mit.edu/nt/stage.html"
     name = "STAGE"
-    place = "MIT"
+    place = "MIT-STAGE"
     label = "STAGE"
     room_regex = r'(?<=in MIT room )(?:.+)(\d\-\d{3})(?:.+)(?=, unless indicated otherwise below)'
     table_regex = r'(?<=<TABLE BORDER=5 CELLPADDING=10 width=100% >)((.|\n)*)(?=</TABLE>)'
@@ -74,7 +74,7 @@ class STAGE(GenericSeminar):
 
             talk = dict(self.talk_constant)
             talk['time'] = time
-            talk['speaker'] = '[STAGE] ' + speaker
+            talk['speaker'] = speaker
             talk['desc'] = desc
             talk['note'] = note
             res.append(talk)

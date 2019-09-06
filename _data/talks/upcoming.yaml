@@ -28,7 +28,7 @@
 - desc: null
   label: MIT
   note: null
-  place: MIT
+  place: MIT-NT
   room: 2-143
   seminar: MIT number theory seminar
   speaker: 'Wanlin Li '
@@ -54,16 +54,16 @@
 - desc: ' Formal groups as functors (Zink, Chapter 2, Sections 1-3) '
   label: STAGE
   note: null
-  place: MIT
+  place: MIT-STAGE
   room: 2-132
   seminar: STAGE
-  speaker: '[STAGE] Hyuk Jun Kweon'
+  speaker: Hyuk Jun Kweon
   time: 2019-09-27 10:00:00-04:00
   url: http://math.mit.edu/nt/stage.html
 - desc: null
   label: MIT
   note: null
-  place: MIT
+  place: MIT-NT
   room: 2-143
   seminar: MIT number theory seminar
   speaker: 'Sam Schiavone '
@@ -81,10 +81,10 @@
 - desc: null
   label: STAGE
   note: null
-  place: MIT
+  place: MIT-STAGE
   room: 2-132
   seminar: STAGE
-  speaker: '[STAGE] Formal groups as functors (Zink, Chapter 2, Sections 4-6) '
+  speaker: 'Formal groups as functors (Zink, Chapter 2, Sections 4-6) '
   time: 2019-10-04 10:00:00-04:00
   url: http://math.mit.edu/nt/stage.html
 - desc: null
@@ -99,7 +99,7 @@
 - desc: null
   label: MIT
   note: null
-  place: MIT
+  place: MIT-NT
   room: 2-143
   seminar: MIT number theory seminar
   speaker: 'Ziyang Gao '
@@ -152,7 +152,7 @@
 - desc: null
   label: MIT
   note: null
-  place: MIT
+  place: MIT-NT
   room: 2-143
   seminar: MIT number theory seminar
   speaker: "Francesc Fit\xE9 "
@@ -187,7 +187,7 @@
 - desc: null
   label: MIT
   note: null
-  place: MIT
+  place: MIT-NT
   room: 2-143
   seminar: MIT number theory seminar
   speaker: 'Andreas Mihatsch '
@@ -222,7 +222,7 @@
 - desc: null
   label: MIT
   note: null
-  place: MIT
+  place: MIT-NT
   room: 2-143
   seminar: MIT number theory seminar
   speaker: 'Anup Dixit '
@@ -248,7 +248,7 @@
 - desc: null
   label: MIT
   note: null
-  place: MIT
+  place: MIT-NT
   room: 2-143
   seminar: MIT number theory seminar
   speaker: 'Michael Stoll '

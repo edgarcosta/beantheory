@@ -10,7 +10,7 @@
 - desc: Boundedness in families of projective varieties with applications to arithmetic
     hyperbolicity
   label: MIT
-  place: MIT
+  place: MIT-NT
   room: 2-143
   seminar: MIT number theory seminar
   speaker: Raymond van Bommel (MIT)
@@ -28,9 +28,9 @@
 - desc: null
   label: STAGE
   note: null
-  place: MIT
+  place: MIT-STAGE
   room: 2-132
   seminar: STAGE
-  speaker: '[STAGE] Formal group laws (Zink, Chapter 1, Sections 6-10) '
+  speaker: 'Formal group laws (Zink, Chapter 1, Sections 6-10) '
   time: 2019-09-13 10:00:00-04:00
   url: http://math.mit.edu/nt/stage.html

@@ -7,7 +7,7 @@ class MIT(IcalSeminar):
     url = "http://math.mit.edu/nt/nts.html"
     cal_url = 'http://calendar.mit.edu/search/events.ics?search="MIT+Number+Theory+Seminar"'
     name = "MIT number theory seminar"
-    place = "MIT"
+    place = "MIT-NT"
     label = "MIT"
     room_regex = r'(?<=in MIT room )(?:.+)(\d\-\d{3})(?:.+?)(?=\.)'
     time_regex = r'(?<=, )([0-9]+):([0-9]+)(?=\-[0-9]+:[0-9]+[a|p]m)'
