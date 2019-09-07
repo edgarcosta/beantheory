@@ -1,1 +1,18 @@
-[]
+- desc: Conifold transitions and mirror symmetry
+  endtime: 2019-09-05 15:00:00-04:00
+  label: BC
+  place: BC
+  room: Maloney 560
+  seminar: BC NT & AG Seminar
+  speaker: Lawrence Barrott (BC)
+  time: 2019-09-05 14:00:00-04:00
+  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: Formal group laws and -theorem
+  endtime: 2019-09-06 12:00:00-04:00
+  label: STAGE
+  place: MIT-STAGE
+  room: Building 2, 2-132
+  seminar: STAGE
+  speaker: Zhiyu Zhang (MIT)
+  time: 2019-09-06 10:00:00-04:00
+  url: http://math.mit.edu/nt/stage.html

@@ -6,12 +6,12 @@ from seminars import BU, MIT, BC, TUFTS, STAGE
 from utils import root_path
 from icalendar import Calendar, Event
 
-seminars = [BU(), MIT(), TUFTS(), BC(), STAGE()]
+global_seminars = [BU(), MIT(), TUFTS(), BC(), STAGE()]
 
 def talks():
     talks = []
     seminars = []
-    for s in seminars:
+    for s in global_seminars:
         talks += s.talks
         seminars.append({"name": s.name,
                          "url": s.url,
@@ -41,7 +41,7 @@ def ical(filename=None):
     if filename is None:
         filename = os.path.join(root_path(), 'assets/beantheory.ical')
     cal = Calendar()
-    for s in seminars:
+    for s in global_seminars:
         for talk in s.talks:
             event = Event()
             event.add('summary', talk['speaker'])
