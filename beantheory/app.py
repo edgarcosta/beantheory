@@ -51,7 +51,7 @@ def ical(filename=None):
                 event.add('description', talk['desc'])
             event.add('location', "{} usually {}".format(talk['place'], talk['room']))
             event.add('url', talk['url'])
-        cal.add_component(event)
+            cal.add_component(event)
 
     f = open(filename, 'wb')
     f.write(cal.to_ical())

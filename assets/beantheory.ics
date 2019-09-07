@@ -1,10 +1,111 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
+SUMMARY: Daniel Disegni   (Ben Gurion University) 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190909T161500
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190909T171500
+DESCRIPTION:   p-adic equidistribution of CM points and applications  
+LOCATION:BU usually MCS B31
+URL:http://math.bu.edu/research/algebra/seminar.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:  Benjamin Matschke   (Boston University) 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190916T161500
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190916T171500
+LOCATION:BU usually MCS B31
+URL:http://math.bu.edu/research/algebra/seminar.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Charlotte Chan   (MIT) 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190923T161500
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190923T171500
+LOCATION:BU usually MCS B31
+URL:http://math.bu.edu/research/algebra/seminar.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Daniel Hast   (Boston University) 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191007T161500
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191007T171500
+LOCATION:BU usually MCS B31
+URL:http://math.bu.edu/research/algebra/seminar.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: John Bergdall   (Bryn Mawr College) 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191015T161500
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191015T171500
+LOCATION:BU usually MCS B31
+URL:http://math.bu.edu/research/algebra/seminar.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Alexander Smith   (Harvard University) 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191021T161500
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191021T171500
+LOCATION:BU usually MCS B31
+URL:http://math.bu.edu/research/algebra/seminar.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Margaret Bilu   (Courant Institute\, NYU) 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191104T161500
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191104T171500
+LOCATION:BU usually MCS B31
+URL:http://math.bu.edu/research/algebra/seminar.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY: Wanlin Li   (MIT) 
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191111T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191111T171500
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raymond van Bommel (MIT)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190910T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190910T173000
+DESCRIPTION:Boundedness in families of projective varieties with applicati
+ ons to arithmetic hyperbolicity
+LOCATION:MIT usually 2-143
+URL:http://math.mit.edu/nt/nts.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanlin Li 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190924T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190924T173000
+LOCATION:MIT usually 2-143
+URL:http://math.mit.edu/nt/nts.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sam Schiavone 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191001T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191001T173000
+LOCATION:MIT usually 2-143
+URL:http://math.mit.edu/nt/nts.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ziyang Gao 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191008T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191008T173000
+LOCATION:MIT usually 2-143
+URL:http://math.mit.edu/nt/nts.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Francesc Fité 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191022T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191022T173000
+LOCATION:MIT usually 2-143
+URL:http://math.mit.edu/nt/nts.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andreas Mihatsch 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191105T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191105T173000
+LOCATION:MIT usually 2-143
+URL:http://math.mit.edu/nt/nts.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anup Dixit 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191112T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191112T173000
+LOCATION:MIT usually 2-143
+URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Michael Stoll 
@@ -14,6 +115,48 @@ LOCATION:MIT usually 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wanlin Li (MIT)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191010T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191010T173000
+LOCATION:Tufts usually Bromfield-Pearson 101
+URL:https://sites.google.com/view/tuftsagents/home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nicole Looper (Brown)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191114T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191114T173000
+LOCATION:Tufts usually Bromfield-Pearson 101
+URL:https://sites.google.com/view/tuftsagents/home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Naomi Tanabe (Bowdoin)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191205T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191205T173000
+LOCATION:Tufts usually Bromfield-Pearson 101
+URL:https://sites.google.com/view/tuftsagents/home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remy van Dobben de Bruyn (Princeton/IAS)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190926T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190926T173000
+LOCATION:Tufts usually Bromfield-Pearson 101
+URL:https://sites.google.com/view/tuftsagents/home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brandon Alberts (UConn)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191107T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191107T173000
+LOCATION:Tufts usually Bromfield-Pearson 101
+URL:https://sites.google.com/view/tuftsagents/home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aaron Landesman (Stanford)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191121T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191121T173000
+LOCATION:Tufts usually Bromfield-Pearson 101
+URL:https://sites.google.com/view/tuftsagents/home
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Benjamin Linowitz (Oberlin)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191024T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191024T173000
@@ -21,11 +164,112 @@ LOCATION:Tufts usually Bromfield-Pearson 101
 URL:https://sites.google.com/view/tuftsagents/home
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lawrence Barrott (BC)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190905T140000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190905T150000
+DESCRIPTION:Conifold transitions and mirror symmetry
+LOCATION:BC usually Maloney 560
+URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:  Anne-Sophie Kalaghiros (Brunel) 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190912T140000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190912T150000
+LOCATION:BC usually Maloney 560
+URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:  Sho Tanimoto (Kumamoto) and Dragos Oprea (UCSD) 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190919T140000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190919T150000
+LOCATION:BC usually Maloney 560
+URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:  Honglu Fan (ETH) and Fenglong You (Alberta) 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190926T140000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190926T150000
+LOCATION:BC usually Maloney 560
+URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:  Jonathan Wise (Colorado)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191003T140000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191003T150000
+LOCATION:BC usually Maloney 560
+URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:  Charles Doran (Alberta) 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191010T140000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191010T150000
+LOCATION:BC usually Maloney 560
+URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: German Stefanich (Berkeley) 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191017T140000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191017T150000
+LOCATION:BC usually Maloney 560
+URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Charlotte Chan (MIT) 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191024T140000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191024T150000
+LOCATION:BC usually Maloney 560
+URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Yusuke Nakamura (Tokyo) 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191107T140000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191107T150000
+LOCATION:BC usually Maloney 560
+URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Jennifer Balakrishnan (BU) 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191114T140000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191114T150000
+LOCATION:BC usually Maloney 560
+URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Melissa Emory (Toronto) 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191121T140000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191121T150000
+LOCATION:BC usually Maloney 560
+URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY: Nicole Looper (Brown) 
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191205T140000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191205T150000
 LOCATION:BC usually Maloney 560
 URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zhiyu Zhang (MIT)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190906T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190906T120000
+DESCRIPTION:Formal group laws and -theorem
+LOCATION:MIT-STAGE usually Building 2\, 2-132
+URL:http://math.mit.edu/nt/stage.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Formal group laws (Zink\, Chapter 1\, Sections 6-10) 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190913T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190913T120000
+LOCATION:MIT-STAGE usually 2-132
+URL:http://math.mit.edu/nt/stage.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hyuk Jun Kweon
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190927T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190927T120000
+DESCRIPTION: Formal groups as functors (Zink\, Chapter 2\, Sections 1-3) 
+LOCATION:MIT-STAGE usually 2-132
+URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Formal groups as functors (Zink\, Chapter 2\, Sections 4-6) 
