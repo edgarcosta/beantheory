@@ -36,6 +36,7 @@ class IcalSeminar(GenericSeminar):
                     continue
                 res.append([
                     component.get('dtstart').dt.astimezone(eastern),
+                    component.get('dtend').dt.astimezone(eastern),
                     component.get('summary').encode('utf-8'),
                     component.get("description").encode('utf-8'),
                     component.get("location").encode('utf-8')])
@@ -45,9 +46,10 @@ class IcalSeminar(GenericSeminar):
     @cached_property
     def ical_talks(self):
         res = []
-        for time, speaker, desc, location in self.ical_table:
+        for time, endtime, speaker, desc, location in self.ical_table:
             talk = dict(self.talk_constant)
             talk['time'] = time
+            talk['endtime'] = endtime
             speaker = self.speaker_parser(speaker)
             if not speaker or 'TBA' in speaker or 'TBD' in speaker:
                 continue

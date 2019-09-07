@@ -54,6 +54,7 @@ class BC(IcalSeminar):
             time = day + self.time
             talk = dict(self.talk_constant)
             talk['time'] = time
+            talk['endtime'] = time + self.duration
             talk['speaker'] = row[1]
             talk['desc'] = None
             talk['note'] = note

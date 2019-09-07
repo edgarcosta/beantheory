@@ -4,11 +4,14 @@ import yaml
 from datetime import date, datetime
 from seminars import BU, MIT, BC, TUFTS, STAGE
 from utils import root_path
+from icalendar import Calendar, Event
+
+seminars = [BU(), MIT(), TUFTS(), BC(), STAGE()]
 
 def talks():
     talks = []
     seminars = []
-    for s in [BU(), MIT(), TUFTS(), BC(), STAGE()]:
+    for s in seminars:
         talks += s.talks
         seminars.append({"name": s.name,
                          "url": s.url,
@@ -33,6 +36,26 @@ def talks():
     nextweek = [elt for elt in talks
                 if tuple(elt['time'].isocalendar()[:2]) == (year, weeknumber + 1)]
     return past, thisweek, nextweek, upcoming, seminars
+
+def ical(filename=None):
+    if filename is None:
+        filename = os.path.join(root_path(), 'assets/beantheory.ical')
+    cal = Calendar()
+    for s in seminars:
+        for talk in s.talks:
+            event = Event()
+            event.add('summary', talk['speaker'])
+            event.add('dtstart', talk['time'])
+            event.add('dtend', talk['endtime'])
+            if talk['desc']:
+                event.add('description', talk['desc'])
+            event.add('location', "{} usually {}".format(talk['place'], talk['room']))
+            event.add('url', talk['url'])
+        cal.add_component(event)
+
+    f = open(filename, 'wb')
+    f.write(cal.to_ical())
+    f.close()
 
 
 def yaml_talks(folder=None):

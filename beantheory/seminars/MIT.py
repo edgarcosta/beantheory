@@ -54,6 +54,7 @@ class MIT(IcalSeminar):
             time = day + self.time
             talk = dict(self.talk_constant)
             talk['time'] = time
+            talk['endtime'] = time + self.duration
             talk['speaker'] = row[1]
             talk['desc'] = None
             talk['note'] = note
@@ -63,16 +64,21 @@ class MIT(IcalSeminar):
     @cached_property
     def ical_talks(self):
         res = []
-        for time, summary, desc, location in self.ical_table:
+        for time, endtime, summary, desc, location in self.ical_table:
             if summary != 'MIT Number Theory Seminar':
                 continue
             talk = dict(self.talk_constant)
             talk['time'] = time
+            talk['endtime'] = endtime
             # the speaker is the first line
             speaker = desc.split('\n',1)[0]
             talk['speaker'] = speaker
             # this gets the title between utf-8 quotes
             title = re.search(u'\xe2\x80\x9c((.|\n)*?)\xe2\x80\x9d', desc.decode('utf-8'))
+
+            if title is None:
+                title = re.search(u'"((.|\n)*?)"', desc.decode('utf-8'))
+
             if desc:
                 talk['desc'] = title.group(1)
             else:

@@ -1,16 +1,18 @@
 # -*- coding: utf-8 -*-
-from generic import GenericSeminar
+from ical import IcalSeminar
 from cached_property import cached_property
 import re
 from datetime import timedelta
 
-class STAGE(GenericSeminar):
+class STAGE(IcalSeminar):
     url = "http://math.mit.edu/nt/stage.html"
+    cal_url = 'http://calendar.mit.edu/search/events.ics?search="STAGE+Seminar"'
     name = "STAGE"
     place = "MIT-STAGE"
     label = "STAGE"
     room_regex = r'(?<=in MIT room )(?:.+)(\d\-\d{3})(?:.+)(?=, unless indicated otherwise below)'
     table_regex = r'(?<=<TABLE BORDER=5 CELLPADDING=10 width=100% >)((.|\n)*)(?=</TABLE>)'
+    duration = timedelta(hours=2)
 
     @cached_property
     def time(self):
@@ -22,7 +24,7 @@ class STAGE(GenericSeminar):
         return timedelta(hours=h)
 
     @cached_property
-    def talks(self):
+    def html_talks(self):
         res = []
         # skip header
         for row in self.table:
@@ -74,10 +76,51 @@ class STAGE(GenericSeminar):
 
             talk = dict(self.talk_constant)
             talk['time'] = time
+            talk['endtime'] = time + self.duration
             talk['speaker'] = speaker
             talk['desc'] = desc
             talk['note'] = note
             res.append(talk)
+        return res
+
+    @cached_property
+    def ical_talks(self):
+        res = []
+        for time, endtime, summary, desc, location in self.ical_table:
+            if summary != 'STAGE Seminar':
+                continue
+            talk = dict(self.talk_constant)
+            talk['time'] = time
+            talk['endtime'] = endtime
+            # the speaker is the first line
+            speaker = desc.split('\n',1)[0]
+            talk['speaker'] = speaker
+            # this gets the title between utf-8 quotes
+            title = re.search(u'\xe2\x80\x9c((.|\n)*?)\xe2\x80\x9d', desc.decode('utf-8'))
+            if title is None:
+                title = re.search(u'"((.|\n)*?)"', desc.decode('utf-8'))
+
+            if desc:
+                talk['desc'] = title.group(1)
+            else:
+                talk['desc'] = None
+            if location:
+                talk['room'] = location
+
+            res.append(talk)
+        return res
+
+    @cached_property
+    def talks(self):
+        res = self.ical_talks
+        days = {elt['time'].date() for elt in res}
+        for elt in self.html_talks:
+            d = elt['time'].date()
+            if d in days:
+                continue
+            res.append(elt)
+
+        res.sort(key=lambda x: x['time'])
         return res
 
 class STAGES19(STAGE):

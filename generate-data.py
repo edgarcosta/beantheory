@@ -4,3 +4,4 @@
 import beantheory
 
 beantheory.yaml_all()
+beantheory.ical()

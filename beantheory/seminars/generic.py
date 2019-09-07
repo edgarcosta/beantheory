@@ -10,6 +10,7 @@ from pytz import timezone
 eastern = timezone('US/Eastern')
 
 class GenericSeminar(object):
+    duration = timedelta(hours=1)
     def __init__(self):
         r = requests.get(self.url)
         self.html = r.text.replace('\n',' ').replace('&nbsp;',' ')
