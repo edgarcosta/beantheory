@@ -1,24 +1,4 @@
 - desc: null
-  endtime: 2019-09-16 17:15:00-04:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: 'Benjamin Matschke   (Boston University) '
-  time: 2019-09-16 16:15:00-04:00
-  url: http://math.bu.edu/research/algebra/seminar.html
-- desc: null
-  endtime: 2019-09-19 15:00:00-04:00
-  label: BC
-  note: null
-  place: BC
-  room: Maloney 560
-  seminar: BC NT & AG Seminar
-  speaker: 'Sho Tanimoto (Kumamoto) and Dragos Oprea (UCSD) '
-  time: 2019-09-19 14:00:00-04:00
-  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: null
   endtime: 2019-09-23 17:15:00-04:00
   label: BU
   note: null
