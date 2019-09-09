@@ -25,6 +25,13 @@ $(document).ready(function () {
     return false;
     });
 
+  $('.ical-toggle').click(
+    function (evt) {
+      evt.preventDefault();
+      icons = $('.ical-detail').toggle("fast");
+      return false;
+    });
+
   var buttons = $('.button-toggle');
   for(let i = 0; i < buttons.length; i++){
     let label = buttons[i].getAttribute('id');

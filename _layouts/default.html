@@ -29,6 +29,7 @@
             integrity="sha384-xBuQ/xzmlsLoJpyjoggmTEz8OWUFM0/RC5BsqQBDX2v5cMvDHcMakNTNrHIW2I5f"
             crossorigin="anonymous"></script>
     <script type="text/javascript" src="{{site.baseurl}}/assets/js/toggle.js"></script>
+    <script src="https://kit.fontawesome.com/7144df9805.js"></script>
     {% seo %}
   </head>
 
@@ -36,13 +37,34 @@
 
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
-<a href="{{site.baseurl}}">
+      <a href="{{site.baseurl}}">
         <header class="inner">
           <img src="{{site.baseurl}}/assets/images/logo.png" style="height: 70px;box-shadow: none;border: none;display: inline-block;float: left;padding-right: 20px;padding-top: 15px;">
           <h1 id="project_title">{{ site.title }}</h1>
           <h2 id="project_tagline">{{ site.description }}</h2>
         </header>
-</a>
+      </a>
+      <ul>
+        <li>
+          <a href="#" class="ical-toggle">
+            <i class="fas fa-calendar-plus"></i> Subscribe
+          </a>
+        </li>
+        <li class="ical-detail" style="display: none">
+          <a href="https://calendar.google.com/calendar/render?cid=http://{{site.hostname}}/assets/beantheory.ics" target="_blank">
+            <i class="fab fa-google"></i> Google Calendar
+          </a>
+        </li>
+        <li class="ical-detail" style="display: none">
+          <a href="webcal://{{site.hostname}}/assets/beantheory.ics" target="_blank">
+            <i class="fas fa-calendar-alt"></i> iCal/Outlook
+          </a>
+        </li>
+        <li class="ical-detail" style="display: none">
+          <a href="{{site.hostname}}/assets/beantheory.ics" target="_blank">
+            <i class="fas fa-file-download"></i> ICS file
+          </a>
+        </li>
     </div>
 
     <!-- MAIN CONTENT -->

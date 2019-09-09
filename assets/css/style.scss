@@ -7,3 +7,16 @@
   text-decoration: none;
 }
 
+#header_wrap ul{
+  display:flex;
+  flex-direction: row-reverse;
+  list-style:none;
+  margin: 0px;
+}
+#header_wrap li{
+  padding-right: 10px;
+}
+
+#header_wrap li a{
+  color: white;
+}

@@ -41,6 +41,7 @@ def ical(filename=None):
     if filename is None:
         filename = os.path.join(root_path(), 'assets/beantheory.ics')
     cal = Calendar()
+    cal.update({'X-WR-CALNAME': 'Bean Theory Calendar'})
     for s in global_seminars:
         for talk in s.talks:
             event = Event()
