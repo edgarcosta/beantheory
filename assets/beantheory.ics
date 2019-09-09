@@ -1,4 +1,5 @@
 BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
 X-WR-CALNAME:Bean Theory
 BEGIN:VEVENT
 SUMMARY:Daniel Disegni   (Ben Gurion University) 
