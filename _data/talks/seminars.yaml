@@ -3,6 +3,10 @@
   name: BC NT & AG Seminar
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - errors: ''
+  label: BCMIT
+  name: BC-MIT number theory seminar
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- errors: ''
   label: BU
   name: BU number theory seminar
   url: http://math.bu.edu/research/algebra/seminar.html

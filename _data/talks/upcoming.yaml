@@ -176,6 +176,26 @@
   time: 2019-10-24 16:30:00-04:00
   url: https://sites.google.com/view/tuftsagents/home
 - desc: null
+  endtime: 2019-10-29 16:00:00-04:00
+  label: BCMIT
+  note: null
+  place: BC
+  room: Maloney 560
+  seminar: BC-MIT number theory seminar
+  speaker: Aaron Pollack (Duke) [BC-MIT]
+  time: 2019-10-29 15:00:00-04:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- desc: null
+  endtime: 2019-10-29 17:30:00-04:00
+  label: BCMIT
+  note: null
+  place: BC
+  room: Maloney 560
+  seminar: BC-MIT number theory seminar
+  speaker: Kirsten Wickelgren (Duke) [BC-MIT]
+  time: 2019-10-29 16:30:00-04:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- desc: null
   endtime: 2019-11-04 17:15:00-05:00
   label: BU
   note: null
@@ -283,6 +303,26 @@
   time: 2019-11-21 16:30:00-05:00
   url: https://sites.google.com/view/tuftsagents/home
 - desc: null
+  endtime: 2019-12-03 16:00:00-05:00
+  label: BCMIT
+  note: null
+  place: MIT
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: Bao Le Hung (Northwestern) [BC-MIT]
+  time: 2019-12-03 15:00:00-05:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- desc: null
+  endtime: 2019-12-03 17:30:00-05:00
+  label: BCMIT
+  note: null
+  place: MIT
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: Shou-Wu Zhang (Princeton) [BC-MIT]
+  time: 2019-12-03 16:30:00-05:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- desc: null
   endtime: 2019-12-05 15:00:00-05:00
   label: BC
   note: null
@@ -301,3 +341,63 @@
   speaker: Naomi Tanabe (Bowdoin)
   time: 2019-12-05 16:30:00-05:00
   url: https://sites.google.com/view/tuftsagents/home
+- desc: null
+  endtime: 2020-02-04 16:00:00-05:00
+  label: BCMIT
+  note: null
+  place: BC
+  room: Maloney 560
+  seminar: BC-MIT number theory seminar
+  speaker: Wei Ho (Michigan) [BC-MIT]
+  time: 2020-02-04 15:00:00-05:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- desc: null
+  endtime: 2020-02-04 17:30:00-05:00
+  label: BCMIT
+  note: null
+  place: BC
+  room: Maloney 560
+  seminar: BC-MIT number theory seminar
+  speaker: Marty Weissman (UC Santa Cruz) [BC-MIT]
+  time: 2020-02-04 16:30:00-05:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- desc: null
+  endtime: 2020-02-25 16:00:00-05:00
+  label: BCMIT
+  note: null
+  place: MIT
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: Daniel Litt (Georgia) [BC-MIT]
+  time: 2020-02-25 15:00:00-05:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- desc: null
+  endtime: 2020-02-25 17:30:00-05:00
+  label: BCMIT
+  note: null
+  place: MIT
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: Chao Li (Columbia) [BC-MIT]
+  time: 2020-02-25 16:30:00-05:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- desc: null
+  endtime: 2020-04-07 16:00:00-04:00
+  label: BCMIT
+  note: null
+  place: BC
+  room: Maloney 560
+  seminar: BC-MIT number theory seminar
+  speaker: Hang Xue (Arizona) [BC-MIT]
+  time: 2020-04-07 15:00:00-04:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- desc: null
+  endtime: 2020-04-07 17:30:00-04:00
+  label: BCMIT
+  note: null
+  place: BC
+  room: Maloney 560
+  seminar: BC-MIT number theory seminar
+  speaker: Jacob Tsimerman (Toronto) [BC-MIT]
+  time: 2020-04-07 16:30:00-04:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html

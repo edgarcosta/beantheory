@@ -9,6 +9,26 @@
   time: 2019-09-16 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
+  endtime: 2019-09-17 16:00:00-04:00
+  label: BCMIT
+  note: null
+  place: MIT
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: Zheng Liu (UC Santa Barbara) [BC-MIT]
+  time: 2019-09-17 15:00:00-04:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- desc: null
+  endtime: 2019-09-17 17:30:00-04:00
+  label: BCMIT
+  note: null
+  place: MIT
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: Will Sawin (Columbia) [BC-MIT]
+  time: 2019-09-17 16:30:00-04:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- desc: null
   endtime: 2019-09-19 15:00:00-04:00
   label: BC
   note: null

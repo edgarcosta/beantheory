@@ -2,11 +2,11 @@
 import os
 import yaml
 from datetime import date, datetime
-from seminars import BU, MIT, BC, TUFTS, STAGE
+from seminars import BU, MIT, BC,  BCMIT, TUFTS, STAGE
 from utils import root_path
 from icalendar import Calendar, Event
 
-global_seminars = [BU(), MIT(), TUFTS(), BC(), STAGE()]
+global_seminars = [BCMIT(), BU(), MIT(), TUFTS(), BC(), STAGE()]
 
 def talks():
     talks = []
@@ -41,7 +41,10 @@ def ical(filename=None):
     if filename is None:
         filename = os.path.join(root_path(), 'assets/beantheory.ics')
     cal = Calendar()
-    cal.update({'X-WR-CALNAME': 'Bean Theory Calendar'})
+    cal.add('VERSION', '2.0')
+    cal.add('PRODID', 'beantheory')
+    cal.add('CALSCALE', 'GREGORIAN')
+    cal.add('X-WR-CALNAME', 'Bean Theory')
     for s in global_seminars:
         for talk in s.talks:
             event = Event()
