@@ -19,13 +19,12 @@
   time: 2019-09-24 16:30:00-04:00
   url: http://math.mit.edu/nt/nts.html
 - desc: null
-  endtime: 2019-09-26 15:00:00-04:00
+  endtime: 2019-09-26 16:00:00-04:00
   label: BC
-  note: null
   place: BC
   room: Maloney 560
   seminar: BC NT & AG Seminar
-  speaker: 'Honglu Fan (ETH) and Fenglong You (Alberta) '
+  speaker: Honglu Fan (ETH) and Fenglong You (Alberta)
   time: 2019-09-26 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: null
@@ -60,7 +59,6 @@
 - desc: null
   endtime: 2019-10-03 15:00:00-04:00
   label: BC
-  note: null
   place: BC
   room: Maloney 560
   seminar: BC NT & AG Seminar
@@ -100,11 +98,10 @@
 - desc: null
   endtime: 2019-10-10 15:00:00-04:00
   label: BC
-  note: null
   place: BC
   room: Maloney 560
   seminar: BC NT & AG Seminar
-  speaker: 'Charles Doran (Alberta) '
+  speaker: Charles Doran (Alberta)
   time: 2019-10-10 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: null
@@ -129,11 +126,10 @@
 - desc: null
   endtime: 2019-10-17 15:00:00-04:00
   label: BC
-  note: null
   place: BC
   room: Maloney 560
   seminar: BC NT & AG Seminar
-  speaker: 'German Stefanich (Berkeley) '
+  speaker: German Stefanich (Berkeley)
   time: 2019-10-17 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: null
@@ -159,11 +155,10 @@
 - desc: null
   endtime: 2019-10-24 15:00:00-04:00
   label: BC
-  note: null
   place: BC
   room: Maloney 560
   seminar: BC NT & AG Seminar
-  speaker: 'Charlotte Chan (MIT) '
+  speaker: Charlotte Chan (MIT)
   time: 2019-10-24 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: null
@@ -196,6 +191,15 @@
   time: 2019-10-29 16:30:00-04:00
   url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
 - desc: null
+  endtime: 2019-10-31 15:00:00-04:00
+  label: BC
+  place: BC
+  room: Maloney 560
+  seminar: BC NT & AG Seminar
+  speaker: Navid Nabijou (Glasgow)
+  time: 2019-10-31 14:00:00-04:00
+  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: null
   endtime: 2019-11-04 17:15:00-05:00
   label: BU
   note: null
@@ -218,11 +222,10 @@
 - desc: null
   endtime: 2019-11-07 15:00:00-05:00
   label: BC
-  note: null
   place: BC
   room: Maloney 560
   seminar: BC NT & AG Seminar
-  speaker: 'Yusuke Nakamura (Tokyo) '
+  speaker: Yusuke Nakamura (Tokyo)
   time: 2019-11-07 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: null
@@ -257,11 +260,10 @@
 - desc: null
   endtime: 2019-11-14 15:00:00-05:00
   label: BC
-  note: null
   place: BC
   room: Maloney 560
   seminar: BC NT & AG Seminar
-  speaker: 'Jennifer Balakrishnan (BU) '
+  speaker: Jennifer Balakrishnan (BU)
   time: 2019-11-14 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: null
@@ -286,11 +288,10 @@
 - desc: null
   endtime: 2019-11-21 15:00:00-05:00
   label: BC
-  note: null
   place: BC
   room: Maloney 560
   seminar: BC NT & AG Seminar
-  speaker: 'Melissa Emory (Toronto) '
+  speaker: Melissa Emory (Toronto)
   time: 2019-11-21 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: null
@@ -302,6 +303,15 @@
   speaker: Aaron Landesman (Stanford)
   time: 2019-11-21 16:30:00-05:00
   url: https://sites.google.com/view/tuftsagents/home
+- desc: null
+  endtime: 2019-11-28 15:00:00-05:00
+  label: BC
+  place: BC
+  room: Maloney 560
+  seminar: BC NT & AG Seminar
+  speaker: No seminar (Thanksgiving break)
+  time: 2019-11-28 14:00:00-05:00
+  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: null
   endtime: 2019-12-03 16:00:00-05:00
   label: BCMIT
@@ -325,11 +335,10 @@
 - desc: null
   endtime: 2019-12-05 15:00:00-05:00
   label: BC
-  note: null
   place: BC
   room: Maloney 560
   seminar: BC NT & AG Seminar
-  speaker: 'Nicole Looper (Brown) '
+  speaker: Nicole Looper (Brown)
   time: 2019-12-05 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: null
