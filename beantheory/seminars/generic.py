@@ -36,7 +36,6 @@ class GenericSeminar(object):
         parser = TableParser()
         parser.feed(table_text)
         table = parser.table[:]
-        parser.close
         return table
 
     @cached_property
