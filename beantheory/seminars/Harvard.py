@@ -91,6 +91,7 @@ class HARVARD(GenericSeminar):
                             continue
                         # YAML loads it as naive datetime and ignores timezone
                         elt['time'] = utc.localize(elt['time']).astimezone(eastern)
+                        elt['endtime'] = utc.localize(elt['endtime']).astimezone(eastern)
                         past_talks.append(elt)
 
         except Exception:
