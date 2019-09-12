@@ -66,6 +66,15 @@
   time: 2019-10-03 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: null
+  endtime: 2019-10-03 17:30:00-04:00
+  label: TUFTS
+  place: Tufts
+  room: Bromfield-Pearson 101
+  seminar: Tufts Algebra, Geometry, and Number Theory Seminar
+  speaker: Sebastian Bozlee (CU-Boulder)
+  time: 2019-10-03 16:30:00-04:00
+  url: https://sites.google.com/view/tuftsagents/home
+- desc: null
   endtime: 2019-10-04 12:00:00-04:00
   label: STAGE
   note: null
