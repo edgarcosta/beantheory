@@ -74,18 +74,21 @@ class HARVARD(GenericSeminar):
         return res
 
     @cached_property
-    def talks(self):
-        res = self.html_talks
-        days = {elt['time'].date() for elt in res}
+    def past_talks(self):
         past_talks = []
         utc = timezone('UTC')
         eastern = timezone('US/Eastern')
-        try:
-            # load talks from yaml files, so talks don't disappear
-            data_path = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','..','_data', 'talks'))
-            for filename in ['past.yaml', 'thisweek.yaml']:
-                with open(os.path.join(data_path, filename)) as F:
-                    talks = yaml.safe_load(F)
+        # load talks from yaml files, so talks don't disappear
+        data_path = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','..','_data', 'talks'))
+        for filename in ['past.yaml', 'thisweek.yaml']:
+            path = os.path.join(data_path, filename)
+            if os.path.exists(path):
+                with open(path) as F:
+                    try:
+                        talks = yaml.safe_load(F)
+                    except Exception:
+                        talks = []
+
                     for elt in talks:
                         if elt.get('label') != self.label:
                             continue
@@ -93,11 +96,13 @@ class HARVARD(GenericSeminar):
                         elt['time'] = utc.localize(elt['time']).astimezone(eastern)
                         elt['endtime'] = utc.localize(elt['endtime']).astimezone(eastern)
                         past_talks.append(elt)
+        return past_talks
 
-        except Exception:
-            pass
-
-        for elt in past_talks:
+    @cached_property
+    def talks(self):
+        res = self.html_talks
+        days = {elt['time'].date() for elt in res}
+        for elt in self.past_talks:
             d = elt['time'].date()
             if d in days:
                 continue
