@@ -2,11 +2,11 @@
 import os
 import yaml
 from datetime import date, datetime
-from seminars import BU, MIT, BC,  BCMIT, TUFTS, STAGE
+from seminars import BU, MIT, BC,  BCMIT, TUFTS, STAGE, HARVARD
 from utils import root_path
 from icalendar import Calendar, Event
 
-global_seminars = [BCMIT(), BU(), MIT(), TUFTS(), BC(), STAGE()]
+global_seminars = [HARVARD(), BCMIT(), BU(), MIT(), TUFTS(), BC(), STAGE()]
 
 def talks():
     talks = []

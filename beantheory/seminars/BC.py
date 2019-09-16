@@ -9,7 +9,7 @@ import re
 class BC(IcalSeminar):
     url = "https://sites.google.com/bc.edu/2019-20bcntagseminar"
     cal_url = r"https://calendar.google.com/calendar/ical/bc.edu_nqaftbfgpukja204ku04j5p5a4@group.calendar.google.com/public/basic.ics"
-    name = "BC NT & AG Seminar"
+    name = "BC NT & AG seminar"
     place = "BC"
     label = "BC"
     room = "Maloney 560"

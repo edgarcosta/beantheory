@@ -1,6 +1,6 @@
 - errors: ''
   label: BC
-  name: BC NT & AG Seminar
+  name: BC NT & AG seminar
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - errors: ''
   label: BCMIT
@@ -11,6 +11,10 @@
   name: BU number theory seminar
   url: http://math.bu.edu/research/algebra/seminar.html
 - errors: ''
+  label: Harvard
+  name: Harvard number theory seminar
+  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
+- errors: ''
   label: MIT
   name: MIT number theory seminar
   url: http://math.mit.edu/nt/nts.html
@@ -20,5 +24,5 @@
   url: http://math.mit.edu/nt/stage.html
 - errors: ''
   label: TUFTS
-  name: Tufts Algebra, Geometry, and Number Theory Seminar
+  name: Tufts algebra, geometry, and number theory seminar
   url: https://sites.google.com/view/tuftsagents/home

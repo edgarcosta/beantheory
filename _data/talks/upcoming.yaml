@@ -18,12 +18,22 @@
   speaker: 'Wanlin Li '
   time: 2019-09-24 16:30:00-04:00
   url: http://math.mit.edu/nt/nts.html
+- desc: Steenrod operations and the Artin-Tate pairing
+  endtime: 2019-09-25 16:00:00-04:00
+  label: Harvard
+  note: null
+  place: Harvard
+  room: Science Center 507
+  seminar: Harvard number theory seminar
+  speaker: Tony Feng MIT
+  time: 2019-09-25 15:00:00-04:00
+  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
 - desc: null
   endtime: 2019-09-26 16:00:00-04:00
   label: BC
   place: BC
   room: Maloney 560
-  seminar: BC NT & AG Seminar
+  seminar: BC NT & AG seminar
   speaker: Honglu Fan (ETH) and Fenglong You (Alberta)
   time: 2019-09-26 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
@@ -32,7 +42,7 @@
   label: TUFTS
   place: Tufts
   room: Bromfield-Pearson 101
-  seminar: Tufts Algebra, Geometry, and Number Theory Seminar
+  seminar: Tufts algebra, geometry, and number theory seminar
   speaker: Remy van Dobben de Bruyn (Princeton/IAS)
   time: 2019-09-26 16:30:00-04:00
   url: https://sites.google.com/view/tuftsagents/home
@@ -61,7 +71,7 @@
   label: BC
   place: BC
   room: Maloney 560
-  seminar: BC NT & AG Seminar
+  seminar: BC NT & AG seminar
   speaker: Jonathan Wise (Colorado)
   time: 2019-10-03 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
@@ -70,7 +80,7 @@
   label: TUFTS
   place: Tufts
   room: Bromfield-Pearson 101
-  seminar: Tufts Algebra, Geometry, and Number Theory Seminar
+  seminar: Tufts algebra, geometry, and number theory seminar
   speaker: Sebastian Bozlee (CU-Boulder)
   time: 2019-10-03 16:30:00-04:00
   url: https://sites.google.com/view/tuftsagents/home
@@ -109,7 +119,7 @@
   label: BC
   place: BC
   room: Maloney 560
-  seminar: BC NT & AG Seminar
+  seminar: BC NT & AG seminar
   speaker: Charles Doran (Alberta)
   time: 2019-10-10 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
@@ -118,7 +128,7 @@
   label: TUFTS
   place: Tufts
   room: Bromfield-Pearson 101
-  seminar: Tufts Algebra, Geometry, and Number Theory Seminar
+  seminar: Tufts algebra, geometry, and number theory seminar
   speaker: Wanlin Li (MIT)
   time: 2019-10-10 16:30:00-04:00
   url: https://sites.google.com/view/tuftsagents/home
@@ -137,7 +147,7 @@
   label: BC
   place: BC
   room: Maloney 560
-  seminar: BC NT & AG Seminar
+  seminar: BC NT & AG seminar
   speaker: German Stefanich (Berkeley)
   time: 2019-10-17 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
@@ -166,7 +176,7 @@
   label: BC
   place: BC
   room: Maloney 560
-  seminar: BC NT & AG Seminar
+  seminar: BC NT & AG seminar
   speaker: Charlotte Chan (MIT)
   time: 2019-10-24 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
@@ -175,7 +185,7 @@
   label: TUFTS
   place: Tufts
   room: Bromfield-Pearson 101
-  seminar: Tufts Algebra, Geometry, and Number Theory Seminar
+  seminar: Tufts algebra, geometry, and number theory seminar
   speaker: Benjamin Linowitz (Oberlin)
   time: 2019-10-24 16:30:00-04:00
   url: https://sites.google.com/view/tuftsagents/home
@@ -204,7 +214,7 @@
   label: BC
   place: BC
   room: Maloney 560
-  seminar: BC NT & AG Seminar
+  seminar: BC NT & AG seminar
   speaker: Navid Nabijou (Glasgow)
   time: 2019-10-31 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
@@ -233,7 +243,7 @@
   label: BC
   place: BC
   room: Maloney 560
-  seminar: BC NT & AG Seminar
+  seminar: BC NT & AG seminar
   speaker: Yusuke Nakamura (Tokyo)
   time: 2019-11-07 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
@@ -242,7 +252,7 @@
   label: TUFTS
   place: Tufts
   room: Bromfield-Pearson 101
-  seminar: Tufts Algebra, Geometry, and Number Theory Seminar
+  seminar: Tufts algebra, geometry, and number theory seminar
   speaker: Brandon Alberts (UConn)
   time: 2019-11-07 16:30:00-05:00
   url: https://sites.google.com/view/tuftsagents/home
@@ -271,7 +281,7 @@
   label: BC
   place: BC
   room: Maloney 560
-  seminar: BC NT & AG Seminar
+  seminar: BC NT & AG seminar
   speaker: Jennifer Balakrishnan (BU)
   time: 2019-11-14 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
@@ -280,7 +290,7 @@
   label: TUFTS
   place: Tufts
   room: Bromfield-Pearson 101
-  seminar: Tufts Algebra, Geometry, and Number Theory Seminar
+  seminar: Tufts algebra, geometry, and number theory seminar
   speaker: Nicole Looper (Brown)
   time: 2019-11-14 16:30:00-05:00
   url: https://sites.google.com/view/tuftsagents/home
@@ -299,7 +309,7 @@
   label: BC
   place: BC
   room: Maloney 560
-  seminar: BC NT & AG Seminar
+  seminar: BC NT & AG seminar
   speaker: Melissa Emory (Toronto)
   time: 2019-11-21 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
@@ -308,7 +318,7 @@
   label: TUFTS
   place: Tufts
   room: Bromfield-Pearson 101
-  seminar: Tufts Algebra, Geometry, and Number Theory Seminar
+  seminar: Tufts algebra, geometry, and number theory seminar
   speaker: Aaron Landesman (Stanford)
   time: 2019-11-21 16:30:00-05:00
   url: https://sites.google.com/view/tuftsagents/home
@@ -317,7 +327,7 @@
   label: BC
   place: BC
   room: Maloney 560
-  seminar: BC NT & AG Seminar
+  seminar: BC NT & AG seminar
   speaker: No seminar (Thanksgiving break)
   time: 2019-11-28 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
@@ -346,7 +356,7 @@
   label: BC
   place: BC
   room: Maloney 560
-  seminar: BC NT & AG Seminar
+  seminar: BC NT & AG seminar
   speaker: Nicole Looper (Brown)
   time: 2019-12-05 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
@@ -355,7 +365,7 @@
   label: TUFTS
   place: Tufts
   room: Bromfield-Pearson 101
-  seminar: Tufts Algebra, Geometry, and Number Theory Seminar
+  seminar: Tufts algebra, geometry, and number theory seminar
   speaker: Naomi Tanabe (Bowdoin)
   time: 2019-12-05 16:30:00-05:00
   url: https://sites.google.com/view/tuftsagents/home

@@ -18,22 +18,31 @@
   speaker: Raymond van Bommel (MIT)
   time: 2019-09-10 16:30:00-04:00
   url: http://math.mit.edu/nt/nts.html
+- desc: Multiplication tables of Galois extensions
+  endtime: 2019-09-11 16:00:00-04:00
+  label: Harvard
+  note: null
+  place: Harvard
+  room: Science Center 507
+  seminar: Harvard number theory seminar
+  speaker: Fabian Gundlach Harvard University
+  time: 2019-09-11 15:00:00-04:00
+  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
 - desc: Threefold Calabi-Yau pairs
   endtime: 2019-09-12 15:00:00-04:00
   label: BC
   place: BC
   room: Maloney 560
-  seminar: BC NT & AG Seminar
+  seminar: BC NT & AG seminar
   speaker: Anne-Sophie Kaloghiros
   time: 2019-09-12 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: null
-  endtime: 2019-09-13 12:00:00-04:00
+- desc: 'Formal group laws: differential operators and Cartier duality'
+  endtime: 2019-09-13 11:40:00-04:00
   label: STAGE
-  note: null
   place: MIT-STAGE
-  room: 2-132
+  room: Building 2, 2-132
   seminar: STAGE
-  speaker: 'Formal group laws (Zink, Chapter 1, Sections 6-10) '
-  time: 2019-09-13 10:00:00-04:00
+  speaker: Borys Kadets (MIT)
+  time: 2019-09-13 10:10:00-04:00
   url: http://math.mit.edu/nt/stage.html

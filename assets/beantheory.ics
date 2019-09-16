@@ -4,6 +4,33 @@ PRODID:beantheory
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Bean Theory
 BEGIN:VEVENT
+<<<<<<< HEAD
+=======
+SUMMARY:Fabian Gundlach Harvard University
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190911T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190911T160000
+DESCRIPTION:Multiplication tables of Galois extensions
+LOCATION:Harvard usually Science Center 507
+URL:http://www.math.harvard.edu/cgi-bin/showtalk.pl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wei Zhang MIT
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190918T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190918T160000
+DESCRIPTION:The arithmetic fundamental lemma for diagonal cycles
+LOCATION:Harvard usually Science Center 507
+URL:http://www.math.harvard.edu/cgi-bin/showtalk.pl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony Feng MIT
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190925T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190925T160000
+DESCRIPTION:Steenrod operations and the Artin-Tate pairing
+LOCATION:Harvard usually Science Center 507
+URL:http://www.math.harvard.edu/cgi-bin/showtalk.pl
+END:VEVENT
+BEGIN:VEVENT
+>>>>>>> 3bae89700e27dd17072265cab69aea0568b15845
 SUMMARY:Zheng Liu (UC Santa Barbara): "Doubling archimedean zeta integrals
   for symplectic and unitary groups" [BC-MIT]
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190917T150000
@@ -370,10 +397,11 @@ LOCATION:MIT-STAGE usually Building 2\, 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Formal group laws (Zink\, Chapter 1\, Sections 6-10) 
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190913T100000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190913T120000
-LOCATION:MIT-STAGE usually 2-132
+SUMMARY:Borys Kadets (MIT)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190913T101000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190913T114000
+DESCRIPTION:Formal group laws: differential operators and Cartier duality
+LOCATION:MIT-STAGE usually Building 2\, 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
