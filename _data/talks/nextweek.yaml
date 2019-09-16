@@ -1,51 +1,58 @@
-- desc: '  Proofs by example  '
-  endtime: 2019-09-16 17:15:00-04:00
+- desc: null
+  endtime: 2019-09-23 17:15:00-04:00
   label: BU
   note: null
   place: BU
   room: MCS B31
   seminar: BU number theory seminar
-  speaker: 'Benjamin Matschke   (Boston University) '
-  time: 2019-09-16 16:15:00-04:00
+  speaker: 'Charlotte Chan   (MIT) '
+  time: 2019-09-23 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
-  endtime: 2019-09-17 16:00:00-04:00
-  label: BCMIT
+  endtime: 2019-09-24 17:30:00-04:00
+  label: MIT
   note: null
   place: MIT
-  room: 2-449
-  seminar: BC-MIT number theory seminar
-  speaker: 'Zheng Liu (UC Santa Barbara): "Doubling archimedean zeta integrals for
-    symplectic and unitary groups" [BC-MIT]'
-  time: 2019-09-17 15:00:00-04:00
-  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
-- desc: null
-  endtime: 2019-09-17 17:30:00-04:00
-  label: BCMIT
-  note: null
-  place: MIT
-  room: 2-449
-  seminar: BC-MIT number theory seminar
-  speaker: 'Will Sawin (Columbia / Clay Mathematics Institute): "The sup-norm problem
-    for modular forms over function fields and geometry" [BC-MIT]'
-  time: 2019-09-17 16:30:00-04:00
-  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
-- desc: The arithmetic fundamental lemma for diagonal cycles
-  endtime: 2019-09-18 16:00:00-04:00
+  room: 2-143
+  seminar: MIT number theory seminar
+  speaker: 'Wanlin Li '
+  time: 2019-09-24 16:30:00-04:00
+  url: http://math.mit.edu/nt/nts.html
+- desc: Steenrod operations and the Artin-Tate pairing
+  endtime: 2019-09-25 16:00:00-04:00
   label: Harvard
   note: null
   place: Harvard
   room: Science Center 507
   seminar: Harvard number theory seminar
-  speaker: Wei Zhang MIT
-  time: 2019-09-18 15:00:00-04:00
+  speaker: Tony Feng MIT
+  time: 2019-09-25 15:00:00-04:00
   url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
 - desc: null
-  endtime: 2019-09-19 16:00:00-04:00
+  endtime: 2019-09-26 16:00:00-04:00
   label: BC
   place: BC
   room: Maloney 560
   seminar: BC NT & AG seminar
-  speaker: Sho Tanimoto (Kumamoto) and Dragos Oprea (UCSD)
-  time: 2019-09-19 14:00:00-04:00
+  speaker: Honglu Fan (ETH) and Fenglong You (Alberta)
+  time: 2019-09-26 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: null
+  endtime: 2019-09-26 17:30:00-04:00
+  label: TUFTS
+  place: Tufts
+  room: Bromfield-Pearson 101
+  seminar: Tufts algebra, geometry, and number theory seminar
+  speaker: Remy van Dobben de Bruyn (Princeton/IAS)
+  time: 2019-09-26 16:30:00-04:00
+  url: https://sites.google.com/view/tuftsagents/home
+- desc: ' Formal groups as functors (Zink, Chapter 2, Sections 1-3) '
+  endtime: 2019-09-27 12:00:00-04:00
+  label: STAGE
+  note: null
+  place: MIT-STAGE
+  room: 2-132
+  seminar: STAGE
+  speaker: Hyuk Jun Kweon
+  time: 2019-09-27 10:00:00-04:00
+  url: http://math.mit.edu/nt/stage.html

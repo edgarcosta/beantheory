@@ -4,8 +4,6 @@ PRODID:beantheory
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Bean Theory
 BEGIN:VEVENT
-<<<<<<< HEAD
-=======
 SUMMARY:Fabian Gundlach Harvard University
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190911T150000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190911T160000
@@ -30,7 +28,6 @@ LOCATION:Harvard usually Science Center 507
 URL:http://www.math.harvard.edu/cgi-bin/showtalk.pl
 END:VEVENT
 BEGIN:VEVENT
->>>>>>> 3bae89700e27dd17072265cab69aea0568b15845
 SUMMARY:Zheng Liu (UC Santa Barbara): "Doubling archimedean zeta integrals
   for symplectic and unitary groups" [BC-MIT]
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190917T150000
@@ -157,6 +154,13 @@ BEGIN:VEVENT
 SUMMARY:Alexander Smith   (Harvard University) 
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191021T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191021T171500
+LOCATION:BU usually MCS B31
+URL:http://math.bu.edu/research/algebra/seminar.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maria Ines de Frutos Fernandez   (Boston University) 
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191028T161500
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191028T171500
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT

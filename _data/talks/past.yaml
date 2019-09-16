@@ -1,3 +1,51 @@
+- desc: 'Formal group laws: differential operators and Cartier duality'
+  endtime: 2019-09-13 11:40:00-04:00
+  label: STAGE
+  place: MIT-STAGE
+  room: Building 2, 2-132
+  seminar: STAGE
+  speaker: Borys Kadets (MIT)
+  time: 2019-09-13 10:10:00-04:00
+  url: http://math.mit.edu/nt/stage.html
+- desc: Threefold Calabi-Yau pairs
+  endtime: 2019-09-12 15:00:00-04:00
+  label: BC
+  place: BC
+  room: Maloney 560
+  seminar: BC NT & AG seminar
+  speaker: Anne-Sophie Kaloghiros
+  time: 2019-09-12 14:00:00-04:00
+  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: Multiplication tables of Galois extensions
+  endtime: 2019-09-11 16:00:00-04:00
+  label: Harvard
+  note: null
+  place: Harvard
+  room: Science Center 507
+  seminar: Harvard number theory seminar
+  speaker: Fabian Gundlach Harvard University
+  time: 2019-09-11 15:00:00-04:00
+  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
+- desc: Boundedness in families of projective varieties with applications to arithmetic
+    hyperbolicity
+  endtime: 2019-09-10 17:30:00-04:00
+  label: MIT
+  place: MIT
+  room: 2-143
+  seminar: MIT number theory seminar
+  speaker: Raymond van Bommel (MIT)
+  time: 2019-09-10 16:30:00-04:00
+  url: http://math.mit.edu/nt/nts.html
+- desc: '   p-adic equidistribution of CM points and applications  '
+  endtime: 2019-09-09 17:15:00-04:00
+  label: BU
+  note: null
+  place: BU
+  room: MCS B31
+  seminar: BU number theory seminar
+  speaker: 'Daniel Disegni   (Ben Gurion University) '
+  time: 2019-09-09 16:15:00-04:00
+  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: Formal group laws and -theorem
   endtime: 2019-09-06 12:00:00-04:00
   label: STAGE
