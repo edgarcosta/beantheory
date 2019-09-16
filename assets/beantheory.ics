@@ -4,14 +4,16 @@ PRODID:beantheory
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Bean Theory
 BEGIN:VEVENT
-SUMMARY:Zheng Liu (UC Santa Barbara) [BC-MIT]
+SUMMARY:Zheng Liu (UC Santa Barbara): "Doubling archimedean zeta integrals
+  for symplectic and unitary groups" [BC-MIT]
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190917T150000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190917T160000
 LOCATION:MIT usually 2-449
 URL:https://www2.bc.edu/benjamin-howard/BC-MIT.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Will Sawin (Columbia) [BC-MIT]
+SUMMARY:Will Sawin (Columbia / Clay Mathematics Institute): "The sup-norm 
+ problem for modular forms over function fields and geometry" [BC-MIT]
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190917T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190917T173000
 LOCATION:MIT usually 2-449
@@ -99,6 +101,7 @@ BEGIN:VEVENT
 SUMMARY:Benjamin Matschke   (Boston University) 
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190916T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190916T171500
+DESCRIPTION:  Proofs by example  
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT
@@ -203,6 +206,13 @@ LOCATION:MIT usually 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sebastian Bozlee (CU-Boulder)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191003T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191003T173000
+LOCATION:Tufts usually Bromfield-Pearson 101
+URL:https://sites.google.com/view/tuftsagents/home
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wanlin Li (MIT)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191010T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191010T173000
@@ -260,23 +270,24 @@ LOCATION:BC usually Maloney 560
 URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anne-Sophie Kalaghiros (Brunel) 
+SUMMARY:Anne-Sophie Kaloghiros
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190912T140000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190912T150000
+DESCRIPTION:Threefold Calabi-Yau pairs
 LOCATION:BC usually Maloney 560
 URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sho Tanimoto (Kumamoto) and Dragos Oprea (UCSD) 
+SUMMARY:Sho Tanimoto (Kumamoto) and Dragos Oprea (UCSD)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190919T140000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190919T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190919T160000
 LOCATION:BC usually Maloney 560
 URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Honglu Fan (ETH) and Fenglong You (Alberta) 
+SUMMARY:Honglu Fan (ETH) and Fenglong You (Alberta)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190926T140000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190926T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190926T160000
 LOCATION:BC usually Maloney 560
 URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT
@@ -288,49 +299,63 @@ LOCATION:BC usually Maloney 560
 URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charles Doran (Alberta) 
+SUMMARY:Charles Doran (Alberta)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191010T140000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191010T150000
 LOCATION:BC usually Maloney 560
 URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:German Stefanich (Berkeley) 
+SUMMARY:German Stefanich (Berkeley)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191017T140000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191017T150000
 LOCATION:BC usually Maloney 560
 URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte Chan (MIT) 
+SUMMARY:Charlotte Chan (MIT)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191024T140000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191024T150000
 LOCATION:BC usually Maloney 560
 URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yusuke Nakamura (Tokyo) 
+SUMMARY:Navid Nabijou (Glasgow)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191031T140000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191031T150000
+LOCATION:BC usually Maloney 560
+URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yusuke Nakamura (Tokyo)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191107T140000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191107T150000
 LOCATION:BC usually Maloney 560
 URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jennifer Balakrishnan (BU) 
+SUMMARY:Jennifer Balakrishnan (BU)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191114T140000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191114T150000
 LOCATION:BC usually Maloney 560
 URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Melissa Emory (Toronto) 
+SUMMARY:Melissa Emory (Toronto)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191121T140000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191121T150000
 LOCATION:BC usually Maloney 560
 URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nicole Looper (Brown) 
+SUMMARY:No seminar (Thanksgiving break)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191128T140000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191128T150000
+LOCATION:BC usually Maloney 560
+URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nicole Looper (Brown)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191205T140000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191205T150000
 LOCATION:BC usually Maloney 560
