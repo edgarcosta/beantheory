@@ -4,4 +4,4 @@ description: Number Theory seminars in the Boston area
 show_downloads: "false"
 exclude: ["beantheory", "generate-data.py", "requirements.txt", "README.md"]
 google-analytics: UA-145714554-1
-hostname: "beantheory.xyz"
+hostname: "beantheory.org"
