@@ -8,14 +8,13 @@
   speaker: 'Charlotte Chan   (MIT) '
   time: 2019-09-23 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
-- desc: null
+- desc: Vanishing of Hyperelliptic L-functions at the Central Point
   endtime: 2019-09-24 17:30:00-04:00
   label: MIT
-  note: null
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar
-  speaker: 'Wanlin Li '
+  speaker: Wanlin Li (MIT)
   time: 2019-09-24 16:30:00-04:00
   url: http://math.mit.edu/nt/nts.html
 - desc: Steenrod operations and the Artin-Tate pairing
