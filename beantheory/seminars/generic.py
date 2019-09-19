@@ -73,3 +73,10 @@ class GenericSeminar(object):
             day = eastern.localize(day)
 
         return day, other
+
+    @staticmethod
+    def clean_talk(talk):
+        for key, val in talk.iteritems():
+            if isinstance(val, str) or isinstance(val, unicode):
+                talk[key] = val.strip()
+

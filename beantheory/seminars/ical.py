@@ -62,6 +62,7 @@ class IcalSeminar(GenericSeminar):
             if location:
                 talk['room'] = location
 
+            self.clean_talk(talk)
             res.append(talk)
         return res
 

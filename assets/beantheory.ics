@@ -114,65 +114,66 @@ LOCATION:BC usually Maloney 560
 URL:https://www2.bc.edu/benjamin-howard/BC-MIT.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Daniel Disegni   (Ben Gurion University) 
+SUMMARY:Daniel Disegni   (Ben Gurion University)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190909T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190909T171500
-DESCRIPTION:   p-adic equidistribution of CM points and applications  
+DESCRIPTION:p-adic equidistribution of CM points and applications
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Benjamin Matschke   (Boston University) 
+SUMMARY:Benjamin Matschke   (Boston University)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190916T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190916T171500
-DESCRIPTION:  Proofs by example  
+DESCRIPTION:Proofs by example
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte Chan   (MIT) 
+SUMMARY:Charlotte Chan   (MIT)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190923T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190923T171500
+DESCRIPTION:Flag varieties and representations of p-adic groups
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Daniel Hast   (Boston University) 
+SUMMARY:Daniel Hast   (Boston University)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191007T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191007T171500
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:John Bergdall   (Bryn Mawr College) 
+SUMMARY:John Bergdall   (Bryn Mawr College)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191015T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191015T171500
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alexander Smith   (Harvard University) 
+SUMMARY:Alexander Smith   (Harvard University)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191021T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191021T171500
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maria Ines de Frutos Fernandez   (Boston University) 
+SUMMARY:Maria Ines de Frutos Fernandez   (Boston University)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191028T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191028T171500
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Margaret Bilu   (Courant Institute\, NYU) 
+SUMMARY:Margaret Bilu   (Courant Institute\, NYU)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191104T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191104T171500
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wanlin Li   (MIT) 
+SUMMARY:Wanlin Li   (MIT)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191111T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191111T171500
 LOCATION:BU usually MCS B31
@@ -196,42 +197,42 @@ LOCATION:MIT usually 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sam Schiavone 
+SUMMARY:Sam Schiavone
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191001T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191001T173000
 LOCATION:MIT usually 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ziyang Gao 
+SUMMARY:Ziyang Gao
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191008T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191008T173000
 LOCATION:MIT usually 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Francesc Fité 
+SUMMARY:Francesc Fité
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191022T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191022T173000
 LOCATION:MIT usually 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Andreas Mihatsch 
+SUMMARY:Andreas Mihatsch
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191105T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191105T173000
 LOCATION:MIT usually 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anup Dixit 
+SUMMARY:Anup Dixit
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191112T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191112T173000
 LOCATION:MIT usually 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Michael Stoll 
+SUMMARY:Michael Stoll
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191119T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191119T173000
 LOCATION:MIT usually 2-143
@@ -413,12 +414,12 @@ BEGIN:VEVENT
 SUMMARY:Hyuk Jun Kweon
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190927T100000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190927T120000
-DESCRIPTION: Formal groups as functors (Zink\, Chapter 2\, Sections 1-3) 
+DESCRIPTION:Formal groups as functors (Zink\, Chapter 2\, Sections 1-3)
 LOCATION:MIT-STAGE usually 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Formal groups as functors (Zink\, Chapter 2\, Sections 4-6) 
+SUMMARY:Formal groups as functors (Zink\, Chapter 2\, Sections 4-6)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191004T100000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191004T120000
 LOCATION:MIT-STAGE usually 2-132

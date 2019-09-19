@@ -80,6 +80,7 @@ class STAGE(IcalSeminar):
             talk['speaker'] = speaker
             talk['desc'] = desc
             talk['note'] = note
+            self.clean_talk(talk)
             res.append(talk)
         return res
 

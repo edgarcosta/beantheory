@@ -58,6 +58,7 @@ class BC(IcalSeminar):
             talk['speaker'] = row[1].lstrip(' ')
             talk['desc'] = None
             talk['note'] = note
+            self.clean_talk(talk)
             res.append(talk)
 
         return res

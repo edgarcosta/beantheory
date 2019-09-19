@@ -5,7 +5,7 @@
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar
-  speaker: 'Sam Schiavone '
+  speaker: Sam Schiavone
   time: 2019-10-01 16:30:00-04:00
   url: http://math.mit.edu/nt/nts.html
 - desc: null
@@ -33,7 +33,7 @@
   place: MIT-STAGE
   room: 2-132
   seminar: STAGE
-  speaker: 'Formal groups as functors (Zink, Chapter 2, Sections 4-6) '
+  speaker: Formal groups as functors (Zink, Chapter 2, Sections 4-6)
   time: 2019-10-04 10:00:00-04:00
   url: http://math.mit.edu/nt/stage.html
 - desc: null
@@ -43,7 +43,7 @@
   place: BU
   room: MCS B31
   seminar: BU number theory seminar
-  speaker: 'Daniel Hast   (Boston University) '
+  speaker: Daniel Hast   (Boston University)
   time: 2019-10-07 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
@@ -53,7 +53,7 @@
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar
-  speaker: 'Ziyang Gao '
+  speaker: Ziyang Gao
   time: 2019-10-08 16:30:00-04:00
   url: http://math.mit.edu/nt/nts.html
 - desc: null
@@ -77,11 +77,11 @@
 - desc: null
   endtime: 2019-10-15 17:15:00-04:00
   label: BU
-  note: '  (Note special day: TUESDAY.) '
+  note: '(Note special day: TUESDAY.)'
   place: BU
   room: MCS B31
   seminar: BU number theory seminar
-  speaker: 'John Bergdall   (Bryn Mawr College) '
+  speaker: John Bergdall   (Bryn Mawr College)
   time: 2019-10-15 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
@@ -100,7 +100,7 @@
   place: BU
   room: MCS B31
   seminar: BU number theory seminar
-  speaker: 'Alexander Smith   (Harvard University) '
+  speaker: Alexander Smith   (Harvard University)
   time: 2019-10-21 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
@@ -110,7 +110,7 @@
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar
-  speaker: "Francesc Fit\xE9 "
+  speaker: "Francesc Fit\xE9"
   time: 2019-10-22 16:30:00-04:00
   url: http://math.mit.edu/nt/nts.html
 - desc: null
@@ -138,7 +138,7 @@
   place: BU
   room: MCS B31
   seminar: BU number theory seminar
-  speaker: 'Maria Ines de Frutos Fernandez   (Boston University) '
+  speaker: Maria Ines de Frutos Fernandez   (Boston University)
   time: 2019-10-28 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
@@ -177,7 +177,7 @@
   place: BU
   room: MCS B31
   seminar: BU number theory seminar
-  speaker: 'Margaret Bilu   (Courant Institute, NYU) '
+  speaker: Margaret Bilu   (Courant Institute, NYU)
   time: 2019-11-04 16:15:00-05:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
@@ -187,7 +187,7 @@
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar
-  speaker: 'Andreas Mihatsch '
+  speaker: Andreas Mihatsch
   time: 2019-11-05 16:30:00-05:00
   url: http://math.mit.edu/nt/nts.html
 - desc: null
@@ -215,7 +215,7 @@
   place: BU
   room: MCS B31
   seminar: BU number theory seminar
-  speaker: 'Wanlin Li   (MIT) '
+  speaker: Wanlin Li   (MIT)
   time: 2019-11-11 16:15:00-05:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
@@ -225,7 +225,7 @@
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar
-  speaker: 'Anup Dixit '
+  speaker: Anup Dixit
   time: 2019-11-12 16:30:00-05:00
   url: http://math.mit.edu/nt/nts.html
 - desc: null
@@ -253,7 +253,7 @@
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar
-  speaker: 'Michael Stoll '
+  speaker: Michael Stoll
   time: 2019-11-19 16:30:00-05:00
   url: http://math.mit.edu/nt/nts.html
 - desc: null

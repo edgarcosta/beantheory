@@ -1,11 +1,11 @@
-- desc: null
+- desc: Flag varieties and representations of p-adic groups
   endtime: 2019-09-23 17:15:00-04:00
   label: BU
   note: null
   place: BU
   room: MCS B31
   seminar: BU number theory seminar
-  speaker: 'Charlotte Chan   (MIT) '
+  speaker: Charlotte Chan   (MIT)
   time: 2019-09-23 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: Vanishing of Hyperelliptic L-functions at the Central Point
@@ -45,7 +45,7 @@
   speaker: Remy van Dobben de Bruyn (Princeton/IAS)
   time: 2019-09-26 16:30:00-04:00
   url: https://sites.google.com/view/tuftsagents/home
-- desc: ' Formal groups as functors (Zink, Chapter 2, Sections 1-3) '
+- desc: Formal groups as functors (Zink, Chapter 2, Sections 1-3)
   endtime: 2019-09-27 12:00:00-04:00
   label: STAGE
   note: null

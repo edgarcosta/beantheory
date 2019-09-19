@@ -33,11 +33,12 @@ class BU(GenericSeminar):
             talk = dict(self.talk_constant)
             talk['time'] = time
             talk['endtime'] = time + self.duration
-            talk['speaker'] = row[1].lstrip(' ')
+            talk['speaker'] = row[1]
             talk['desc'] = row[2]
             talk['note'] = note
             if 'TBA' in talk['desc']:
                 talk['desc'] = None
+            self.clean_talk(talk)
             res.append(talk)
 
         return res

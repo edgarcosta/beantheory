@@ -58,7 +58,7 @@ class HARVARD(GenericSeminar):
                 self.errors.append("This row has to few columns: {}".format(row))
             # discard abstract
             _, speaker, title, timeplace = row[:4]
-            time, place = re.search(r'on , (.*?) in (.*)$', timeplace).groups()
+            time, place = re.search(r'on \w*, (.*?) in (.*)$', timeplace).groups()
             time, note = self.parse_day(time)
             if time is None:
                 continue
@@ -68,8 +68,9 @@ class HARVARD(GenericSeminar):
             talk['time'] = time
             talk['endtime'] = time + self.duration
             talk['speaker'] = row[1].lstrip(' ')
-            talk['desc'] = title
+            talk['desc'] = title.lstrip(' ')
             talk['note'] = note
+            self.clean_talk(talk)
             res.append(talk)
         return res
 

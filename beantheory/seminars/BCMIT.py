@@ -63,6 +63,8 @@ class BCMIT(GenericSeminar):
                 continue
             talk1['speaker'] = " ".join(words[i+1:j]) + ' [BC-MIT]'
             talk2['speaker'] = " ".join(words[j+1:]) + ' [BC-MIT]'
+            self.clean_talk(talk1)
+            self.clean_talk(talk2)
             res += [talk1, talk2]
         return res
 

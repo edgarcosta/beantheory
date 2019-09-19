@@ -58,6 +58,7 @@ class MIT(IcalSeminar):
             talk['speaker'] = row[1]
             talk['desc'] = None
             talk['note'] = note
+            self.clean_talk(talk)
             res.append(talk)
         return res
 
