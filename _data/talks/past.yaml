@@ -1,3 +1,54 @@
+- desc: null
+  endtime: 2019-09-19 16:00:00-04:00
+  label: BC
+  place: BC
+  room: Maloney 560
+  seminar: BC NT & AG seminar
+  speaker: Sho Tanimoto (Kumamoto) and Dragos Oprea (UCSD)
+  time: 2019-09-19 14:00:00-04:00
+  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: The arithmetic fundamental lemma for diagonal cycles
+  endtime: 2019-09-18 16:00:00-04:00
+  label: Harvard
+  note: null
+  place: Harvard
+  room: Science Center 507
+  seminar: Harvard number theory seminar
+  speaker: Wei Zhang MIT
+  time: 2019-09-18 15:00:00-04:00
+  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
+- desc: null
+  endtime: 2019-09-17 17:30:00-04:00
+  label: BCMIT
+  note: null
+  place: MIT
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: 'Will Sawin (Columbia / Clay Mathematics Institute): "The sup-norm problem
+    for modular forms over function fields and geometry" [BC-MIT]'
+  time: 2019-09-17 16:30:00-04:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- desc: null
+  endtime: 2019-09-17 16:00:00-04:00
+  label: BCMIT
+  note: null
+  place: MIT
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: 'Zheng Liu (UC Santa Barbara): "Doubling archimedean zeta integrals for
+    symplectic and unitary groups" [BC-MIT]'
+  time: 2019-09-17 15:00:00-04:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- desc: Proofs by example
+  endtime: 2019-09-16 17:15:00-04:00
+  label: BU
+  note: null
+  place: BU
+  room: MCS B31
+  seminar: BU number theory seminar
+  speaker: Benjamin Matschke   (Boston University)
+  time: 2019-09-16 16:15:00-04:00
+  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: 'Formal group laws: differential operators and Cartier duality'
   endtime: 2019-09-13 11:40:00-04:00
   label: STAGE
