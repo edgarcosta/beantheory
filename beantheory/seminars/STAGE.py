@@ -94,17 +94,17 @@ class STAGE(IcalSeminar):
             talk['time'] = time
             talk['endtime'] = endtime
             # the speaker is the first line
-            speaker = desc.split('\n',1)[0]
+            speaker, desc = desc.split('\n',1)
+            desc = desc.lstrip('\n')
             talk['speaker'] = speaker
             # this gets the title between utf-8 quotes
-            title = re.search(u'\xe2\x80\x9c((.|\n)*?)\xe2\x80\x9d', desc.decode('utf-8'))
-            if title is None:
-                title = re.search(u'"((.|\n)*?)"', desc.decode('utf-8'))
+            for pattern in [u'\xe2\x80\x9c((.|\n)*?)\xe2\x80\x9d', u'"((.|\n)*?)"', u'((.)*?)\n']:
+                title = re.search(pattern, desc.decode('utf-8'))
+                if title is not None:
+                    title = title.group(1)
+                    break
 
-            if desc:
-                talk['desc'] = title.group(1)
-            else:
-                talk['desc'] = None
+            talk['desc'] = title
             if location:
                 talk['room'] = location
 

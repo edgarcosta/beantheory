@@ -8,6 +8,16 @@
   speaker: Sam Schiavone
   time: 2019-10-01 16:30:00-04:00
   url: http://math.mit.edu/nt/nts.html
+- desc: Isogenies between abelian varieties in positive and mixed characteristic
+  endtime: 2019-10-02 16:00:00-04:00
+  label: Harvard
+  note: null
+  place: Harvard
+  room: Science Center 507
+  seminar: Harvard number theory seminar
+  speaker: Ananth Shankar MIT
+  time: 2019-10-02 15:00:00-04:00
+  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
 - desc: null
   endtime: 2019-10-03 15:00:00-04:00
   label: BC
