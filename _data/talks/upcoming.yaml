@@ -304,6 +304,16 @@
   time: 2019-12-05 16:30:00-05:00
   url: https://sites.google.com/view/tuftsagents/home
 - desc: null
+  endtime: 2019-12-12 15:00:00-05:00
+  label: BC
+  note: null
+  place: BC
+  room: Maloney 560
+  seminar: BC NT & AG seminar
+  speaker: Djordje Milicevic (Bryn Mawr)
+  time: 2019-12-12 14:00:00-05:00
+  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: null
   endtime: 2020-02-04 16:00:00-05:00
   label: BCMIT
   note: null
