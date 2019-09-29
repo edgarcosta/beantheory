@@ -1,47 +1,48 @@
-- desc: On algebras of low rank
-  endtime: 2019-10-01 17:30:00-04:00
+- desc: null
+  endtime: 2019-10-07 17:15:00-04:00
+  label: BU
+  note: null
+  place: BU
+  room: MCS B31
+  seminar: BU number theory seminar
+  speaker: Daniel Hast   (Boston University)
+  time: 2019-10-07 16:15:00-04:00
+  url: http://math.bu.edu/research/algebra/seminar.html
+- desc: null
+  endtime: 2019-10-08 17:30:00-04:00
   label: MIT
+  note: null
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar
-  speaker: Sam Schiavone (MIT)
-  time: 2019-10-01 16:30:00-04:00
+  speaker: Ziyang Gao
+  time: 2019-10-08 16:30:00-04:00
   url: http://math.mit.edu/nt/nts.html
-- desc: Isogenies between abelian varieties in positive and mixed characteristic
-  endtime: 2019-10-02 16:00:00-04:00
+- desc: Geometric lifts of odd Galois representations
+  endtime: 2019-10-09 01:00:00-04:00
   label: Harvard
-  note: null
+  note: 2019, at  3:00 pm - 4:00 pm
   place: Harvard
   room: Science Center 507
   seminar: Harvard number theory seminar
-  speaker: Ananth Shankar MIT
-  time: 2019-10-02 15:00:00-04:00
+  speaker: Stefan Patrikis Utah
+  time: 2019-10-09 00:00:00-04:00
   url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
 - desc: null
-  endtime: 2019-10-03 15:00:00-04:00
+  endtime: 2019-10-10 15:00:00-04:00
   label: BC
   place: BC
   room: Maloney 560
   seminar: BC NT & AG seminar
-  speaker: Jonathan Wise (Colorado)
-  time: 2019-10-03 14:00:00-04:00
+  speaker: Charles Doran (Alberta)
+  time: 2019-10-10 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: null
-  endtime: 2019-10-03 17:30:00-04:00
+  endtime: 2019-10-10 17:30:00-04:00
   label: TUFTS
   place: Tufts
   room: Bromfield-Pearson 101
   seminar: Tufts algebra, geometry, and number theory seminar
-  speaker: Sebastian Bozlee (CU-Boulder)
-  time: 2019-10-03 16:30:00-04:00
+  speaker: Wanlin Li (MIT)
+  time: 2019-10-10 16:30:00-04:00
   url: https://sites.google.com/view/tuftsagents/home
-- desc: null
-  endtime: 2019-10-04 12:00:00-04:00
-  label: STAGE
-  note: null
-  place: MIT-STAGE
-  room: 2-132
-  seminar: STAGE
-  speaker: Formal groups as functors (Zink, Chapter 2, Sections 4-6)
-  time: 2019-10-04 10:00:00-04:00
-  url: http://math.mit.edu/nt/stage.html

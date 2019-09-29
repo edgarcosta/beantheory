@@ -1,56 +1,47 @@
-- desc: Flag varieties and representations of p-adic groups
-  endtime: 2019-09-23 17:15:00-04:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Charlotte Chan   (MIT)
-  time: 2019-09-23 16:15:00-04:00
-  url: http://math.bu.edu/research/algebra/seminar.html
-- desc: Vanishing of Hyperelliptic L-functions at the Central Point
-  endtime: 2019-09-24 17:30:00-04:00
+- desc: On algebras of low rank
+  endtime: 2019-10-01 17:30:00-04:00
   label: MIT
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar
-  speaker: Wanlin Li (MIT)
-  time: 2019-09-24 16:30:00-04:00
+  speaker: Sam Schiavone (MIT)
+  time: 2019-10-01 16:30:00-04:00
   url: http://math.mit.edu/nt/nts.html
-- desc: Steenrod operations and the Artin-Tate pairing
-  endtime: 2019-09-25 16:00:00-04:00
+- desc: Isogenies between abelian varieties in positive and mixed characteristic
+  endtime: 2019-10-02 16:00:00-04:00
   label: Harvard
   note: null
   place: Harvard
   room: Science Center 507
   seminar: Harvard number theory seminar
-  speaker: Tony Feng MIT
-  time: 2019-09-25 15:00:00-04:00
+  speaker: Ananth Shankar MIT
+  time: 2019-10-02 15:00:00-04:00
   url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
 - desc: null
-  endtime: 2019-09-26 16:00:00-04:00
+  endtime: 2019-10-03 15:00:00-04:00
   label: BC
   place: BC
   room: Maloney 560
   seminar: BC NT & AG seminar
-  speaker: Honglu Fan (ETH) and Fenglong You (Alberta)
-  time: 2019-09-26 14:00:00-04:00
+  speaker: Jonathan Wise (Colorado)
+  time: 2019-10-03 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: null
-  endtime: 2019-09-26 17:30:00-04:00
+  endtime: 2019-10-03 17:30:00-04:00
   label: TUFTS
   place: Tufts
   room: Bromfield-Pearson 101
   seminar: Tufts algebra, geometry, and number theory seminar
-  speaker: Remy van Dobben de Bruyn (Princeton/IAS)
-  time: 2019-09-26 16:30:00-04:00
+  speaker: Sebastian Bozlee (CU-Boulder)
+  time: 2019-10-03 16:30:00-04:00
   url: https://sites.google.com/view/tuftsagents/home
-- desc: Formal groups as functors
-  endtime: 2019-09-27 11:40:00-04:00
+- desc: null
+  endtime: 2019-10-04 12:00:00-04:00
   label: STAGE
+  note: null
   place: MIT-STAGE
-  room: Building 2, 2-132
+  room: 2-132
   seminar: STAGE
-  speaker: Hyuk Jun Kweon (MIT)
-  time: 2019-09-27 10:10:00-04:00
+  speaker: Formal groups as functors (Zink, Chapter 2, Sections 4-6)
+  time: 2019-10-04 10:00:00-04:00
   url: http://math.mit.edu/nt/stage.html
