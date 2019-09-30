@@ -166,6 +166,7 @@ BEGIN:VEVENT
 SUMMARY:Daniel Hast   (Boston University)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191007T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191007T171500
+DESCRIPTION:The non-abelian Chabauty method and rational points on curves
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT
