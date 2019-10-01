@@ -8,14 +8,13 @@
   speaker: Daniel Hast   (Boston University)
   time: 2019-10-07 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
-- desc: null
+- desc: Bound on the number of rational points on curves
   endtime: 2019-10-08 17:30:00-04:00
   label: MIT
-  note: null
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar
-  speaker: Ziyang Gao
+  speaker: "Yiyang Gao (CNRS and Institut Math\xC3\xA9matiques de Jussieu)"
   time: 2019-10-08 16:30:00-04:00
   url: http://math.mit.edu/nt/nts.html
 - desc: Geometric lifts of odd Galois representations
