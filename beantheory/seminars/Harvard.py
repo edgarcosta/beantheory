@@ -6,13 +6,13 @@ import re
 import os
 import yaml
 from pytz import timezone
+from datetime import timedelta
 
 
 
 
 
 
-# TODO keep old seminars?
 
 class HARVARD(GenericSeminar):
     url = "http://www.math.harvard.edu/cgi-bin/showtalk.pl"
@@ -21,6 +21,7 @@ class HARVARD(GenericSeminar):
     name = "Harvard number theory seminar"
     place = "Harvard"
     label = "Harvard"
+    time = timedelta(hours=3)
     room = None
 
     @cached_property
@@ -59,9 +60,20 @@ class HARVARD(GenericSeminar):
             # discard abstract
             _, speaker, title, timeplace = row[:4]
             time, place = re.search(r'on \w*, (.*?) in (.*)$', timeplace).groups()
+            # fix for stuff like 3:00 pm - 4:00 pm
+            for elt in [' pm ', ' am ']:
+                i = time.find(elt)
+                if i > 0:
+                    time = time[:i + 4]
+            if '-' in time:
+                time, _ = time.split('-', 1)
             time, note = self.parse_day(time)
             if time is None:
                 continue
+            if note is not None:
+                # something went wrong with the parsing, and we only got the date
+                time += self.time
+                note = None
 
             talk = dict(self.talk_constant)
             talk['room'] = place

@@ -2,7 +2,6 @@
 from generic import GenericSeminar
 from datetime import timedelta
 from cached_property import cached_property
-import re
 
 class BCMIT(GenericSeminar):
     url = "https://www2.bc.edu/benjamin-howard/BC-MIT.html"
