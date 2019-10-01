@@ -77,7 +77,7 @@ class MIT(IcalSeminar):
             talk['speaker'] = speaker
             # this gets the title between utf-8 quotes
             for pattern in [u'\xe2\x80\x9c((.|\n)*?)\xe2\x80\x9d', u'"((.|\n)*?)"', u'((.)*?)\n']:
-                title = re.search(pattern, desc.decode('utf-8'))
+                title = re.search(pattern, desc)
                 if title is not None:
                     title = title.group(1)
                     break

@@ -13,7 +13,8 @@ class GenericSeminar(object):
     duration = timedelta(hours=1)
     def __init__(self):
         r = requests.get(self.url)
-        self.html = r.text.replace('\n',' ').replace('&nbsp;',' ')
+        # force utf8
+        self.html = r.content.decode('utf8').replace('\n',' ').replace('&nbsp;',' ')
         self.errors = []
 
     @cached_property
