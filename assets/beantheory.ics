@@ -239,7 +239,7 @@ LOCATION:MIT usually 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yiyang Gao (CNRS and Institut Mathématiques de Jussieu)
+SUMMARY:Ziyang Gao (CNRS and Institut Mathématiques de Jussieu)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191008T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191008T173000
 DESCRIPTION:Bound on the number of rational points on curves
@@ -469,9 +469,11 @@ LOCATION:MIT-STAGE usually Building 2\, 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Formal groups as functors (Zink\, Chapter 2\, Sections 4-6)
+SUMMARY:Alex Smith
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191004T100000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191004T120000
+DESCRIPTION:Reconstructing a formal group from its Cartier module (Zink\, 
+ Chapter 3)
 LOCATION:MIT-STAGE usually 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
