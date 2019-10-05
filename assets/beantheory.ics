@@ -470,11 +470,10 @@ URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alex Smith
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191004T100000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191004T120000
-DESCRIPTION:Reconstructing a formal group from its Cartier module (Zink\, 
- Chapter 3)
-LOCATION:MIT-STAGE usually 2-132
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191004T101000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191004T114000
+DESCRIPTION:Reconstructing a formal group from its Cartier module
+LOCATION:MIT-STAGE usually Building 2\, 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 END:VCALENDAR
