@@ -1,3 +1,49 @@
+- desc: Reconstructing a formal group from its Cartier module
+  endtime: 2019-10-04 11:40:00-04:00
+  label: STAGE
+  place: MIT-STAGE
+  room: Building 2, 2-132
+  seminar: STAGE
+  speaker: Alex Smith
+  time: 2019-10-04 10:10:00-04:00
+  url: http://math.mit.edu/nt/stage.html
+- desc: null
+  endtime: 2019-10-03 17:30:00-04:00
+  label: TUFTS
+  place: Tufts
+  room: Bromfield-Pearson 101
+  seminar: Tufts algebra, geometry, and number theory seminar
+  speaker: Sebastian Bozlee (CU-Boulder)
+  time: 2019-10-03 16:30:00-04:00
+  url: https://sites.google.com/view/tuftsagents/home
+- desc: null
+  endtime: 2019-10-03 15:00:00-04:00
+  label: BC
+  place: BC
+  room: Maloney 560
+  seminar: BC NT & AG seminar
+  speaker: Jonathan Wise (Colorado)
+  time: 2019-10-03 14:00:00-04:00
+  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: Isogenies between abelian varieties in positive and mixed characteristic
+  endtime: 2019-10-02 16:00:00-04:00
+  label: Harvard
+  note: null
+  place: Harvard
+  room: Science Center 507
+  seminar: Harvard number theory seminar
+  speaker: Ananth Shankar MIT
+  time: 2019-10-02 15:00:00-04:00
+  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
+- desc: On algebras of low rank
+  endtime: 2019-10-01 17:30:00-04:00
+  label: MIT
+  place: MIT
+  room: 2-143
+  seminar: MIT number theory seminar
+  speaker: Sam Schiavone (MIT)
+  time: 2019-10-01 16:30:00-04:00
+  url: http://math.mit.edu/nt/nts.html
 - desc: Formal groups as functors
   endtime: 2019-09-27 11:40:00-04:00
   label: STAGE
