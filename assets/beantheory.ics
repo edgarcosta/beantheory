@@ -445,11 +445,11 @@ LOCATION:BC usually Maloney 560
 URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Zhiyu Zhang (MIT)
+SUMMARY:Zhiyu Zhang
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190906T100000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190906T120000
-DESCRIPTION:Formal group laws and -theorem
-LOCATION:MIT-STAGE usually Building 2\, 2-132
+DESCRIPTION:Formal group laws (Zink\, Chapter 1\, Sections 1-5)
+LOCATION:MIT-STAGE usually 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
@@ -474,6 +474,15 @@ DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191004T101000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191004T114000
 DESCRIPTION:Reconstructing a formal group from its Cartier module
 LOCATION:MIT-STAGE usually Building 2\, 2-132
+URL:http://math.mit.edu/nt/stage.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Naomi Sweeting
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191011T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191011T120000
+DESCRIPTION:Basic Cartier theory. Group schemes and formal group schemes (
+ Zink\, Chapter 3\; Demazure Chapter 2)
+LOCATION:MIT-STAGE usually 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 END:VCALENDAR
