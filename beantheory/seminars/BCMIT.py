@@ -50,7 +50,7 @@ class BCMIT(GenericSeminar):
                 else:
                     t['time'] = day + timedelta(hours=16, minutes=30)
                 t['endtime'] = t['time'] + self.duration
-                t['place'] = place 
+                t['place'] = place
                 t['room'] = room
                 t['note'] = note
                 t['desc'] = None
