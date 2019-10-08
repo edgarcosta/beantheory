@@ -5,7 +5,7 @@
   <li class="{{talk['label']}}">
     {{ talk.time | date: "%a %b %d, %H:%M" }}
     at
-    <a href="{{ talk.url}}" title="Usually at {{ talk.time | date : "%H:%M" }} in room {{talk.room}}">{{talk.place}}</a>
+    <a href="{{ talk.url}}" title="Usually in room {{talk.room}}">{{talk.place}}</a>
     -
     {{talk['speaker']}}
     {% if talk.note %}
