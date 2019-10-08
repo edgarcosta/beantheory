@@ -49,21 +49,21 @@
 - desc: null
   endtime: 2019-10-29 16:00:00-04:00
   label: BCMIT
-  note: null
+  note: BC-MIT
   place: BC
   room: Maloney 560
   seminar: BC-MIT number theory seminar
-  speaker: Aaron Pollack (Duke) [BC-MIT]
+  speaker: Aaron Pollack (Duke)
   time: 2019-10-29 15:00:00-04:00
   url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
 - desc: null
   endtime: 2019-10-29 17:30:00-04:00
   label: BCMIT
-  note: null
+  note: BC-MIT
   place: BC
   room: Maloney 560
   seminar: BC-MIT number theory seminar
-  speaker: Kirsten Wickelgren (Duke) [BC-MIT]
+  speaker: Kirsten Wickelgren (Duke)
   time: 2019-10-29 16:30:00-04:00
   url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
 - desc: null
@@ -75,7 +75,7 @@
   speaker: Navid Nabijou (Glasgow)
   time: 2019-10-31 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: 'Lecture I : Applications of Points on Subvarieties of Tori'
+- desc: 'Lecture I: Applications of Points on Subvarieties of Tori'
   endtime: 2019-10-31 16:15:00-04:00
   label: special
   note: Ahlfors Lectures
@@ -84,7 +84,7 @@
   speaker: Peter Sarnak
   time: 2019-10-31 17:15:00-04:00
   url: http://www.math.harvard.edu/conferences/ahlfors19/index.html
-- desc: Lecture II :Integer Points on Affine Cubic Surfaces
+- desc: 'Lecture II: Integer Points on Affine Cubic Surfaces'
   endtime: 2019-11-01 16:15:00-04:00
   label: special
   note: Ahlfors Lectures
@@ -219,21 +219,21 @@
 - desc: null
   endtime: 2019-12-03 16:00:00-05:00
   label: BCMIT
-  note: null
+  note: BC-MIT
   place: MIT
   room: 2-449
   seminar: BC-MIT number theory seminar
-  speaker: Bao Le Hung (Northwestern) [BC-MIT]
+  speaker: Bao Le Hung (Northwestern)
   time: 2019-12-03 15:00:00-05:00
   url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
 - desc: null
   endtime: 2019-12-03 17:30:00-05:00
   label: BCMIT
-  note: null
+  note: BC-MIT
   place: MIT
   room: 2-449
   seminar: BC-MIT number theory seminar
-  speaker: Shou-Wu Zhang (Princeton) [BC-MIT]
+  speaker: Shou-Wu Zhang (Princeton)
   time: 2019-12-03 16:30:00-05:00
   url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
 - desc: null
@@ -267,60 +267,60 @@
 - desc: null
   endtime: 2020-02-04 16:00:00-05:00
   label: BCMIT
-  note: null
+  note: BC-MIT
   place: BC
   room: Maloney 560
   seminar: BC-MIT number theory seminar
-  speaker: Wei Ho (Michigan) [BC-MIT]
+  speaker: Wei Ho (Michigan)
   time: 2020-02-04 15:00:00-05:00
   url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
 - desc: null
   endtime: 2020-02-04 17:30:00-05:00
   label: BCMIT
-  note: null
+  note: BC-MIT
   place: BC
   room: Maloney 560
   seminar: BC-MIT number theory seminar
-  speaker: Marty Weissman (UC Santa Cruz) [BC-MIT]
+  speaker: Marty Weissman (UC Santa Cruz)
   time: 2020-02-04 16:30:00-05:00
   url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
 - desc: null
   endtime: 2020-02-25 16:00:00-05:00
   label: BCMIT
-  note: null
+  note: BC-MIT
   place: MIT
   room: 2-449
   seminar: BC-MIT number theory seminar
-  speaker: Daniel Litt (Georgia) [BC-MIT]
+  speaker: Daniel Litt (Georgia)
   time: 2020-02-25 15:00:00-05:00
   url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
 - desc: null
   endtime: 2020-02-25 17:30:00-05:00
   label: BCMIT
-  note: null
+  note: BC-MIT
   place: MIT
   room: 2-449
   seminar: BC-MIT number theory seminar
-  speaker: Chao Li (Columbia) [BC-MIT]
+  speaker: Chao Li (Columbia)
   time: 2020-02-25 16:30:00-05:00
   url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
 - desc: null
   endtime: 2020-04-07 16:00:00-04:00
   label: BCMIT
-  note: null
+  note: BC-MIT
   place: BC
   room: Maloney 560
   seminar: BC-MIT number theory seminar
-  speaker: Hang Xue (Arizona) [BC-MIT]
+  speaker: Hang Xue (Arizona)
   time: 2020-04-07 15:00:00-04:00
   url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
 - desc: null
   endtime: 2020-04-07 17:30:00-04:00
   label: BCMIT
-  note: null
+  note: BC-MIT
   place: BC
   room: Maloney 560
   seminar: BC-MIT number theory seminar
-  speaker: Jacob Tsimerman (Toronto) [BC-MIT]
+  speaker: Jacob Tsimerman (Toronto)
   time: 2020-04-07 16:30:00-04:00
   url: https://www2.bc.edu/benjamin-howard/BC-MIT.html

@@ -60,8 +60,15 @@ class BCMIT(GenericSeminar):
             except ValueError:
                 self.errors.append('Could not parse: {}, as could not find 4:30-5:30:'.format(row[0]))
                 continue
-            talk1['speaker'] = " ".join(words[i+1:j]) + ' [BC-MIT]'
-            talk2['speaker'] = " ".join(words[j+1:]) + ' [BC-MIT]'
+            talk1['speaker'] = " ".join(words[i+1:j])
+            talk2['speaker'] = " ".join(words[j+1:])
+            for t in [talk1, talk2]:
+                if ":" in t['speaker']:
+                    t['speaker'], t['desc'] = t['speaker'].split(':',1)
+                if t['note']:
+                    t['note'] = 'BC-MIT &mdash; ' + t['note']
+                else:
+                    t['note'] = 'BC-MIT'
             self.clean_talk(talk1)
             self.clean_talk(talk2)
             res += [talk1, talk2]
