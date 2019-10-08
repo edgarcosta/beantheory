@@ -2,7 +2,7 @@
 import os
 import yaml
 from datetime import date, datetime
-from seminars import BU, MIT, BC,  BCMIT, TUFTS, STAGE, HARVARD
+from seminars import BU, MIT, BC,  BCMIT, TUFTS, STAGE, HARVARD, SPECIAL
 from utils import root_path
 from icalendar import Calendar, Event
 
@@ -17,6 +17,7 @@ def talks():
                          "url": s.url,
                          "errors": "\n ".join(s.errors),
                          "label": s.label})
+    talks += SPECIAL().talks
     talks.sort(key=lambda x: x['time'])
 
     seminars.sort(key=lambda x: x['name'])

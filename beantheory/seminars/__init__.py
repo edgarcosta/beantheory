@@ -11,3 +11,4 @@ from .BC import BC
 from .BCMIT import BCMIT
 from .Tufts import TUFTS
 from .Harvard import HARVARD
+from .special import SPECIAL
