@@ -37,6 +37,15 @@ LOCATION:Harvard usually Science Center 507
 URL:http://www.math.harvard.edu/cgi-bin/showtalk.pl
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ananth Shankar MIT
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191008T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191008T160000
+DESCRIPTION:Picard ranks of families of K3 surfaces in positive characteri
+ stic (Harvard/MIT algebraic geometry seminar)
+LOCATION:Harvard usually Science Center 507
+URL:http://www.math.harvard.edu/cgi-bin/showtalk.pl
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stefan Patrikis Utah
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191009T150000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191009T160000
