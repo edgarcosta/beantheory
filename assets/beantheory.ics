@@ -225,11 +225,9 @@ LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Raymond van Bommel (MIT)
+SUMMARY:Raymond van Bommel
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190910T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190910T173000
-DESCRIPTION:Boundedness in families of projective varieties with applicati
- ons to arithmetic hyperbolicity
 LOCATION:MIT usually 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
