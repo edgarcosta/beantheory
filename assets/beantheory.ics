@@ -193,6 +193,8 @@ BEGIN:VEVENT
 SUMMARY:John Bergdall   (Bryn Mawr College)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191015T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191015T171500
+DESCRIPTION:Reductions of crystalline representations with small Frobenius
+  trace
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT
@@ -488,11 +490,10 @@ URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Naomi Sweeting
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191011T100000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191011T120000
-DESCRIPTION:Basic Cartier theory. Group schemes and formal group schemes (
- Zink\, Chapter 3\; Demazure Chapter 2)
-LOCATION:MIT-STAGE usually 2-132
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191011T101500
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191011T113500
+DESCRIPTION:Cartier theory
+LOCATION:MIT-STAGE usually Building 2\, 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 END:VCALENDAR
