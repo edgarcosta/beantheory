@@ -1,3 +1,70 @@
+- desc: Cartier theory
+  endtime: 2019-10-11 11:35:00-04:00
+  label: STAGE
+  place: MIT-STAGE
+  room: Building 2, 2-132
+  seminar: STAGE
+  speaker: Naomi Sweeting
+  time: 2019-10-11 10:15:00-04:00
+  url: http://math.mit.edu/nt/stage.html
+- desc: null
+  endtime: 2019-10-10 17:30:00-04:00
+  label: TUFTS
+  place: Tufts
+  room: Bromfield-Pearson 101
+  seminar: Tufts algebra, geometry, and number theory seminar
+  speaker: Wanlin Li (MIT)
+  time: 2019-10-10 16:30:00-04:00
+  url: https://sites.google.com/view/tuftsagents/home
+- desc: Gluing Periods for DHT Mirrors
+  endtime: 2019-10-10 15:00:00-04:00
+  label: BC
+  place: BC
+  room: Maloney 560
+  seminar: BC NT & AG seminar
+  speaker: Charles Doran (Alberta)
+  time: 2019-10-10 14:00:00-04:00
+  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: Geometric lifts of odd Galois representations
+  endtime: 2019-10-09 16:00:00-04:00
+  label: Harvard
+  note: null
+  place: Harvard
+  room: Science Center 507
+  seminar: Harvard number theory seminar
+  speaker: Stefan Patrikis Utah
+  time: 2019-10-09 15:00:00-04:00
+  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
+- desc: Bound on the number of rational points on curves
+  endtime: 2019-10-08 17:30:00-04:00
+  label: MIT
+  place: MIT
+  room: 2-143
+  seminar: MIT number theory seminar
+  speaker: "Ziyang Gao (CNRS and Institut Math\xE9matiques de Jussieu)"
+  time: 2019-10-08 16:30:00-04:00
+  url: http://math.mit.edu/nt/nts.html
+- desc: Picard ranks of families of K3 surfaces in positive characteristic (Harvard/MIT
+    algebraic geometry seminar)
+  endtime: 2019-10-08 16:00:00-04:00
+  label: Harvard
+  note: null
+  place: Harvard
+  room: Science Center 507
+  seminar: Harvard/MIT algebraic geometry seminar
+  speaker: Ananth Shankar MIT
+  time: 2019-10-08 15:00:00-04:00
+  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
+- desc: The non-abelian Chabauty method and rational points on curves
+  endtime: 2019-10-07 17:15:00-04:00
+  label: BU
+  note: null
+  place: BU
+  room: MCS B31
+  seminar: BU number theory seminar
+  speaker: Daniel Hast   (Boston University)
+  time: 2019-10-07 16:15:00-04:00
+  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: Reconstructing a formal group from its Cartier module
   endtime: 2019-10-04 11:40:00-04:00
   label: STAGE
