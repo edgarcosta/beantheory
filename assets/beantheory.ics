@@ -465,11 +465,11 @@ LOCATION:MIT-STAGE usually 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Borys Kadets (MIT)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190913T101000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190913T114000
-DESCRIPTION:Formal group laws: differential operators and Cartier duality
-LOCATION:MIT-STAGE usually Building 2\, 2-132
+SUMMARY:Borys Kadets
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190913T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190913T120000
+DESCRIPTION:Formal group laws (Zink\, Chapter 1\, Sections 6-10)
+LOCATION:MIT-STAGE usually 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT

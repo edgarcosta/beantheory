@@ -216,14 +216,15 @@
   speaker: Benjamin Matschke   (Boston University)
   time: 2019-09-16 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
-- desc: 'Formal group laws: differential operators and Cartier duality'
-  endtime: 2019-09-13 11:40:00-04:00
+- desc: Formal group laws (Zink, Chapter 1, Sections 6-10)
+  endtime: 2019-09-13 12:00:00-04:00
   label: STAGE
+  note: null
   place: MIT-STAGE
-  room: Building 2, 2-132
+  room: 2-132
   seminar: STAGE
-  speaker: Borys Kadets (MIT)
-  time: 2019-09-13 10:10:00-04:00
+  speaker: Borys Kadets
+  time: 2019-09-13 10:00:00-04:00
   url: http://math.mit.edu/nt/stage.html
 - desc: Threefold Calabi-Yau pairs
   endtime: 2019-09-12 15:00:00-04:00
