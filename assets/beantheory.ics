@@ -98,6 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Kirsten Wickelgren (Duke)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191029T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191029T173000
+DESCRIPTION:"An arithmetic count of rational plane curves"
 LOCATION:BC usually Maloney 560
 URL:https://www2.bc.edu/benjamin-howard/BC-MIT.html
 END:VEVENT
