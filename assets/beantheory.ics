@@ -400,6 +400,7 @@ BEGIN:VEVENT
 SUMMARY:German Stefanich (Berkeley)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191017T140000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191017T150000
+DESCRIPTION:Microlocal theory of sheaves of categories
 LOCATION:BC usually Maloney 560
 URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT
@@ -496,6 +497,14 @@ SUMMARY:Naomi Sweeting
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191011T101500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191011T113500
 DESCRIPTION:Cartier theory
+LOCATION:MIT-STAGE usually Building 2\, 2-132
+URL:http://math.mit.edu/nt/stage.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Borys Kadets (MIT)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191018T101000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191018T114000
+DESCRIPTION:Finite flat group schemes
 LOCATION:MIT-STAGE usually Building 2\, 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT

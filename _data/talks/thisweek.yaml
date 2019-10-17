@@ -18,7 +18,7 @@
   speaker: Bejamin Matschke Boston University
   time: 2019-10-16 15:00:00-04:00
   url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: null
+- desc: Microlocal theory of sheaves of categories
   endtime: 2019-10-17 15:00:00-04:00
   label: BC
   place: BC
@@ -36,3 +36,12 @@
   speaker: Ross Goluboff (BC)
   time: 2019-10-17 16:30:00-04:00
   url: https://sites.google.com/view/tuftsagents/home
+- desc: Finite flat group schemes
+  endtime: 2019-10-18 11:40:00-04:00
+  label: STAGE
+  place: MIT-STAGE
+  room: Building 2, 2-132
+  seminar: STAGE
+  speaker: Borys Kadets (MIT)
+  time: 2019-10-18 10:10:00-04:00
+  url: http://math.mit.edu/nt/stage.html
