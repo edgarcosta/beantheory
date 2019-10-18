@@ -1,4 +1,4 @@
-- desc: null
+- desc: 2^k-Selmer groups and Goldfeld's conjecture
   endtime: 2019-10-21 17:15:00-04:00
   label: BU
   note: null
@@ -35,3 +35,13 @@
   speaker: Benjamin Linowitz (Oberlin)
   time: 2019-10-24 16:30:00-04:00
   url: https://sites.google.com/view/tuftsagents/home
+- desc: null
+  endtime: 2019-10-25 12:00:00-04:00
+  label: STAGE
+  note: null
+  place: MIT-STAGE
+  room: 2-132
+  seminar: STAGE
+  speaker: p-divisible groups (Tate 1)
+  time: 2019-10-25 10:00:00-04:00
+  url: http://math.mit.edu/nt/stage.html

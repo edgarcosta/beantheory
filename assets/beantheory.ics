@@ -203,6 +203,7 @@ BEGIN:VEVENT
 SUMMARY:Alexander Smith   (Harvard University)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191021T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191021T171500
+DESCRIPTION:2^k-Selmer groups and Goldfeld's conjecture
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT
@@ -224,6 +225,22 @@ BEGIN:VEVENT
 SUMMARY:Wanlin Li   (MIT)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191111T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191111T171500
+DESCRIPTION:Newton polygon stratification  of the Torelli locus in PEL-typ
+ e Shimura varieties
+LOCATION:BU usually MCS B31
+URL:http://math.bu.edu/research/algebra/seminar.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matthew Friedrichsen   (Tufts University)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191118T161500
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191118T171500
+LOCATION:BU usually MCS B31
+URL:http://math.bu.edu/research/algebra/seminar.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soumya Sankar   (University of Wisconsin)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191202T161500
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191202T171500
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT
@@ -506,6 +523,21 @@ DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191018T101000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191018T114000
 DESCRIPTION:Finite flat group schemes
 LOCATION:MIT-STAGE usually Building 2\, 2-132
+URL:http://math.mit.edu/nt/stage.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:p-divisible groups (Tate 1)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191025T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191025T120000
+LOCATION:MIT-STAGE usually 2-132
+URL:http://math.mit.edu/nt/stage.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony Feng
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191101T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191101T120000
+DESCRIPTION:p-divisible group (Tate 2)
+LOCATION:MIT-STAGE usually 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 END:VCALENDAR
