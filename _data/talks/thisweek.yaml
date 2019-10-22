@@ -17,6 +17,16 @@
   speaker: "Francesc Fit\xE9 (MIT)"
   time: 2019-10-22 16:30:00-04:00
   url: http://math.mit.edu/nt/nts.html
+- desc: Reflection theorems generalizing the Ohno-Nakagawa identities
+  endtime: 2019-10-23 16:00:00-04:00
+  label: Harvard
+  note: null
+  place: Harvard
+  room: Science Center 507
+  seminar: Harvard number theory seminar
+  speaker: Evan O'Dorney Princeton University
+  time: 2019-10-23 15:00:00-04:00
+  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
 - desc: null
   endtime: 2019-10-24 15:00:00-04:00
   label: BC

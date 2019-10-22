@@ -62,6 +62,14 @@ LOCATION:Harvard usually Science Center 507
 URL:http://www.math.harvard.edu/cgi-bin/showtalk.pl
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Evan O'Dorney Princeton University
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191023T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191023T160000
+DESCRIPTION:Reflection theorems generalizing the Ohno-Nakagawa identities
+LOCATION:Harvard usually Science Center 507
+URL:http://www.math.harvard.edu/cgi-bin/showtalk.pl
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kestutis Cesnavicius CNRS/Paris-Sud
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191106T150000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191106T160000
@@ -85,21 +93,6 @@ DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190917T173000
 DESCRIPTION:"The sup-norm problem for modular forms over function fields a
  nd geometry"
 LOCATION:MIT usually 2-449
-URL:https://www2.bc.edu/benjamin-howard/BC-MIT.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aaron Pollack (Duke)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191029T150000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191029T160000
-LOCATION:BC usually Maloney 560
-URL:https://www2.bc.edu/benjamin-howard/BC-MIT.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kirsten Wickelgren (Duke)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191029T163000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191029T173000
-DESCRIPTION:"An arithmetic count of rational plane curves"
-LOCATION:BC usually Maloney 560
 URL:https://www2.bc.edu/benjamin-howard/BC-MIT.html
 END:VEVENT
 BEGIN:VEVENT
@@ -537,6 +530,13 @@ SUMMARY:Tony Feng
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191101T100000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191101T120000
 DESCRIPTION:p-divisible groups (Tate 2)
+LOCATION:MIT-STAGE usually 2-132
+URL:http://math.mit.edu/nt/stage.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Syed Waqar Ali Shah
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191115T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191115T120000
 LOCATION:MIT-STAGE usually 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT

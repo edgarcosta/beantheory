@@ -2,7 +2,10 @@
   label: BC
   name: BC NT & AG seminar
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- errors: ''
+- errors: 'Could not parse:  October 29, 2019 (BC, Maloney 560)  3:00-4:00: Aaron
+    Pollack (Duke): "Modular forms on exceptional groups"  4:30-5:30: Kirsten Wickelgren
+    (Duke): "An arithmetic count of rational plane curves" , 3rd word does not match
+    the possible cases'
   label: BCMIT
   name: BC-MIT number theory seminar
   url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
