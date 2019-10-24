@@ -22,7 +22,7 @@ class BCMIT(GenericSeminar):
             for j, w in enumerate(words[i:]):
                 roomw.append(w.rstrip(')'))
                 if w.endswith(')'):
-                    return i + j, " ".join(roomw)
+                    return i + j + 1, " ".join(roomw)
             return None, None
         res = []
         for row in self.table:
