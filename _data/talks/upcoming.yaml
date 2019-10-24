@@ -152,6 +152,26 @@
   time: 2019-12-02 16:15:00-05:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
+  endtime: 2019-12-03 16:00:00-05:00
+  label: BCMIT
+  note: BC-MIT
+  place: MIT
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: Bao Le Hung (Northwestern)
+  time: 2019-12-03 15:00:00-05:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- desc: null
+  endtime: 2019-12-03 17:30:00-05:00
+  label: BCMIT
+  note: BC-MIT
+  place: MIT
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: Shou-Wu Zhang (Princeton)
+  time: 2019-12-03 16:30:00-05:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- desc: null
   endtime: 2019-12-05 15:00:00-05:00
   label: BC
   place: BC
@@ -209,6 +229,26 @@
   speaker: Daniel Kriz (MIT)
   time: 2020-02-11 16:30:00-05:00
   url: http://math.mit.edu/nt/nts.html
+- desc: null
+  endtime: 2020-02-25 16:00:00-05:00
+  label: BCMIT
+  note: BC-MIT
+  place: MIT
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: Daniel Litt (Georgia)
+  time: 2020-02-25 15:00:00-05:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- desc: null
+  endtime: 2020-02-25 17:30:00-05:00
+  label: BCMIT
+  note: BC-MIT
+  place: MIT
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: Chao Li (Columbia)
+  time: 2020-02-25 16:30:00-05:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
 - desc: null
   endtime: 2020-04-07 16:00:00-04:00
   label: BCMIT
