@@ -199,26 +199,6 @@
   speaker: Djordje Milicevic (Bryn Mawr)
   time: 2019-12-12 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: null
-  endtime: 2020-02-04 16:00:00-05:00
-  label: BCMIT
-  note: BC-MIT
-  place: BC
-  room: Maloney 560
-  seminar: BC-MIT number theory seminar
-  speaker: Wei Ho (Michigan)
-  time: 2020-02-04 15:00:00-05:00
-  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
-- desc: null
-  endtime: 2020-02-04 17:30:00-05:00
-  label: BCMIT
-  note: BC-MIT
-  place: BC
-  room: Maloney 560
-  seminar: BC-MIT number theory seminar
-  speaker: Marty Weissman (UC Santa Cruz)
-  time: 2020-02-04 16:30:00-05:00
-  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
 - desc: "Supersingular main conjectures, Sylvester's conjecture\n  and Goldfeld's\
     \ conjecture"
   endtime: 2020-02-11 17:30:00-05:00
@@ -248,24 +228,4 @@
   seminar: BC-MIT number theory seminar
   speaker: Chao Li (Columbia)
   time: 2020-02-25 16:30:00-05:00
-  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
-- desc: null
-  endtime: 2020-04-07 16:00:00-04:00
-  label: BCMIT
-  note: BC-MIT
-  place: BC
-  room: Maloney 560
-  seminar: BC-MIT number theory seminar
-  speaker: Hang Xue (Arizona)
-  time: 2020-04-07 15:00:00-04:00
-  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
-- desc: null
-  endtime: 2020-04-07 17:30:00-04:00
-  label: BCMIT
-  note: BC-MIT
-  place: BC
-  room: Maloney 560
-  seminar: BC-MIT number theory seminar
-  speaker: Jacob Tsimerman (Toronto)
-  time: 2020-04-07 16:30:00-04:00
   url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
