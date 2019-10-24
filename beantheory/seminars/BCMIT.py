@@ -32,11 +32,12 @@ class BCMIT(GenericSeminar):
                 i = 5
             elif words[3].startswith('(BC'):
                 place = 'BC'
-                room = words[4].rstrip(')')
-                i = 5
-                if not room:
+                if words[3] == '(BC)':
                     room = 'Maloney 560'
                     i = 4
+                else:
+                    room = words[4].rstrip(')')
+                    i = 5
             else:
                 self.errors.append('Could not parse: {}, 3rd word does not match the possible cases'.format(row[0]))
                 continue
