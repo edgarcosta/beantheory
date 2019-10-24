@@ -219,6 +219,16 @@
   speaker: Marty Weissman (UC Santa Cruz)
   time: 2020-02-04 16:30:00-05:00
   url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- desc: "Supersingular main conjectures, Sylvester's conjecture\n  and Goldfeld's\
+    \ conjecture"
+  endtime: 2020-02-11 17:30:00-05:00
+  label: MIT
+  place: MIT
+  room: 2-143
+  seminar: MIT number theory seminar
+  speaker: Daniel Kriz (MIT)
+  time: 2020-02-11 16:30:00-05:00
+  url: http://math.mit.edu/nt/nts.html
 - desc: null
   endtime: 2020-02-25 16:00:00-05:00
   label: BCMIT

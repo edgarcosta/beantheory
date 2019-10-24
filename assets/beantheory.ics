@@ -204,6 +204,7 @@ BEGIN:VEVENT
 SUMMARY:Maria Ines de Frutos Fernandez   (Boston University)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191028T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191028T171500
+DESCRIPTION:Moduli Spaces of Shtukas over $\\mathbb{P}^1$
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT
@@ -295,6 +296,15 @@ BEGIN:VEVENT
 SUMMARY:Michael Stoll
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191119T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191119T173000
+LOCATION:MIT usually 2-143
+URL:http://math.mit.edu/nt/nts.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daniel Kriz (MIT)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200211T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200211T173000
+DESCRIPTION:Supersingular main conjectures\, Sylvester's conjecture\n  and
+  Goldfeld's conjecture
 LOCATION:MIT usually 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
