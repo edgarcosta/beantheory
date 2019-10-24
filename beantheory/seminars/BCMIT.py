@@ -17,6 +17,13 @@ class BCMIT(GenericSeminar):
 
     @cached_property
     def html_talks(self):
+        def parse_room(i, words):
+            roomw = []
+            for j, w in enumerate(words[i:]):
+                roomw.append(w.rstrip(')'))
+                if w.endswith(')'):
+                    return i + j, " ".join(roomw)
+            return None, None
         res = []
         for row in self.table:
             if len(row) != 1:
@@ -28,19 +35,21 @@ class BCMIT(GenericSeminar):
             i = 3
             if words[3].startswith('(MIT'):
                 place = 'MIT'
-                room = words[4].rstrip(')')
-                i = 5
+                i, room = parse_room(4, words)
             elif words[3].startswith('(BC'):
                 place = 'BC'
                 if words[3] == '(BC)':
                     room = 'Maloney 560'
                     i = 4
                 else:
-                    room = words[4].rstrip(')')
-                    i = 5
+                    i, room = parse_room(4, words)
             else:
                 self.errors.append('Could not parse: {}, 3rd word does not match the possible cases'.format(row[0]))
                 continue
+            if i is None:
+                self.errors.append('Could not parse room: {}'.format(row[0]))
+                continue
+
 
             if words[i] != '3:00-4:00:':
                 self.errors.append('Could not parse: {}, 3:00-4:00 not where expected'.format(row[0]))
