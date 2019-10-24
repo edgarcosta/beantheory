@@ -78,38 +78,6 @@ LOCATION:Harvard usually Sci Center 507
 URL:http://www.math.harvard.edu/cgi-bin/showtalk.pl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Zheng Liu (UC Santa Barbara)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190917T150000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190917T160000
-DESCRIPTION:"Doubling archimedean zeta integrals for symplectic and unitar
- y groups"
-LOCATION:MIT usually 2-449
-URL:https://www2.bc.edu/benjamin-howard/BC-MIT.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Will Sawin (Columbia / Clay Mathematics Institute)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190917T163000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190917T173000
-DESCRIPTION:"The sup-norm problem for modular forms over function fields a
- nd geometry"
-LOCATION:MIT usually 2-449
-URL:https://www2.bc.edu/benjamin-howard/BC-MIT.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bao Le Hung (Northwestern)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191203T150000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191203T160000
-LOCATION:MIT usually 2-449
-URL:https://www2.bc.edu/benjamin-howard/BC-MIT.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shou-Wu Zhang (Princeton)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191203T163000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191203T173000
-LOCATION:MIT usually 2-449
-URL:https://www2.bc.edu/benjamin-howard/BC-MIT.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wei Ho (Michigan)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200204T150000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200204T160000
@@ -121,20 +89,6 @@ SUMMARY:Marty Weissman (UC Santa Cruz)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200204T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200204T173000
 LOCATION:BC usually Maloney 560
-URL:https://www2.bc.edu/benjamin-howard/BC-MIT.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Daniel Litt (Georgia)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200225T150000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200225T160000
-LOCATION:MIT usually 2-449
-URL:https://www2.bc.edu/benjamin-howard/BC-MIT.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chao Li (Columbia)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200225T163000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200225T173000
-LOCATION:MIT usually 2-449
 URL:https://www2.bc.edu/benjamin-howard/BC-MIT.html
 END:VEVENT
 BEGIN:VEVENT

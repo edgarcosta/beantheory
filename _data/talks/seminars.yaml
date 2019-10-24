@@ -2,9 +2,18 @@
   label: BC
   name: BC NT & AG seminar
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- errors: 'Could not parse:  October 29, 2019 (BC, Maloney 560)  3:00-4:00: Aaron
-    Pollack (Duke): "Modular forms on exceptional groups"  4:30-5:30: Kirsten Wickelgren
-    (Duke): "An arithmetic count of rational plane curves" , 3:00-4:00 not where expected'
+- errors: "Could not parse:  September 17, 2019 (MIT, 2-449)  3:00-4:00: Zheng Liu\
+    \ (UC Santa Barbara): \"Doubling archimedean zeta integrals for symplectic and\
+    \ unitary groups\"  4:30-5:30: Will Sawin (Columbia / Clay Mathematics Institute):\
+    \ \"The sup-norm problem for modular forms over function fields and geometry\"\
+    \ , 3:00-4:00 not where expected\n Could not parse:  October 29, 2019 (BC, Maloney\
+    \ 560)  3:00-4:00: Aaron Pollack (Duke): \"Modular forms on exceptional groups\"\
+    \  4:30-5:30: Kirsten Wickelgren (Duke): \"An arithmetic count of rational plane\
+    \ curves\" , 3:00-4:00 not where expected\n Could not parse:  December 3, 2019\
+    \ (MIT, 2-449)  3:00-4:00: Bao Le Hung (Northwestern)  4:30-5:30: Shou-Wu Zhang\
+    \ (Princeton) , 3:00-4:00 not where expected\n Could not parse:  February 25,\
+    \ 2020 (MIT, 2-449)  3:00-4:00: Daniel Litt (Georgia)  4:30-5:30: Chao Li (Columbia)\
+    \ , 3:00-4:00 not where expected"
   label: BCMIT
   name: BC-MIT number theory seminar
   url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
