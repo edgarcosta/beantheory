@@ -262,10 +262,9 @@ LOCATION:MIT usually 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wanlin Li (MIT)
+SUMMARY:Wanlin Li
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190924T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190924T173000
-DESCRIPTION:Vanishing of Hyperelliptic L-functions at the Central Point
 LOCATION:MIT usually 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT

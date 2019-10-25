@@ -195,13 +195,14 @@
   speaker: Tony Feng MIT
   time: 2019-09-25 15:00:00-04:00
   url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: Vanishing of Hyperelliptic L-functions at the Central Point
+- desc: null
   endtime: 2019-09-24 17:30:00-04:00
   label: MIT
+  note: null
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar
-  speaker: Wanlin Li (MIT)
+  speaker: Wanlin Li
   time: 2019-09-24 16:30:00-04:00
   url: http://math.mit.edu/nt/nts.html
 - desc: Flag varieties and representations of p-adic groups
