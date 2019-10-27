@@ -1,57 +1,67 @@
-- desc: 2^k-Selmer groups and Goldfeld's conjecture
-  endtime: 2019-10-21 17:15:00-04:00
+- desc: Moduli Spaces of Shtukas over $\mathbb{P}^1$
+  endtime: 2019-10-28 17:15:00-04:00
   label: BU
   note: null
   place: BU
   room: MCS B31
   seminar: BU number theory seminar
-  speaker: Alexander Smith   (Harvard University)
-  time: 2019-10-21 16:15:00-04:00
+  speaker: Maria Ines de Frutos Fernandez   (Boston University)
+  time: 2019-10-28 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
-- desc: Tate module tensor decompositions for modular abelian varieties
-  endtime: 2019-10-22 17:30:00-04:00
-  label: MIT
-  place: MIT
-  room: 2-143
-  seminar: MIT number theory seminar
-  speaker: "Francesc Fit\xE9 (MIT)"
-  time: 2019-10-22 16:30:00-04:00
-  url: http://math.mit.edu/nt/nts.html
-- desc: Reflection theorems generalizing the Ohno-Nakagawa identities
-  endtime: 2019-10-23 16:00:00-04:00
-  label: Harvard
-  note: null
-  place: Harvard
-  room: Science Center 507
-  seminar: Harvard number theory seminar
-  speaker: Evan O'Dorney Princeton University
-  time: 2019-10-23 15:00:00-04:00
-  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
+- desc: '"Modular forms on exceptional groups"'
+  endtime: 2019-10-29 16:00:00-04:00
+  label: BCMIT
+  note: BC-MIT
+  place: BC
+  room: Maloney 560
+  seminar: BC-MIT number theory seminar
+  speaker: Aaron Pollack (Duke)
+  time: 2019-10-29 15:00:00-04:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- desc: '"An arithmetic count of rational plane curves"'
+  endtime: 2019-10-29 17:30:00-04:00
+  label: BCMIT
+  note: BC-MIT
+  place: BC
+  room: Maloney 560
+  seminar: BC-MIT number theory seminar
+  speaker: Kirsten Wickelgren (Duke)
+  time: 2019-10-29 16:30:00-04:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
 - desc: null
-  endtime: 2019-10-24 15:00:00-04:00
+  endtime: 2019-10-31 15:00:00-04:00
   label: BC
   place: BC
   room: Maloney 560
   seminar: BC NT & AG seminar
-  speaker: Charlotte Chan (MIT)
-  time: 2019-10-24 14:00:00-04:00
+  speaker: Navid Nabijou (Glasgow)
+  time: 2019-10-31 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: null
-  endtime: 2019-10-24 17:30:00-04:00
-  label: TUFTS
-  place: Tufts
-  room: Bromfield-Pearson 101
-  seminar: Tufts algebra, geometry, and number theory seminar
-  speaker: Benjamin Linowitz (Oberlin)
-  time: 2019-10-24 16:30:00-04:00
-  url: https://sites.google.com/view/tuftsagents/home
-- desc: null
-  endtime: 2019-10-25 12:00:00-04:00
+- desc: 'Lecture I: Applications of Points on Subvarieties of Tori'
+  endtime: 2019-10-31 16:15:00-04:00
+  label: special
+  note: Ahlfors Lectures
+  place: Harvard
+  room: Science Center Hall D
+  speaker: Peter Sarnak
+  time: 2019-10-31 17:15:00-04:00
+  url: http://www.math.harvard.edu/conferences/ahlfors19/index.html
+- desc: p-divisible groups (Tate 2)
+  endtime: 2019-11-01 12:00:00-04:00
   label: STAGE
   note: null
   place: MIT-STAGE
   room: 2-132
   seminar: STAGE
-  speaker: p-divisible groups (Tate 1)
-  time: 2019-10-25 10:00:00-04:00
+  speaker: Tony Feng
+  time: 2019-11-01 10:00:00-04:00
   url: http://math.mit.edu/nt/stage.html
+- desc: 'Lecture II: Integer Points on Affine Cubic Surfaces'
+  endtime: 2019-11-01 16:15:00-04:00
+  label: special
+  note: Ahlfors Lectures
+  place: Harvard
+  room: Science Center Hall D
+  speaker: Peter Sarnak
+  time: 2019-11-01 17:15:00-04:00
+  url: http://www.math.harvard.edu/conferences/ahlfors19/index.html
