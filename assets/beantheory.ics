@@ -70,11 +70,27 @@ LOCATION:Harvard usually Science Center 507
 URL:http://www.math.harvard.edu/cgi-bin/showtalk.pl
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Yifeng Liu Yale University
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191030T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191030T160000
+DESCRIPTION:Isolation of L^2 spectrum and Gan-Gross-Prasad conjecture
+LOCATION:Harvard usually Science Center 530
+URL:http://www.math.harvard.edu/cgi-bin/showtalk.pl
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kestutis Cesnavicius CNRS/Paris-Sud
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191106T150000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191106T160000
 DESCRIPTION:Purity for flat cohomology
 LOCATION:Harvard usually Sci Center 507
+URL:http://www.math.harvard.edu/cgi-bin/showtalk.pl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daxin Xu Caltech
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191113T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191113T160000
+DESCRIPTION:Bessel F-isocrystals for reductive groups
+LOCATION:Harvard usually Science Center 507
 URL:http://www.math.harvard.edu/cgi-bin/showtalk.pl
 END:VEVENT
 BEGIN:VEVENT
