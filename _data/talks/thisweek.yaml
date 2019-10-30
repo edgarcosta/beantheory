@@ -56,15 +56,14 @@
   speaker: Peter Sarnak
   time: 2019-10-31 17:15:00-04:00
   url: http://www.math.harvard.edu/conferences/ahlfors19/index.html
-- desc: p-divisible groups (Tate 2)
-  endtime: 2019-11-01 12:00:00-04:00
+- desc: ' '
+  endtime: 2019-11-01 11:40:00-04:00
   label: STAGE
-  note: null
   place: MIT-STAGE
-  room: 2-132
+  room: Building 2, 2-132
   seminar: STAGE
-  speaker: Tony Feng
-  time: 2019-11-01 10:00:00-04:00
+  speaker: Tony Feng (MIT)
+  time: 2019-11-01 10:10:00-04:00
   url: http://math.mit.edu/nt/stage.html
 - desc: 'Lecture II: Integer Points on Affine Cubic Surfaces'
   endtime: 2019-11-01 16:15:00-04:00
