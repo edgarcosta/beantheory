@@ -4,6 +4,22 @@ PRODID:beantheory
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Bean Theory
 BEGIN:VEVENT
+SUMMARY:Peter Sarnak
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191031T161500
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191031T171500
+DESCRIPTION:Lecture I: Applications of Points on Subvarieties of Tori
+LOCATION:Harvard usually Science Center Hall D
+URL:http://www.math.harvard.edu/conferences/ahlfors19/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peter Sarnak
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191101T161500
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191101T171500
+DESCRIPTION:Lecture II: Integer Points on Affine Cubic Surfaces
+LOCATION:Harvard usually Science Center Hall D
+URL:http://www.math.harvard.edu/conferences/ahlfors19/index.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fabian Gundlach Harvard University
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190911T150000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190911T160000
@@ -329,7 +345,7 @@ BEGIN:VEVENT
 SUMMARY:SPEAKER:  Anup Dixit  (Queen's University)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191112T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191112T171500
-LOCATION:MIT usually 2-143
+LOCATION:MIT usually Room 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
@@ -580,7 +596,7 @@ BEGIN:VEVENT
 SUMMARY:Tony Feng (MIT)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191101T101000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191101T114000
-DESCRIPTION: 
+DESCRIPTION:p-divisible groups I 
 LOCATION:MIT-STAGE usually Building 2\, 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
