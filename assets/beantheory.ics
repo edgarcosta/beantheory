@@ -94,6 +94,14 @@ LOCATION:Harvard usually Science Center 507
 URL:http://www.math.harvard.edu/cgi-bin/showtalk.pl
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Michele Fornea IAS
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191204T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191204T160000
+DESCRIPTION:On the arithmetic of elliptic curves over quintic fields
+LOCATION:Harvard usually Science Center 507
+URL:http://www.math.harvard.edu/cgi-bin/showtalk.pl
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Zheng Liu (UC Santa Barbara)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190917T150000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190917T160000
@@ -318,9 +326,9 @@ LOCATION:MIT usually 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anup Dixit
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191112T163000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191112T173000
+SUMMARY:SPEAKER:  Anup Dixit  (Queen's University)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191112T161500
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191112T171500
 LOCATION:MIT usually 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
@@ -474,6 +482,7 @@ BEGIN:VEVENT
 SUMMARY:Yusuke Nakamura (Tokyo)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191107T140000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191107T150000
+DESCRIPTION:Rational point problem on singular Fano varieties.
 LOCATION:BC usually Maloney 560
 URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT

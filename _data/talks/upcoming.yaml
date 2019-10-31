@@ -8,15 +8,14 @@
   speaker: Wanlin Li   (MIT)
   time: 2019-11-11 16:15:00-05:00
   url: http://math.bu.edu/research/algebra/seminar.html
-- desc: null
-  endtime: 2019-11-12 17:30:00-05:00
+- desc: ''
+  endtime: 2019-11-12 17:15:00-05:00
   label: MIT
-  note: null
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar
-  speaker: Anup Dixit
-  time: 2019-11-12 16:30:00-05:00
+  speaker: 'SPEAKER:  Anup Dixit  (Queen''s University)'
+  time: 2019-11-12 16:15:00-05:00
   url: http://math.mit.edu/nt/nts.html
 - desc: Bessel F-isocrystals for reductive groups
   endtime: 2019-11-13 16:00:00-05:00
@@ -133,6 +132,16 @@
   speaker: Shou-Wu Zhang (Princeton)
   time: 2019-12-03 16:30:00-05:00
   url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- desc: On the arithmetic of elliptic curves over quintic fields
+  endtime: 2019-12-04 16:00:00-05:00
+  label: Harvard
+  note: null
+  place: Harvard
+  room: Science Center 507
+  seminar: Harvard number theory seminar
+  speaker: Michele Fornea IAS
+  time: 2019-12-04 15:00:00-05:00
+  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
 - desc: null
   endtime: 2019-12-05 15:00:00-05:00
   label: BC
