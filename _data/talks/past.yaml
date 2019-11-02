@@ -1,14 +1,4 @@
 - desc: null
-  endtime: 2019-10-25 12:00:00-04:00
-  label: STAGE
-  note: null
-  place: MIT-STAGE
-  room: 2-132
-  seminar: STAGE
-  speaker: p-divisible groups (Tate 1)
-  time: 2019-10-25 10:00:00-04:00
-  url: http://math.mit.edu/nt/stage.html
-- desc: null
   endtime: 2019-10-24 17:30:00-04:00
   label: TUFTS
   place: Tufts
@@ -206,13 +196,14 @@
   speaker: Ananth Shankar MIT
   time: 2019-10-02 15:00:00-04:00
   url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: On algebras of low rank
+- desc: null
   endtime: 2019-10-01 17:30:00-04:00
   label: MIT
+  note: null
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar
-  speaker: Sam Schiavone (MIT)
+  speaker: Sam Schiavone
   time: 2019-10-01 16:30:00-04:00
   url: http://math.mit.edu/nt/nts.html
 - desc: Formal groups as functors (Zink, Chapter 2, Sections 1-3)
