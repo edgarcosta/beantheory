@@ -235,14 +235,15 @@
   speaker: Daniel Hast   (Boston University)
   time: 2019-10-07 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
-- desc: Reconstructing a formal group from its Cartier module
-  endtime: 2019-10-04 11:40:00-04:00
+- desc: Reconstructing a formal group from its Cartier module (Zink, Chapter 3)
+  endtime: 2019-10-04 12:00:00-04:00
   label: STAGE
+  note: null
   place: MIT-STAGE
-  room: Building 2, 2-132
+  room: 2-132
   seminar: STAGE
   speaker: Alex Smith
-  time: 2019-10-04 10:10:00-04:00
+  time: 2019-10-04 10:00:00-04:00
   url: http://math.mit.edu/nt/stage.html
 - desc: null
   endtime: 2019-10-03 17:30:00-04:00
