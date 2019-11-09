@@ -317,10 +317,9 @@ LOCATION:MIT usually 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ziyang Gao (CNRS and Institut Mathématiques de Jussieu)
+SUMMARY:Ziyang Gao
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191008T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191008T173000
-DESCRIPTION:Bound on the number of rational points on curves
 LOCATION:MIT usually 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT

@@ -205,13 +205,14 @@
   speaker: Stefan Patrikis Utah
   time: 2019-10-09 15:00:00-04:00
   url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: Bound on the number of rational points on curves
+- desc: null
   endtime: 2019-10-08 17:30:00-04:00
   label: MIT
+  note: null
   place: MIT
   room: 2-143
   seminar: MIT number theory seminar
-  speaker: "Ziyang Gao (CNRS and Institut Math\xE9matiques de Jussieu)"
+  speaker: Ziyang Gao
   time: 2019-10-08 16:30:00-04:00
   url: http://math.mit.edu/nt/nts.html
 - desc: Picard ranks of families of K3 surfaces in positive characteristic (Harvard/MIT
