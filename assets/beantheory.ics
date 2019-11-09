@@ -21,8 +21,8 @@ URL:http://www.math.harvard.edu/conferences/ahlfors19/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ellen Eischen\, U Oregon
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191113T153000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191113T163000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191113T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191113T173000
 DESCRIPTION:An Introduction to the Bernoulli Numbers\, from Pythagoras to 
  Present
 LOCATION:Harvard usually Science Center 507
@@ -30,8 +30,8 @@ URL:http://www.math.harvard.edu/cgi-bin/showtalk.pl
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ellen Eischen\, U Oregon
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191114T153000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191114T163000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191114T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191114T173000
 DESCRIPTION:Some congruences and consequences in number theory and beyond
 LOCATION:Harvard usually Science Center Hall A
 URL:http://www.northeastern.edu/tzhou/bhmn/Eischen19.html
