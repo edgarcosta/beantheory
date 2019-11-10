@@ -1,3 +1,60 @@
+- desc: Hodge-Tate decomposition II
+  endtime: 2019-11-08 11:40:00-05:00
+  label: STAGE
+  place: MIT-STAGE
+  room: Building 2, 2-132
+  seminar: STAGE
+  speaker: Andreas Mihatsch (MIT)
+  time: 2019-11-08 10:10:00-05:00
+  url: http://math.mit.edu/nt/stage.html
+- desc: null
+  endtime: 2019-11-07 17:30:00-05:00
+  label: TUFTS
+  place: Tufts
+  room: Bromfield-Pearson 101
+  seminar: Tufts algebra, geometry, and number theory seminar
+  speaker: Brandon Alberts (UConn)
+  time: 2019-11-07 16:30:00-05:00
+  url: https://sites.google.com/view/tuftsagents/home
+- desc: Rational point problem on singular Fano varieties.
+  endtime: 2019-11-07 15:00:00-05:00
+  label: BC
+  place: BC
+  room: Maloney 560
+  seminar: BC NT & AG seminar
+  speaker: Yusuke Nakamura (Tokyo)
+  time: 2019-11-07 14:00:00-05:00
+  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: Purity for flat cohomology
+  endtime: 2019-11-06 16:00:00-05:00
+  label: Harvard
+  note: null
+  place: Harvard
+  room: Sci Center 507
+  seminar: Harvard number theory seminar
+  speaker: Kestutis Cesnavicius CNRS/Paris-Sud
+  time: 2019-11-06 15:00:00-05:00
+  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
+- desc: null
+  endtime: 2019-11-05 17:30:00-05:00
+  label: MIT
+  note: null
+  place: MIT
+  room: 2-143
+  seminar: MIT number theory seminar
+  speaker: Andreas Mihatsch
+  time: 2019-11-05 16:30:00-05:00
+  url: http://math.mit.edu/nt/nts.html
+- desc: Motivic Euler products in motivic statistics
+  endtime: 2019-11-04 17:15:00-05:00
+  label: BU
+  note: null
+  place: BU
+  room: MCS B31
+  seminar: BU number theory seminar
+  speaker: Margaret Bilu   (Courant Institute, NYU)
+  time: 2019-11-04 16:15:00-05:00
+  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: 'Lecture II: Integer Points on Affine Cubic Surfaces'
   endtime: 2019-11-01 17:15:00-04:00
   label: special

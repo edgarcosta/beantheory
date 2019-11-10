@@ -1,57 +1,75 @@
-- desc: Motivic Euler products in motivic statistics
-  endtime: 2019-11-04 17:15:00-05:00
+- desc: Newton polygon stratification  of the Torelli locus in PEL-type Shimura varieties
+  endtime: 2019-11-11 17:15:00-05:00
   label: BU
   note: null
   place: BU
   room: MCS B31
   seminar: BU number theory seminar
-  speaker: Margaret Bilu   (Courant Institute, NYU)
-  time: 2019-11-04 16:15:00-05:00
+  speaker: Wanlin Li   (MIT)
+  time: 2019-11-11 16:15:00-05:00
   url: http://math.bu.edu/research/algebra/seminar.html
-- desc: null
-  endtime: 2019-11-05 17:30:00-05:00
+- desc: ''
+  endtime: 2019-11-12 17:15:00-05:00
   label: MIT
-  note: null
   place: MIT
-  room: 2-143
+  room: Room 2-143
   seminar: MIT number theory seminar
-  speaker: Andreas Mihatsch
-  time: 2019-11-05 16:30:00-05:00
+  speaker: 'SPEAKER:  Anup Dixit  (Queen''s University)'
+  time: 2019-11-12 16:15:00-05:00
   url: http://math.mit.edu/nt/nts.html
-- desc: Purity for flat cohomology
-  endtime: 2019-11-06 16:00:00-05:00
+- desc: Bessel F-isocrystals for reductive groups
+  endtime: 2019-11-13 16:00:00-05:00
   label: Harvard
   note: null
   place: Harvard
-  room: Sci Center 507
+  room: Science Center 507
   seminar: Harvard number theory seminar
-  speaker: Kestutis Cesnavicius CNRS/Paris-Sud
-  time: 2019-11-06 15:00:00-05:00
+  speaker: Daxin Xu Caltech
+  time: 2019-11-13 15:00:00-05:00
   url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: Rational point problem on singular Fano varieties.
-  endtime: 2019-11-07 15:00:00-05:00
+- desc: An Introduction to the Bernoulli Numbers, from Pythagoras to Present
+  endtime: 2019-11-13 17:30:00-05:00
+  label: special
+  note: Open neighborhood seminar
+  place: Harvard
+  room: Science Center 507
+  speaker: Ellen Eischen, U Oregon
+  time: 2019-11-13 16:30:00-05:00
+  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
+- desc: null
+  endtime: 2019-11-14 15:00:00-05:00
   label: BC
   place: BC
   room: Maloney 560
   seminar: BC NT & AG seminar
-  speaker: Yusuke Nakamura (Tokyo)
-  time: 2019-11-07 14:00:00-05:00
+  speaker: Jennifer Balakrishnan (BU)
+  time: 2019-11-14 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: null
-  endtime: 2019-11-07 17:30:00-05:00
+  endtime: 2019-11-14 17:30:00-05:00
   label: TUFTS
   place: Tufts
   room: Bromfield-Pearson 101
   seminar: Tufts algebra, geometry, and number theory seminar
-  speaker: Brandon Alberts (UConn)
-  time: 2019-11-07 16:30:00-05:00
+  speaker: Nicole Looper (Brown)
+  time: 2019-11-14 16:30:00-05:00
   url: https://sites.google.com/view/tuftsagents/home
-- desc: Hodge-Tate decomposition II
-  endtime: 2019-11-08 11:40:00-05:00
+- desc: Some congruences and consequences in number theory and beyond
+  endtime: 2019-11-14 17:30:00-05:00
+  label: special
+  note: Joint Mathematics Colloquium Brandeis-Harvard-MIT-Northeastern
+  place: Harvard
+  room: Science Center Hall A
+  speaker: Ellen Eischen, U Oregon
+  time: 2019-11-14 16:30:00-05:00
+  url: http://www.northeastern.edu/tzhou/bhmn/Eischen19.html
+- desc: null
+  endtime: 2019-11-15 12:00:00-05:00
   label: STAGE
+  note: null
   place: MIT-STAGE
-  room: Building 2, 2-132
+  room: 2-132
   seminar: STAGE
-  speaker: Andreas Mihatsch (MIT)
-  time: 2019-11-08 10:10:00-05:00
+  speaker: Syed Waqar Ali Shah
+  time: 2019-11-15 10:00:00-05:00
   url: http://math.mit.edu/nt/stage.html
