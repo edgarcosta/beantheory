@@ -225,14 +225,16 @@
   speaker: John Bergdall   (Bryn Mawr College)
   time: 2019-10-15 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
-- desc: Cartier theory
-  endtime: 2019-10-11 11:35:00-04:00
+- desc: Basic Cartier theory. Group schemes and formal group schemes (Zink, Chapter
+    3; Demazure Chapter 2)
+  endtime: 2019-10-11 12:00:00-04:00
   label: STAGE
+  note: null
   place: MIT-STAGE
-  room: Building 2, 2-132
+  room: 2-132
   seminar: STAGE
   speaker: Naomi Sweeting
-  time: 2019-10-11 10:15:00-04:00
+  time: 2019-10-11 10:00:00-04:00
   url: http://math.mit.edu/nt/stage.html
 - desc: null
   endtime: 2019-10-10 17:30:00-04:00
