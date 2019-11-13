@@ -521,6 +521,7 @@ BEGIN:VEVENT
 SUMMARY:Jennifer Balakrishnan (BU)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191114T140000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191114T150000
+DESCRIPTION:A tale of three curves
 LOCATION:BC usually Maloney 560
 URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT
@@ -619,10 +620,11 @@ LOCATION:MIT-STAGE usually Building 2\, 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Syed Waqar Ali Shah
+SUMMARY:Speaker: Syed Waqar Ali Shah 
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191115T100000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191115T120000
-LOCATION:MIT-STAGE usually 2-132
+DESCRIPTION:Title: TBA
+LOCATION:MIT-STAGE usually Building 2\, 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 END:VCALENDAR
