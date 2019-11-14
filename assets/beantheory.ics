@@ -302,6 +302,8 @@ BEGIN:VEVENT
 SUMMARY:Matthew Friedrichsen   (Tufts University)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191118T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191118T171500
+DESCRIPTION:Comparing the density of certain quartic extensions of number 
+ fields
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT
@@ -364,10 +366,11 @@ LOCATION:MIT usually Room 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Michael Stoll
+SUMMARY:SPEAKER:  Michael Stoll   (Universität Bayreuth)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191119T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191119T173000
-LOCATION:MIT usually 2-143
+DESCRIPTION:Selmer group Chabauty
+LOCATION:MIT usually MIT Room 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT

@@ -1,4 +1,4 @@
-- desc: null
+- desc: Comparing the density of certain quartic extensions of number fields
   endtime: 2019-11-18 17:15:00-05:00
   label: BU
   note: null
@@ -8,14 +8,13 @@
   speaker: Matthew Friedrichsen   (Tufts University)
   time: 2019-11-18 16:15:00-05:00
   url: http://math.bu.edu/research/algebra/seminar.html
-- desc: null
+- desc: Selmer group Chabauty
   endtime: 2019-11-19 17:30:00-05:00
   label: MIT
-  note: null
   place: MIT
-  room: 2-143
+  room: MIT Room 2-143
   seminar: MIT number theory seminar
-  speaker: Michael Stoll
+  speaker: "SPEAKER:  Michael Stoll   (Universit\xE4t Bayreuth)"
   time: 2019-11-19 16:30:00-05:00
   url: http://math.mit.edu/nt/nts.html
 - desc: null
