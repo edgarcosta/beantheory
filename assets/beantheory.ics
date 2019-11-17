@@ -37,6 +37,14 @@ LOCATION:Harvard usually Science Center Hall A
 URL:http://www.northeastern.edu/tzhou/bhmn/Eischen19.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Peter Patzt (Perdue University)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191118T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191118T173000
+DESCRIPTION:High dimensional cohomology of congruence subgroups
+LOCATION:MIT usually 2 - 131
+URL:https://calendar.mit.edu/event/algebraic_topology_seminar_20191118
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fabian Gundlach Harvard University
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190911T150000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190911T160000
