@@ -1,74 +1,37 @@
-- desc: Newton polygon stratification  of the Torelli locus in PEL-type Shimura varieties
-  endtime: 2019-11-11 17:15:00-05:00
+- desc: Comparing the density of certain quartic extensions of number fields
+  endtime: 2019-11-18 17:15:00-05:00
   label: BU
   note: null
   place: BU
   room: MCS B31
   seminar: BU number theory seminar
-  speaker: Wanlin Li   (MIT)
-  time: 2019-11-11 16:15:00-05:00
+  speaker: Matthew Friedrichsen   (Tufts University)
+  time: 2019-11-18 16:15:00-05:00
   url: http://math.bu.edu/research/algebra/seminar.html
-- desc: ''
-  endtime: 2019-11-12 17:15:00-05:00
+- desc: Selmer group Chabauty
+  endtime: 2019-11-19 17:30:00-05:00
   label: MIT
   place: MIT
-  room: Room 2-143
+  room: MIT Room 2-143
   seminar: MIT number theory seminar
-  speaker: 'SPEAKER:  Anup Dixit  (Queen''s University)'
-  time: 2019-11-12 16:15:00-05:00
+  speaker: "SPEAKER:  Michael Stoll   (Universit\xE4t Bayreuth)"
+  time: 2019-11-19 16:30:00-05:00
   url: http://math.mit.edu/nt/nts.html
-- desc: Bessel F-isocrystals for reductive groups
-  endtime: 2019-11-13 16:00:00-05:00
-  label: Harvard
-  note: null
-  place: Harvard
-  room: Science Center 507
-  seminar: Harvard number theory seminar
-  speaker: Daxin Xu Caltech
-  time: 2019-11-13 15:00:00-05:00
-  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: An Introduction to the Bernoulli Numbers, from Pythagoras to Present
-  endtime: 2019-11-13 17:30:00-05:00
-  label: special
-  note: Open neighborhood seminar
-  place: Harvard
-  room: Science Center 507
-  speaker: Ellen Eischen, U Oregon
-  time: 2019-11-13 16:30:00-05:00
-  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: A tale of three curves
-  endtime: 2019-11-14 15:00:00-05:00
+- desc: null
+  endtime: 2019-11-21 15:00:00-05:00
   label: BC
   place: BC
   room: Maloney 560
   seminar: BC NT & AG seminar
-  speaker: Jennifer Balakrishnan (BU)
-  time: 2019-11-14 14:00:00-05:00
+  speaker: Melissa Emory (Toronto)
+  time: 2019-11-21 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: null
-  endtime: 2019-11-14 17:30:00-05:00
+  endtime: 2019-11-21 17:30:00-05:00
   label: TUFTS
   place: Tufts
   room: Bromfield-Pearson 101
   seminar: Tufts algebra, geometry, and number theory seminar
-  speaker: Nicole Looper (Brown)
-  time: 2019-11-14 16:30:00-05:00
+  speaker: Aaron Landesman (Stanford)
+  time: 2019-11-21 16:30:00-05:00
   url: https://sites.google.com/view/tuftsagents/home
-- desc: Some congruences and consequences in number theory and beyond
-  endtime: 2019-11-14 17:30:00-05:00
-  label: special
-  note: Joint Mathematics Colloquium Brandeis-Harvard-MIT-Northeastern
-  place: Harvard
-  room: Science Center Hall A
-  speaker: Ellen Eischen, U Oregon
-  time: 2019-11-14 16:30:00-05:00
-  url: http://www.northeastern.edu/tzhou/bhmn/Eischen19.html
-- desc: 'Title: TBA'
-  endtime: 2019-11-15 12:00:00-05:00
-  label: STAGE
-  place: MIT-STAGE
-  room: Building 2, 2-132
-  seminar: STAGE
-  speaker: 'Speaker: Syed Waqar Ali Shah '
-  time: 2019-11-15 10:00:00-05:00
-  url: http://math.mit.edu/nt/stage.html

@@ -1,37 +1,9 @@
-- desc: Comparing the density of certain quartic extensions of number fields
-  endtime: 2019-11-18 17:15:00-05:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Matthew Friedrichsen   (Tufts University)
-  time: 2019-11-18 16:15:00-05:00
-  url: http://math.bu.edu/research/algebra/seminar.html
-- desc: Selmer group Chabauty
-  endtime: 2019-11-19 17:30:00-05:00
-  label: MIT
-  place: MIT
-  room: MIT Room 2-143
-  seminar: MIT number theory seminar
-  speaker: "SPEAKER:  Michael Stoll   (Universit\xE4t Bayreuth)"
-  time: 2019-11-19 16:30:00-05:00
-  url: http://math.mit.edu/nt/nts.html
 - desc: null
-  endtime: 2019-11-21 15:00:00-05:00
+  endtime: 2019-11-28 15:00:00-05:00
   label: BC
   place: BC
   room: Maloney 560
   seminar: BC NT & AG seminar
-  speaker: Melissa Emory (Toronto)
-  time: 2019-11-21 14:00:00-05:00
+  speaker: No seminar (Thanksgiving break)
+  time: 2019-11-28 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: null
-  endtime: 2019-11-21 17:30:00-05:00
-  label: TUFTS
-  place: Tufts
-  room: Bromfield-Pearson 101
-  seminar: Tufts algebra, geometry, and number theory seminar
-  speaker: Aaron Landesman (Stanford)
-  time: 2019-11-21 16:30:00-05:00
-  url: https://sites.google.com/view/tuftsagents/home
