@@ -252,14 +252,15 @@
   speaker: Alexander Smith   (Harvard University)
   time: 2019-10-21 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
-- desc: Finite flat group schemes
-  endtime: 2019-10-18 11:40:00-04:00
+- desc: Finite flat group schemes (Demazure, Chapter 2)
+  endtime: 2019-10-18 12:00:00-04:00
   label: STAGE
+  note: null
   place: MIT-STAGE
-  room: Building 2, 2-132
+  room: 2-132
   seminar: STAGE
-  speaker: Borys Kadets (MIT)
-  time: 2019-10-18 10:10:00-04:00
+  speaker: Borys Kadets
+  time: 2019-10-18 10:00:00-04:00
   url: http://math.mit.edu/nt/stage.html
 - desc: null
   endtime: 2019-10-17 17:30:00-04:00

@@ -135,6 +135,15 @@ LOCATION:Harvard usually Science Center 507
 URL:http://www.math.harvard.edu/cgi-bin/showtalk.pl
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Yihang Zhu Columbia University
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191120T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191120T160000
+DESCRIPTION:Stabilization of the trace formula for abelian-type Shimura va
+ rieties
+LOCATION:Harvard usually Science Center 507
+URL:http://www.math.harvard.edu/cgi-bin/showtalk.pl
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Michele Fornea IAS
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191204T150000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191204T160000
@@ -607,11 +616,11 @@ LOCATION:MIT-STAGE usually 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Borys Kadets (MIT)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191018T101000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191018T114000
-DESCRIPTION:Finite flat group schemes
-LOCATION:MIT-STAGE usually Building 2\, 2-132
+SUMMARY:Borys Kadets
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191018T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191018T120000
+DESCRIPTION:Finite flat group schemes (Demazure\, Chapter 2)
+LOCATION:MIT-STAGE usually 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
@@ -636,6 +645,14 @@ DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191115T100000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191115T120000
 DESCRIPTION:Title: TBA
 LOCATION:MIT-STAGE usually Building 2\, 2-132
+URL:http://math.mit.edu/nt/stage.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Syed Waqar Ali Shah
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191122T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191122T120000
+DESCRIPTION:Dieudonne theory II: Classification
+LOCATION:MIT-STAGE usually 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 END:VCALENDAR
