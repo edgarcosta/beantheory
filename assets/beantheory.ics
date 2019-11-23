@@ -360,11 +360,9 @@ LOCATION:MIT usually 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Francesc Fité (MIT)
+SUMMARY:Francesc Fité
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191022T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191022T173000
-DESCRIPTION:Tate module tensor decompositions for modular abelian varietie
- s
 LOCATION:MIT usually 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
