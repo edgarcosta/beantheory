@@ -328,6 +328,7 @@ BEGIN:VEVENT
 SUMMARY:Soumya Sankar   (University of Wisconsin)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191202T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191202T171500
+DESCRIPTION:Counting elliptic curves with a rational N-isogeny
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT
@@ -389,10 +390,10 @@ LOCATION:MIT usually MIT Room 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mathilde Gerbelli-Gauthier
+SUMMARY:SPEAKER:  Mathilde Gerbelli-Gauthier (University of Chicago)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191126T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191126T173000
-LOCATION:MIT usually 2-143
+LOCATION:MIT usually MIT-Room 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
