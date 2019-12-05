@@ -1,48 +1,58 @@
-- desc: Motivic Euler products in motivic statistics
-  endtime: 2019-11-04 17:15:00-05:00
+- desc: Counting elliptic curves with a rational N-isogeny
+  endtime: 2019-12-02 17:15:00-05:00
   label: BU
   note: null
   place: BU
   room: MCS B31
   seminar: BU number theory seminar
-  speaker: Margaret Bilu   (Courant Institute, NYU)
-  time: 2019-11-04 16:15:00-05:00
+  speaker: Soumya Sankar   (University of Wisconsin)
+  time: 2019-12-02 16:15:00-05:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
-  endtime: 2019-11-05 17:30:00-05:00
-  label: MIT
-  note: null
+  endtime: 2019-12-03 16:00:00-05:00
+  label: BCMIT
+  note: BC-MIT
   place: MIT
-  room: 2-143
-  seminar: MIT number theory seminar
-  speaker: Andreas Mihatsch
-  time: 2019-11-05 16:30:00-05:00
-  url: http://math.mit.edu/nt/nts.html
-- desc: Purity for flat cohomology
-  endtime: 2019-11-06 16:00:00-05:00
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: Bao Le Hung (Northwestern)
+  time: 2019-12-03 15:00:00-05:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- desc: null
+  endtime: 2019-12-03 17:30:00-05:00
+  label: BCMIT
+  note: BC-MIT
+  place: MIT
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: Shou-Wu Zhang (Princeton)
+  time: 2019-12-03 16:30:00-05:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- desc: On the arithmetic of elliptic curves over quintic fields
+  endtime: 2019-12-04 16:00:00-05:00
   label: Harvard
   note: null
   place: Harvard
-  room: Sci Center 507
+  room: Science Center 507
   seminar: Harvard number theory seminar
-  speaker: Kestutis Cesnavicius CNRS/Paris-Sud
-  time: 2019-11-06 15:00:00-05:00
+  speaker: Michele Fornea IAS
+  time: 2019-12-04 15:00:00-05:00
   url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: Rational point problem on singular Fano varieties.
-  endtime: 2019-11-07 15:00:00-05:00
+- desc: null
+  endtime: 2019-12-05 15:00:00-05:00
   label: BC
   place: BC
   room: Maloney 560
   seminar: BC NT & AG seminar
-  speaker: Yusuke Nakamura (Tokyo)
-  time: 2019-11-07 14:00:00-05:00
+  speaker: Nicole Looper (Brown)
+  time: 2019-12-05 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: null
-  endtime: 2019-11-07 17:30:00-05:00
+  endtime: 2019-12-05 17:30:00-05:00
   label: TUFTS
   place: Tufts
   room: Bromfield-Pearson 101
   seminar: Tufts algebra, geometry, and number theory seminar
-  speaker: Brandon Alberts (UConn)
-  time: 2019-11-07 16:30:00-05:00
+  speaker: Naomi Tanabe (Bowdoin)
+  time: 2019-12-05 16:30:00-05:00
   url: https://sites.google.com/view/tuftsagents/home

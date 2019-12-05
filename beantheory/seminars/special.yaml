@@ -14,4 +14,27 @@
   speaker: Peter Sarnak
   endtime: 2019-11-01 17:15:00-04:00
   url: http://www.math.harvard.edu/conferences/ahlfors19/index.html
-
+- desc: "An Introduction to the Bernoulli Numbers, from Pythagoras to Present"
+  time: 2019-11-13 16:30:00-05:00
+  note: Open neighborhood seminar
+  place: Harvard
+  room: Science Center 507
+  speaker: Ellen Eischen, U Oregon
+  endtime: 2019-11-13 17:30:00-05:00
+  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
+- desc: "Some congruences and consequences in number theory and beyond"
+  time: 2019-11-14 16:30:00-05:00
+  note: Joint Mathematics Colloquium Brandeis-Harvard-MIT-Northeastern 
+  place: Harvard
+  room: Science Center Hall A
+  speaker: Ellen Eischen, U Oregon
+  endtime: 2019-11-14 17:30:00-05:00
+  url: http://www.northeastern.edu/tzhou/bhmn/Eischen19.html
+- desc: "High dimensional cohomology of congruence subgroups"
+  time: 2019-11-18 16:30:00-05:00
+  note: Algebraic Topology Seminar  
+  place: MIT
+  room: 2 - 131
+  speaker:  Peter Patzt (Perdue University)
+  endtime: 2019-11-18 17:30:00-05:00
+  url: https://calendar.mit.edu/event/algebraic_topology_seminar_20191118
