@@ -13,8 +13,10 @@ class GenericSeminar(object):
     duration = timedelta(hours=1)
     def __init__(self):
         r = requests.get(self.url)
-        # force utf8
-        self.html = r.content.decode('utf8').replace('\n',' ').replace('&nbsp;',' ')
+        # .text to access the decoded Unicode stream
+        # depending on the original encoding the value of
+        # .text may be off
+        self.html = r.text.replace('\n',' ').replace('&nbsp;',' ')
         self.errors = []
 
     @cached_property
