@@ -1,58 +1,10 @@
-- desc: Counting elliptic curves with a rational N-isogeny
-  endtime: 2019-12-02 17:15:00-05:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Soumya Sankar   (University of Wisconsin)
-  time: 2019-12-02 16:15:00-05:00
-  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
-  endtime: 2019-12-03 16:00:00-05:00
-  label: BCMIT
-  note: BC-MIT
-  place: MIT
-  room: 2-449
-  seminar: BC-MIT number theory seminar
-  speaker: Bao Le Hung (Northwestern)
-  time: 2019-12-03 15:00:00-05:00
-  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
-- desc: null
-  endtime: 2019-12-03 17:30:00-05:00
-  label: BCMIT
-  note: BC-MIT
-  place: MIT
-  room: 2-449
-  seminar: BC-MIT number theory seminar
-  speaker: Shou-Wu Zhang (Princeton)
-  time: 2019-12-03 16:30:00-05:00
-  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
-- desc: On the arithmetic of elliptic curves over quintic fields
-  endtime: 2019-12-04 16:00:00-05:00
-  label: Harvard
-  note: null
-  place: Harvard
-  room: Science Center 507
-  seminar: Harvard number theory seminar
-  speaker: Michele Fornea IAS
-  time: 2019-12-04 15:00:00-05:00
-  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: null
-  endtime: 2019-12-05 15:00:00-05:00
+  endtime: 2019-12-12 15:00:00-05:00
   label: BC
+  note: null
   place: BC
   room: Maloney 560
   seminar: BC NT & AG seminar
-  speaker: Nicole Looper (Brown)
-  time: 2019-12-05 14:00:00-05:00
+  speaker: Djordje Milicevic (Bryn Mawr)
+  time: 2019-12-12 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: null
-  endtime: 2019-12-05 17:30:00-05:00
-  label: TUFTS
-  place: Tufts
-  room: Bromfield-Pearson 101
-  seminar: Tufts algebra, geometry, and number theory seminar
-  speaker: Naomi Tanabe (Bowdoin)
-  time: 2019-12-05 16:30:00-05:00
-  url: https://sites.google.com/view/tuftsagents/home

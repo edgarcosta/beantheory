@@ -1,18 +1,58 @@
-- desc: ''
-  endtime: 2019-11-26 17:30:00-05:00
-  label: MIT
+- desc: Counting elliptic curves with a rational N-isogeny
+  endtime: 2019-12-02 17:15:00-05:00
+  label: BU
+  note: null
+  place: BU
+  room: MCS B31
+  seminar: BU number theory seminar
+  speaker: Soumya Sankar   (University of Wisconsin)
+  time: 2019-12-02 16:15:00-05:00
+  url: http://math.bu.edu/research/algebra/seminar.html
+- desc: '"Serre weights, Breuil-Mezard cycles and deformed affine Springer fibers"'
+  endtime: 2019-12-03 16:00:00-05:00
+  label: BCMIT
+  note: BC-MIT
   place: MIT
-  room: MIT-Room 2-143
-  seminar: MIT number theory seminar
-  speaker: 'SPEAKER:  Mathilde Gerbelli-Gauthier (University of Chicago)'
-  time: 2019-11-26 16:30:00-05:00
-  url: http://math.mit.edu/nt/nts.html
-- desc: null
-  endtime: 2019-11-28 15:00:00-05:00
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: Bao Le Hung (Northwestern)
+  time: 2019-12-03 15:00:00-05:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- desc: "\"On modularity of Kudla\x92s generating series of 0-cycles\""
+  endtime: 2019-12-03 17:30:00-05:00
+  label: BCMIT
+  note: BC-MIT
+  place: MIT
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: Shou-Wu Zhang (Princeton)
+  time: 2019-12-03 16:30:00-05:00
+  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+- desc: On the arithmetic of elliptic curves over quintic fields
+  endtime: 2019-12-04 16:00:00-05:00
+  label: Harvard
+  note: null
+  place: Harvard
+  room: Science Center 507
+  seminar: Harvard number theory seminar
+  speaker: Michele Fornea IAS
+  time: 2019-12-04 15:00:00-05:00
+  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
+- desc: Uniform boundedness of preperiodic points and the abc conjecture
+  endtime: 2019-12-05 15:00:00-05:00
   label: BC
   place: BC
   room: Maloney 560
   seminar: BC NT & AG seminar
-  speaker: No seminar (Thanksgiving break)
-  time: 2019-11-28 14:00:00-05:00
+  speaker: Nicole Looper (Brown)
+  time: 2019-12-05 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: null
+  endtime: 2019-12-05 17:30:00-05:00
+  label: TUFTS
+  place: Tufts
+  room: Bromfield-Pearson 101
+  seminar: Tufts algebra, geometry, and number theory seminar
+  speaker: Naomi Tanabe (Bowdoin)
+  time: 2019-12-05 16:30:00-05:00
+  url: https://sites.google.com/view/tuftsagents/home

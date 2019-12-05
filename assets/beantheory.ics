@@ -189,6 +189,8 @@ BEGIN:VEVENT
 SUMMARY:Bao Le Hung (Northwestern)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191203T150000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191203T160000
+DESCRIPTION:"Serre weights\, Breuil-Mezard cycles and deformed affine Spri
+ nger fibers"
 LOCATION:MIT usually 2-449
 URL:https://www2.bc.edu/benjamin-howard/BC-MIT.html
 END:VEVENT
@@ -196,6 +198,7 @@ BEGIN:VEVENT
 SUMMARY:Shou-Wu Zhang (Princeton)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191203T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191203T173000
+DESCRIPTION:"On modularity of Kudlas generating series of 0-cycles"
 LOCATION:MIT usually 2-449
 URL:https://www2.bc.edu/benjamin-howard/BC-MIT.html
 END:VEVENT
@@ -569,6 +572,8 @@ BEGIN:VEVENT
 SUMMARY:Nicole Looper (Brown)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191205T140000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191205T150000
+DESCRIPTION:Uniform boundedness of preperiodic points and the abc conjectu
+ re
 LOCATION:BC usually Maloney 560
 URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT
@@ -630,11 +635,11 @@ LOCATION:MIT-STAGE usually 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tony Feng (MIT)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191101T101000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191101T114000
-DESCRIPTION:p-divisible groups I 
-LOCATION:MIT-STAGE usually Building 2\, 2-132
+SUMMARY:Tony Feng
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191101T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191101T120000
+DESCRIPTION:p-divisible groups I
+LOCATION:MIT-STAGE usually 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
