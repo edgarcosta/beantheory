@@ -56,13 +56,19 @@
   speaker: Naomi Tanabe (Bowdoin)
   time: 2019-12-05 16:30:00-05:00
   url: https://sites.google.com/view/tuftsagents/home
-- desc: p-divisible groups over O_C
-  endtime: 2019-12-06 12:00:00-05:00
+- desc: " p-adic Hodge structures\u201D. We will present many evidences with main\
+    \ focus on Scholze-Weinstein\u2019s classification. For the proof, the key guiding\
+    \ example is G= \\mu_p\\infty  (note \\mu_p\\infty(O_c)\neq  \\lim_{n\\to} \\\
+    mu_p\\infty(O_c)/p^n . For simplicity, some technical difficulties will be ignored,\
+    \ e.g the use of adic spaces. Then we will present the Dieudonne theory over O_c\
+    \ /p  , and use it to explain more analogies, e.g every height 2 dimension  1p-divisible\
+    \ group over O_c is from an elliptic curve over  O_c. If time permits, we may\
+    \ explain why the viewpoint of "
+  endtime: 2019-12-06 11:40:00-05:00
   label: STAGE
-  note: null
   place: MIT-STAGE
-  room: 2-132
+  room: Building 2, 2-132
   seminar: STAGE
-  speaker: Zhiyu Zhang
-  time: 2019-12-06 10:00:00-05:00
+  speaker: 'Speaker: Zhiyu Zhang'
+  time: 2019-12-06 10:10:00-05:00
   url: http://math.mit.edu/nt/stage.html

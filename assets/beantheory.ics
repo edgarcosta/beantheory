@@ -400,6 +400,13 @@ LOCATION:MIT usually MIT-Room 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Abhishek Oswal
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191210T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191210T173000
+LOCATION:MIT usually 2-143
+URL:http://math.mit.edu/nt/nts.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Daniel Kriz (MIT)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200211T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200211T173000
@@ -667,19 +674,27 @@ LOCATION:MIT-STAGE usually Building 2\, 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Zhiyu Zhang
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191206T100000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191206T120000
-DESCRIPTION:p-divisible groups over O_C
-LOCATION:MIT-STAGE usually 2-132
+SUMMARY:Speaker: Zhiyu Zhang
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191206T101000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191206T114000
+DESCRIPTION: p-adic Hodge structures”. We will present many evidences wi
+ th main focus on Scholze-Weinstein’s classification. For the proof\, the
+  key guiding example is G= \\mu_p\\infty  (note \\mu_p\\infty(O_c)\neq  \\
+ lim_{n\\to} \\mu_p\\infty(O_c)/p^n . For simplicity\, some technical diffi
+ culties will be ignored\, e.g the use of adic spaces. Then we will present
+  the Dieudonne theory over O_c /p  \, and use it to explain more analogies
+ \, e.g every height 2 dimension  1p-divisible group over O_c is from an el
+ liptic curve over  O_c. If time permits\, we may explain why the viewpoint
+  of 
+LOCATION:MIT-STAGE usually Building 2\, 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hood Chatham
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191213T100000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191213T120000
-DESCRIPTION:Lubin-Tate theory
-LOCATION:MIT-STAGE usually 2-132
+SUMMARY:Speaker: Hood Chatham
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191213T101000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191213T114000
+DESCRIPTION:Title: Lubin-Tate theory
+LOCATION:MIT-STAGE usually Building 2\, 2-132
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 END:VCALENDAR

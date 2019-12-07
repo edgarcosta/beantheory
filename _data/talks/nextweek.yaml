@@ -1,4 +1,14 @@
 - desc: null
+  endtime: 2019-12-10 17:30:00-05:00
+  label: MIT
+  note: null
+  place: MIT
+  room: 2-143
+  seminar: MIT number theory seminar
+  speaker: Abhishek Oswal
+  time: 2019-12-10 16:30:00-05:00
+  url: http://math.mit.edu/nt/nts.html
+- desc: null
   endtime: 2019-12-12 15:00:00-05:00
   label: BC
   note: null
@@ -8,13 +18,12 @@
   speaker: Djordje Milicevic (Bryn Mawr)
   time: 2019-12-12 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: Lubin-Tate theory
-  endtime: 2019-12-13 12:00:00-05:00
+- desc: 'Title: Lubin-Tate theory'
+  endtime: 2019-12-13 11:40:00-05:00
   label: STAGE
-  note: null
   place: MIT-STAGE
-  room: 2-132
+  room: Building 2, 2-132
   seminar: STAGE
-  speaker: Hood Chatham
-  time: 2019-12-13 10:00:00-05:00
+  speaker: 'Speaker: Hood Chatham'
+  time: 2019-12-13 10:10:00-05:00
   url: http://math.mit.edu/nt/stage.html
