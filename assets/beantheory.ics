@@ -400,10 +400,10 @@ LOCATION:MIT usually MIT-Room 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Abhishek Oswal
+SUMMARY:SPEAKER:  Abhishek Oswal (University of Toronto)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191210T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191210T173000
-LOCATION:MIT usually 2-143
+LOCATION:MIT usually Room 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
