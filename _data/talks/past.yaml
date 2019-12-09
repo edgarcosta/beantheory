@@ -229,14 +229,15 @@
   speaker: Wanlin Li   (MIT)
   time: 2019-11-11 16:15:00-05:00
   url: http://math.bu.edu/research/algebra/seminar.html
-- desc: Hodge-Tate decomposition II
-  endtime: 2019-11-08 11:40:00-05:00
+- desc: 'p-divisible groups II: the Hodge-Tate decomposition theorem'
+  endtime: 2019-11-08 12:00:00-05:00
   label: STAGE
+  note: null
   place: MIT-STAGE
-  room: Building 2, 2-132
+  room: 2-132
   seminar: STAGE
-  speaker: Andreas Mihatsch (MIT)
-  time: 2019-11-08 10:10:00-05:00
+  speaker: Andreas Mihatsch
+  time: 2019-11-08 10:00:00-05:00
   url: http://math.mit.edu/nt/stage.html
 - desc: null
   endtime: 2019-11-07 17:30:00-05:00
