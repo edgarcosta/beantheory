@@ -152,6 +152,15 @@ LOCATION:Harvard usually Science Center 507
 URL:http://www.math.harvard.edu/cgi-bin/showtalk.pl
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Liang Xiao BICMR
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191211T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191211T160000
+DESCRIPTION:Slopes of modular forms and ghost conjecture of Bergdall and P
+ ollack
+LOCATION:Harvard usually Science Center 507
+URL:http://www.math.harvard.edu/cgi-bin/showtalk.pl
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Zheng Liu (UC Santa Barbara)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190917T150000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190917T160000

@@ -7,6 +7,16 @@
   speaker: 'SPEAKER:  Abhishek Oswal (University of Toronto)'
   time: 2019-12-10 16:30:00-05:00
   url: http://math.mit.edu/nt/nts.html
+- desc: Slopes of modular forms and ghost conjecture of Bergdall and Pollack
+  endtime: 2019-12-11 16:00:00-05:00
+  label: Harvard
+  note: null
+  place: Harvard
+  room: Science Center 507
+  seminar: Harvard number theory seminar
+  speaker: Liang Xiao BICMR
+  time: 2019-12-11 15:00:00-05:00
+  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
 - desc: null
   endtime: 2019-12-12 15:00:00-05:00
   label: BC
