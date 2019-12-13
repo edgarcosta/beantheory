@@ -210,14 +210,15 @@
   speaker: Daxin Xu Caltech
   time: 2019-11-13 15:00:00-05:00
   url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: ''
-  endtime: 2019-11-12 17:15:00-05:00
+- desc: null
+  endtime: 2019-11-12 17:30:00-05:00
   label: MIT
+  note: null
   place: MIT
-  room: Room 2-143
+  room: 2-143
   seminar: MIT number theory seminar
-  speaker: 'SPEAKER:  Anup Dixit  (Queen''s University)'
-  time: 2019-11-12 16:15:00-05:00
+  speaker: Anup Dixit
+  time: 2019-11-12 16:30:00-05:00
   url: http://math.mit.edu/nt/nts.html
 - desc: Newton polygon stratification  of the Torelli locus in PEL-type Shimura varieties
   endtime: 2019-11-11 17:15:00-05:00
@@ -744,9 +745,10 @@
   speaker: Zhiyu Zhang
   time: 2019-09-06 10:00:00-04:00
   url: http://math.mit.edu/nt/stage.html
-- desc: Conifold transitions and mirror symmetry
+- desc: null
   endtime: 2019-09-05 15:00:00-04:00
   label: BC
+  note: null
   place: BC
   room: Maloney 560
   seminar: BC NT & AG seminar
