@@ -192,16 +192,6 @@
   speaker: Matthew Friedrichsen   (Tufts University)
   time: 2019-11-18 16:15:00-05:00
   url: http://math.bu.edu/research/algebra/seminar.html
-- desc: Dieudonne theory I
-  endtime: 2019-11-15 12:00:00-05:00
-  label: STAGE
-  note: null
-  place: MIT-STAGE
-  room: 2-132
-  seminar: STAGE
-  speaker: Syed Waqar Ali Shah
-  time: 2019-11-15 10:00:00-05:00
-  url: http://math.mit.edu/nt/stage.html
 - desc: Some congruences and consequences in number theory and beyond
   endtime: 2019-11-14 17:30:00-05:00
   label: special
@@ -268,16 +258,6 @@
   speaker: Wanlin Li   (MIT)
   time: 2019-11-11 16:15:00-05:00
   url: http://math.bu.edu/research/algebra/seminar.html
-- desc: 'p-divisible groups II: the Hodge-Tate decomposition theorem'
-  endtime: 2019-11-08 12:00:00-05:00
-  label: STAGE
-  note: null
-  place: MIT-STAGE
-  room: 2-132
-  seminar: STAGE
-  speaker: Andreas Mihatsch
-  time: 2019-11-08 10:00:00-05:00
-  url: http://math.mit.edu/nt/stage.html
 - desc: null
   endtime: 2019-11-07 17:30:00-05:00
   label: TUFTS
@@ -335,16 +315,6 @@
   speaker: Peter Sarnak
   time: 2019-11-01 16:15:00-04:00
   url: http://www.math.harvard.edu/conferences/ahlfors19/index.html
-- desc: p-divisible groups I
-  endtime: 2019-11-01 12:00:00-04:00
-  label: STAGE
-  note: null
-  place: MIT-STAGE
-  room: 2-132
-  seminar: STAGE
-  speaker: Tony Feng
-  time: 2019-11-01 10:00:00-04:00
-  url: http://math.mit.edu/nt/stage.html
 - desc: 'Lecture I: Applications of Points on Subvarieties of Tori'
   endtime: 2019-10-31 17:15:00-04:00
   label: special
@@ -451,16 +421,6 @@
   speaker: Alexander Smith   (Harvard University)
   time: 2019-10-21 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
-- desc: Finite flat group schemes (Demazure, Chapter 2)
-  endtime: 2019-10-18 12:00:00-04:00
-  label: STAGE
-  note: null
-  place: MIT-STAGE
-  room: 2-132
-  seminar: STAGE
-  speaker: Borys Kadets
-  time: 2019-10-18 10:00:00-04:00
-  url: http://math.mit.edu/nt/stage.html
 - desc: null
   endtime: 2019-10-17 17:30:00-04:00
   label: TUFTS
@@ -499,17 +459,6 @@
   speaker: John Bergdall   (Bryn Mawr College)
   time: 2019-10-15 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
-- desc: Basic Cartier theory. Group schemes and formal group schemes (Zink, Chapter
-    3; Demazure Chapter 2)
-  endtime: 2019-10-11 12:00:00-04:00
-  label: STAGE
-  note: null
-  place: MIT-STAGE
-  room: 2-132
-  seminar: STAGE
-  speaker: Naomi Sweeting
-  time: 2019-10-11 10:00:00-04:00
-  url: http://math.mit.edu/nt/stage.html
 - desc: null
   endtime: 2019-10-10 17:30:00-04:00
   label: TUFTS
@@ -569,16 +518,6 @@
   speaker: Daniel Hast   (Boston University)
   time: 2019-10-07 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
-- desc: Reconstructing a formal group from its Cartier module (Zink, Chapter 3)
-  endtime: 2019-10-04 12:00:00-04:00
-  label: STAGE
-  note: null
-  place: MIT-STAGE
-  room: 2-132
-  seminar: STAGE
-  speaker: Alex Smith
-  time: 2019-10-04 10:00:00-04:00
-  url: http://math.mit.edu/nt/stage.html
 - desc: null
   endtime: 2019-10-03 17:30:00-04:00
   label: TUFTS
@@ -617,16 +556,6 @@
   speaker: Sam Schiavone
   time: 2019-10-01 16:30:00-04:00
   url: http://math.mit.edu/nt/nts.html
-- desc: Formal groups as functors (Zink, Chapter 2, Sections 1-3)
-  endtime: 2019-09-27 12:00:00-04:00
-  label: STAGE
-  note: null
-  place: MIT-STAGE
-  room: 2-132
-  seminar: STAGE
-  speaker: Hyuk Jun Kweon
-  time: 2019-09-27 10:00:00-04:00
-  url: http://math.mit.edu/nt/stage.html
 - desc: null
   endtime: 2019-09-26 17:30:00-04:00
   label: TUFTS
@@ -724,16 +653,6 @@
   speaker: Benjamin Matschke   (Boston University)
   time: 2019-09-16 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
-- desc: Formal group laws (Zink, Chapter 1, Sections 6-10)
-  endtime: 2019-09-13 12:00:00-04:00
-  label: STAGE
-  note: null
-  place: MIT-STAGE
-  room: 2-132
-  seminar: STAGE
-  speaker: Borys Kadets
-  time: 2019-09-13 10:00:00-04:00
-  url: http://math.mit.edu/nt/stage.html
 - desc: Threefold Calabi-Yau pairs
   endtime: 2019-09-12 15:00:00-04:00
   label: BC
@@ -773,16 +692,6 @@
   speaker: Daniel Disegni   (Ben Gurion University)
   time: 2019-09-09 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
-- desc: Formal group laws (Zink, Chapter 1, Sections 1-5)
-  endtime: 2019-09-06 12:00:00-04:00
-  label: STAGE
-  note: null
-  place: MIT-STAGE
-  room: 2-132
-  seminar: STAGE
-  speaker: Zhiyu Zhang
-  time: 2019-09-06 10:00:00-04:00
-  url: http://math.mit.edu/nt/stage.html
 - desc: null
   endtime: 2019-09-05 15:00:00-04:00
   label: BC
