@@ -394,11 +394,10 @@ LOCATION:MIT usually 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPEAKER:  Michael Stoll   (Universität Bayreuth)
+SUMMARY:Michael Stoll
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191119T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191119T173000
-DESCRIPTION:Selmer group Chabauty
-LOCATION:MIT usually MIT Room 2-143
+LOCATION:MIT usually 2-143
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
@@ -495,10 +494,9 @@ LOCATION:BC usually Maloney 560
 URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anne-Sophie Kaloghiros
+SUMMARY:Anne-Sophie Kaloghiros (Brunel)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190912T140000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190912T150000
-DESCRIPTION:Threefold Calabi-Yau pairs
 LOCATION:BC usually Maloney 560
 URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT

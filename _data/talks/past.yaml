@@ -164,13 +164,14 @@
   speaker: Yihang Zhu Columbia University
   time: 2019-11-20 15:00:00-05:00
   url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: Selmer group Chabauty
+- desc: null
   endtime: 2019-11-19 17:30:00-05:00
   label: MIT
+  note: null
   place: MIT
-  room: MIT Room 2-143
+  room: 2-143
   seminar: MIT number theory seminar
-  speaker: "SPEAKER:  Michael Stoll   (Universit\xE4t Bayreuth)"
+  speaker: Michael Stoll
   time: 2019-11-19 16:30:00-05:00
   url: http://math.mit.edu/nt/nts.html
 - desc: High dimensional cohomology of congruence subgroups
@@ -653,13 +654,14 @@
   speaker: Benjamin Matschke   (Boston University)
   time: 2019-09-16 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
-- desc: Threefold Calabi-Yau pairs
+- desc: null
   endtime: 2019-09-12 15:00:00-04:00
   label: BC
+  note: null
   place: BC
   room: Maloney 560
   seminar: BC NT & AG seminar
-  speaker: Anne-Sophie Kaloghiros
+  speaker: Anne-Sophie Kaloghiros (Brunel)
   time: 2019-09-12 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: Multiplication tables of Galois extensions
