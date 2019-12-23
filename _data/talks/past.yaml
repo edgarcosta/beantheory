@@ -127,15 +127,6 @@
   speaker: 'SPEAKER:  Mathilde Gerbelli-Gauthier (University of Chicago)'
   time: 2019-11-26 16:30:00-05:00
   url: http://math.mit.edu/nt/nts.html
-- desc: 'Title: Dieudonne theory II'
-  endtime: 2019-11-22 11:40:00-05:00
-  label: STAGE
-  place: MIT-STAGE
-  room: Building 2, 2-132
-  seminar: STAGE
-  speaker: 'Speaker: Syed Waqar Ali Shah '
-  time: 2019-11-22 10:10:00-05:00
-  url: http://math.mit.edu/nt/stage.html
 - desc: null
   endtime: 2019-11-21 17:30:00-05:00
   label: TUFTS
