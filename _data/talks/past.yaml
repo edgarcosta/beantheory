@@ -99,16 +99,6 @@
   speaker: Bao Le Hung (Northwestern)
   time: 2019-12-03 15:00:00-05:00
   url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
-- desc: Counting elliptic curves with a rational N-isogeny
-  endtime: 2019-12-02 17:15:00-05:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Soumya Sankar   (University of Wisconsin)
-  time: 2019-12-02 16:15:00-05:00
-  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   endtime: 2019-11-28 15:00:00-05:00
   label: BC
@@ -155,16 +145,6 @@
   speaker: Peter Patzt (Perdue University)
   time: 2019-11-18 16:30:00-05:00
   url: https://calendar.mit.edu/event/algebraic_topology_seminar_20191118
-- desc: Comparing the density of certain quartic extensions of number fields
-  endtime: 2019-11-18 17:15:00-05:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Matthew Friedrichsen   (Tufts University)
-  time: 2019-11-18 16:15:00-05:00
-  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: Some congruences and consequences in number theory and beyond
   endtime: 2019-11-14 17:30:00-05:00
   label: special
@@ -211,16 +191,6 @@
   speaker: Daxin Xu Caltech
   time: 2019-11-13 15:00:00-05:00
   url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: Newton polygon stratification  of the Torelli locus in PEL-type Shimura varieties
-  endtime: 2019-11-11 17:15:00-05:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Wanlin Li   (MIT)
-  time: 2019-11-11 16:15:00-05:00
-  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   endtime: 2019-11-07 17:30:00-05:00
   label: TUFTS
@@ -249,16 +219,6 @@
   speaker: Kestutis Cesnavicius CNRS/Paris-Sud
   time: 2019-11-06 15:00:00-05:00
   url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: Motivic Euler products in motivic statistics
-  endtime: 2019-11-04 17:15:00-05:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Margaret Bilu   (Courant Institute, NYU)
-  time: 2019-11-04 16:15:00-05:00
-  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: 'Lecture II: Integer Points on Affine Cubic Surfaces'
   endtime: 2019-11-01 17:15:00-04:00
   label: special
@@ -316,16 +276,6 @@
   speaker: Aaron Pollack (Duke)
   time: 2019-10-29 15:00:00-04:00
   url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
-- desc: Moduli Spaces of Shtukas over $\mathbb{P}^1$
-  endtime: 2019-10-28 17:15:00-04:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Maria Ines de Frutos Fernandez   (Boston University)
-  time: 2019-10-28 16:15:00-04:00
-  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   endtime: 2019-10-24 17:30:00-04:00
   label: TUFTS
@@ -354,16 +304,6 @@
   speaker: Evan O'Dorney Princeton University
   time: 2019-10-23 15:00:00-04:00
   url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: 2^k-Selmer groups and Goldfeld's conjecture
-  endtime: 2019-10-21 17:15:00-04:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Alexander Smith   (Harvard University)
-  time: 2019-10-21 16:15:00-04:00
-  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   endtime: 2019-10-17 17:30:00-04:00
   label: TUFTS
@@ -392,16 +332,6 @@
   speaker: Bejamin Matschke Boston University
   time: 2019-10-16 15:00:00-04:00
   url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: Reductions of crystalline representations with small Frobenius trace
-  endtime: 2019-10-15 17:15:00-04:00
-  label: BU
-  note: '(Note special day: TUESDAY.)'
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: John Bergdall   (Bryn Mawr College)
-  time: 2019-10-15 16:15:00-04:00
-  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   endtime: 2019-10-10 17:30:00-04:00
   label: TUFTS
@@ -441,16 +371,6 @@
   speaker: Ananth Shankar MIT
   time: 2019-10-08 15:00:00-04:00
   url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: The non-abelian Chabauty method and rational points on curves
-  endtime: 2019-10-07 17:15:00-04:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Daniel Hast   (Boston University)
-  time: 2019-10-07 16:15:00-04:00
-  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   endtime: 2019-10-03 17:30:00-04:00
   label: TUFTS
@@ -507,26 +427,6 @@
   speaker: Tony Feng MIT
   time: 2019-09-25 15:00:00-04:00
   url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: Flag varieties and representations of p-adic groups
-  endtime: 2019-09-23 17:15:00-04:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Charlotte Chan   (MIT)
-  time: 2019-09-23 16:15:00-04:00
-  url: http://math.bu.edu/research/algebra/seminar.html
-- desc: null
-  endtime: 2019-09-19 15:00:00-04:00
-  label: BC
-  note: null
-  place: BC
-  room: Maloney 560
-  seminar: BC NT & AG seminar
-  speaker: Sho Tanimoto (Kumamoto) and Dragos Oprea (UCSD)
-  time: 2019-09-19 14:00:00-04:00
-  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: The arithmetic fundamental lemma for diagonal cycles
   endtime: 2019-09-18 16:00:00-04:00
   label: Harvard
@@ -557,26 +457,6 @@
   speaker: Zheng Liu (UC Santa Barbara)
   time: 2019-09-17 15:00:00-04:00
   url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
-- desc: Proofs by example
-  endtime: 2019-09-16 17:15:00-04:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Benjamin Matschke   (Boston University)
-  time: 2019-09-16 16:15:00-04:00
-  url: http://math.bu.edu/research/algebra/seminar.html
-- desc: null
-  endtime: 2019-09-12 15:00:00-04:00
-  label: BC
-  note: null
-  place: BC
-  room: Maloney 560
-  seminar: BC NT & AG seminar
-  speaker: Anne-Sophie Kaloghiros (Brunel)
-  time: 2019-09-12 14:00:00-04:00
-  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: Multiplication tables of Galois extensions
   endtime: 2019-09-11 16:00:00-04:00
   label: Harvard
@@ -587,43 +467,3 @@
   speaker: Fabian Gundlach Harvard University
   time: 2019-09-11 15:00:00-04:00
   url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: p-adic equidistribution of CM points and applications
-  endtime: 2019-09-09 17:15:00-04:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Daniel Disegni   (Ben Gurion University)
-  time: 2019-09-09 16:15:00-04:00
-  url: http://math.bu.edu/research/algebra/seminar.html
-- desc: null
-  endtime: 2019-09-05 15:00:00-04:00
-  label: BC
-  note: null
-  place: BC
-  room: Maloney 560
-  seminar: BC NT & AG seminar
-  speaker: Lawrence Barrott (BC)
-  time: 2019-09-05 14:00:00-04:00
-  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: null
-  endtime: 2019-02-11 17:30:00-05:00
-  label: MIT
-  note: null
-  place: MIT
-  room: 2-147
-  seminar: MIT number theory seminar
-  speaker: Daniel Kriz
-  time: 2019-02-11 16:30:00-05:00
-  url: http://math.mit.edu/nt/nts.html
-- desc: null
-  endtime: 2019-01-07 17:30:00-05:00
-  label: MIT
-  note: null
-  place: MIT
-  room: 2-147
-  seminar: MIT number theory seminar
-  speaker: "Emre Sert\xF6z in 2-147"
-  time: 2019-01-07 16:30:00-05:00
-  url: http://math.mit.edu/nt/nts.html
