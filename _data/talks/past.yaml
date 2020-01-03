@@ -399,24 +399,6 @@
   speaker: Ananth Shankar MIT
   time: 2019-10-02 15:00:00-04:00
   url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: null
-  endtime: 2019-09-26 17:30:00-04:00
-  label: TUFTS
-  place: Tufts
-  room: Bromfield-Pearson 101
-  seminar: Tufts algebra, geometry, and number theory seminar
-  speaker: Remy van Dobben de Bruyn (Princeton/IAS)
-  time: 2019-09-26 16:30:00-04:00
-  url: https://sites.google.com/view/tuftsagents/home
-- desc: null
-  endtime: 2019-09-26 16:00:00-04:00
-  label: BC
-  place: BC
-  room: Maloney 560
-  seminar: BC NT & AG seminar
-  speaker: Honglu Fan (ETH) and Fenglong You (Alberta)
-  time: 2019-09-26 14:00:00-04:00
-  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: Steenrod operations and the Artin-Tate pairing
   endtime: 2019-09-25 16:00:00-04:00
   label: Harvard

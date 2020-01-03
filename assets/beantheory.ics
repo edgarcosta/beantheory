@@ -403,13 +403,6 @@ LOCATION:Tufts usually Bromfield-Pearson 101
 URL:https://sites.google.com/view/tuftsagents/home
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Remy van Dobben de Bruyn (Princeton/IAS)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190926T163000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190926T173000
-LOCATION:Tufts usually Bromfield-Pearson 101
-URL:https://sites.google.com/view/tuftsagents/home
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brandon Alberts (UConn)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191107T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191107T173000
@@ -429,13 +422,6 @@ DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191024T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191024T173000
 LOCATION:Tufts usually Bromfield-Pearson 101
 URL:https://sites.google.com/view/tuftsagents/home
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honglu Fan (ETH) and Fenglong You (Alberta)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190926T140000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190926T160000
-LOCATION:BC usually Maloney 560
-URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jonathan Wise (Colorado)
