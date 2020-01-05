@@ -254,93 +254,16 @@ LOCATION:BC usually Maloney 560
 URL:https://www2.bc.edu/benjamin-howard/BC-MIT.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Daniel Disegni   (Ben Gurion University)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200909T161500
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200909T171500
-DESCRIPTION:p-adic equidistribution of CM points and applications
+SUMMARY:Raymond van Bommel    (MIT)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200127T161500
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200127T171500
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Benjamin Matschke   (Boston University)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200916T161500
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200916T171500
-DESCRIPTION:Proofs by example
-LOCATION:BU usually MCS B31
-URL:http://math.bu.edu/research/algebra/seminar.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Charlotte Chan   (MIT)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200923T161500
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200923T171500
-DESCRIPTION:Flag varieties and representations of p-adic groups
-LOCATION:BU usually MCS B31
-URL:http://math.bu.edu/research/algebra/seminar.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Daniel Hast   (Boston University)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20201007T161500
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20201007T171500
-DESCRIPTION:The non-abelian Chabauty method and rational points on curves
-LOCATION:BU usually MCS B31
-URL:http://math.bu.edu/research/algebra/seminar.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:John Bergdall   (Bryn Mawr College)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20201015T161500
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20201015T171500
-DESCRIPTION:Reductions of crystalline representations with small Frobenius
-  trace
-LOCATION:BU usually MCS B31
-URL:http://math.bu.edu/research/algebra/seminar.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alexander Smith   (Harvard University)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20201021T161500
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20201021T171500
-DESCRIPTION:2^k-Selmer groups and Goldfeld's conjecture
-LOCATION:BU usually MCS B31
-URL:http://math.bu.edu/research/algebra/seminar.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maria Ines de Frutos Fernandez   (Boston University)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20201028T161500
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20201028T171500
-DESCRIPTION:Moduli Spaces of Shtukas over $\\mathbb{P}^1$
-LOCATION:BU usually MCS B31
-URL:http://math.bu.edu/research/algebra/seminar.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Margaret Bilu   (Courant Institute\, NYU)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20201104T161500
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20201104T171500
-DESCRIPTION:Motivic Euler products in motivic statistics
-LOCATION:BU usually MCS B31
-URL:http://math.bu.edu/research/algebra/seminar.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wanlin Li   (MIT)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20201111T161500
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20201111T171500
-DESCRIPTION:Newton polygon stratification  of the Torelli locus in PEL-typ
- e Shimura varieties
-LOCATION:BU usually MCS B31
-URL:http://math.bu.edu/research/algebra/seminar.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Matthew Friedrichsen   (Tufts University)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20201118T161500
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20201118T171500
-DESCRIPTION:Comparing the density of certain quartic extensions of number 
- fields
-LOCATION:BU usually MCS B31
-URL:http://math.bu.edu/research/algebra/seminar.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Soumya Sankar   (University of Wisconsin)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20201202T161500
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20201202T171500
-DESCRIPTION:Counting elliptic curves with a rational N-isogeny
+SUMMARY:Karen Yeats   (Waterloo)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200218T161500
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200218T171500
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT

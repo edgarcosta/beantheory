@@ -1,4 +1,14 @@
 - desc: null
+  endtime: 2020-01-27 17:15:00-05:00
+  label: BU
+  note: null
+  place: BU
+  room: MCS B31
+  seminar: BU number theory seminar
+  speaker: Raymond van Bommel    (MIT)
+  time: 2020-01-27 16:15:00-05:00
+  url: http://math.bu.edu/research/algebra/seminar.html
+- desc: null
   endtime: 2020-02-04 16:00:00-05:00
   label: BCMIT
   note: BC-MIT
@@ -28,6 +38,16 @@
   speaker: Daniel Kriz (MIT)
   time: 2020-02-11 16:30:00-05:00
   url: http://math.mit.edu/nt/nts.html
+- desc: null
+  endtime: 2020-02-18 17:15:00-05:00
+  label: BU
+  note: (note special Tuesday meeting)
+  place: BU
+  room: MCS B31
+  seminar: BU number theory seminar
+  speaker: Karen Yeats   (Waterloo)
+  time: 2020-02-18 16:15:00-05:00
+  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   endtime: 2020-02-25 16:00:00-05:00
   label: BCMIT
@@ -78,16 +98,6 @@
   speaker: Lawrence Barrott (BC)
   time: 2020-09-05 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: p-adic equidistribution of CM points and applications
-  endtime: 2020-09-09 17:15:00-04:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Daniel Disegni   (Ben Gurion University)
-  time: 2020-09-09 16:15:00-04:00
-  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   endtime: 2020-09-12 15:00:00-04:00
   label: BC
@@ -98,16 +108,6 @@
   speaker: Anne-Sophie Kaloghiros (Brunel)
   time: 2020-09-12 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: Proofs by example
-  endtime: 2020-09-16 17:15:00-04:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Benjamin Matschke   (Boston University)
-  time: 2020-09-16 16:15:00-04:00
-  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   endtime: 2020-09-19 15:00:00-04:00
   label: BC
@@ -118,16 +118,6 @@
   speaker: Sho Tanimoto (Kumamoto) and Dragos Oprea (UCSD)
   time: 2020-09-19 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: Flag varieties and representations of p-adic groups
-  endtime: 2020-09-23 17:15:00-04:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Charlotte Chan   (MIT)
-  time: 2020-09-23 16:15:00-04:00
-  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   endtime: 2020-09-26 15:00:00-04:00
   label: BC
@@ -148,16 +138,6 @@
   speaker: Jonathan Wise (Colorado)
   time: 2020-10-03 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: The non-abelian Chabauty method and rational points on curves
-  endtime: 2020-10-07 17:15:00-04:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Daniel Hast   (Boston University)
-  time: 2020-10-07 16:15:00-04:00
-  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   endtime: 2020-10-10 15:00:00-04:00
   label: BC
@@ -168,16 +148,6 @@
   speaker: Charles Doran (Alberta)
   time: 2020-10-10 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: Reductions of crystalline representations with small Frobenius trace
-  endtime: 2020-10-15 17:15:00-04:00
-  label: BU
-  note: '(Note special day: TUESDAY.)'
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: John Bergdall   (Bryn Mawr College)
-  time: 2020-10-15 16:15:00-04:00
-  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   endtime: 2020-10-17 15:00:00-04:00
   label: BC
@@ -188,16 +158,6 @@
   speaker: German Stefanich (Berkeley)
   time: 2020-10-17 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: 2^k-Selmer groups and Goldfeld's conjecture
-  endtime: 2020-10-21 17:15:00-04:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Alexander Smith   (Harvard University)
-  time: 2020-10-21 16:15:00-04:00
-  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   endtime: 2020-10-24 15:00:00-04:00
   label: BC
@@ -208,16 +168,6 @@
   speaker: Charlotte Chan (MIT)
   time: 2020-10-24 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: Moduli Spaces of Shtukas over $\mathbb{P}^1$
-  endtime: 2020-10-28 17:15:00-04:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Maria Ines de Frutos Fernandez   (Boston University)
-  time: 2020-10-28 16:15:00-04:00
-  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   endtime: 2020-10-31 15:00:00-04:00
   label: BC
@@ -228,16 +178,6 @@
   speaker: Navid Nabijou (Glasgow)
   time: 2020-10-31 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: Motivic Euler products in motivic statistics
-  endtime: 2020-11-04 17:15:00-05:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Margaret Bilu   (Courant Institute, NYU)
-  time: 2020-11-04 16:15:00-05:00
-  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   endtime: 2020-11-07 15:00:00-05:00
   label: BC
@@ -248,16 +188,6 @@
   speaker: Yusuke Nakamura (Tokyo)
   time: 2020-11-07 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: Newton polygon stratification  of the Torelli locus in PEL-type Shimura varieties
-  endtime: 2020-11-11 17:15:00-05:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Wanlin Li   (MIT)
-  time: 2020-11-11 16:15:00-05:00
-  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   endtime: 2020-11-14 15:00:00-05:00
   label: BC
@@ -268,16 +198,6 @@
   speaker: Jennifer Balakrishnan (BU)
   time: 2020-11-14 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: Comparing the density of certain quartic extensions of number fields
-  endtime: 2020-11-18 17:15:00-05:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Matthew Friedrichsen   (Tufts University)
-  time: 2020-11-18 16:15:00-05:00
-  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   endtime: 2020-11-21 15:00:00-05:00
   label: BC
@@ -288,16 +208,6 @@
   speaker: Melissa Emory (Toronto)
   time: 2020-11-21 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: Counting elliptic curves with a rational N-isogeny
-  endtime: 2020-12-02 17:15:00-05:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Soumya Sankar   (University of Wisconsin)
-  time: 2020-12-02 16:15:00-05:00
-  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   endtime: 2020-12-05 15:00:00-05:00
   label: BC
