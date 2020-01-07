@@ -35,22 +35,6 @@
   speaker: 'SPEAKER:  Abhishek Oswal (University of Toronto)'
   time: 2019-12-10 16:30:00-05:00
   url: http://math.mit.edu/nt/nts.html
-- desc: " p-adic Hodge structures\u201D. We will present many evidences with main\
-    \ focus on Scholze-Weinstein\u2019s classification. For the proof, the key guiding\
-    \ example is G= \\mu_p\\infty  (note \\mu_p\\infty(O_c)\neq  \\lim_{n\\to} \\\
-    mu_p\\infty(O_c)/p^n . For simplicity, some technical difficulties will be ignored,\
-    \ e.g the use of adic spaces. Then we will present the Dieudonne theory over O_c\
-    \ /p  , and use it to explain more analogies, e.g every height 2 dimension  1p-divisible\
-    \ group over O_c is from an elliptic curve over  O_c. If time permits, we may\
-    \ explain why the viewpoint of "
-  endtime: 2019-12-06 11:40:00-05:00
-  label: STAGE
-  place: MIT-STAGE
-  room: Building 2, 2-132
-  seminar: STAGE
-  speaker: 'Speaker: Zhiyu Zhang'
-  time: 2019-12-06 10:10:00-05:00
-  url: http://math.mit.edu/nt/stage.html
 - desc: null
   endtime: 2019-12-05 17:30:00-05:00
   label: TUFTS

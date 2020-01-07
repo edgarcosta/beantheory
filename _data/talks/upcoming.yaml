@@ -69,6 +69,16 @@
   time: 2020-02-25 16:30:00-05:00
   url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
 - desc: null
+  endtime: 2020-03-16 17:15:00-04:00
+  label: BU
+  note: null
+  place: BU
+  room: MCS B31
+  seminar: BU number theory seminar
+  speaker: Tian An Wong   (Smith College)
+  time: 2020-03-16 16:15:00-04:00
+  url: http://math.bu.edu/research/algebra/seminar.html
+- desc: null
   endtime: 2020-04-07 16:00:00-04:00
   label: BCMIT
   note: BC-MIT
