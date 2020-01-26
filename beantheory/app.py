@@ -6,7 +6,15 @@ from seminars import BU, MIT, BC, BCMIT, TUFTS, STAGE, HARVARD, SPECIAL
 from utils import root_path
 from icalendar import Calendar, Event
 
-global_seminars = [HARVARD(), BCMIT(), BU(), MIT(), TUFTS(), BC(), STAGE()]
+global_seminars = [
+    # HARVARD(),
+    BCMIT(),
+    BU(),
+    MIT(),
+    TUFTS(),
+    BC(),
+    STAGE()
+]
 
 
 def talks():
