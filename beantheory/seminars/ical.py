@@ -14,8 +14,7 @@ class IcalSeminar(GenericSeminar):
     def __init__(self):
         GenericSeminar.__init__(self)
         r = requests.get(self.cal_url)
-        # force utf8
-        self.gcal = icalendar.Calendar.from_ical(r.content.decode('utf8'))
+        self.gcal = icalendar.Calendar.from_ical(r.text)
         self.errors = []
 
     def speaker_parser(self, x):
