@@ -1,12 +1,21 @@
-- desc: ' power torsion in '
-  endtime: 2019-12-13 11:40:00-05:00
-  label: STAGE
-  place: MIT-STAGE
-  room: Building 2, 2-132
-  seminar: STAGE
-  speaker: 'Speaker: Hood Chatham'
-  time: 2019-12-13 10:10:00-05:00
-  url: http://math.mit.edu/nt/stage.html
+- desc: null
+  endtime: 2020-01-23 15:00:00-05:00
+  label: BC
+  place: BC
+  room: Maloney 560
+  seminar: BC NT & AG seminar
+  speaker: Zhuang He (Northeastern)
+  time: 2020-01-23 14:00:00-05:00
+  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: ''
+  endtime: 2020-01-07 17:30:00-05:00
+  label: MIT
+  place: MIT
+  room: Building 2, Room 147
+  seminar: MIT number theory seminar
+  speaker: "SPEAKER:  Emre Sert\xC3\xB6z  (MPI MiS Leipzig)"
+  time: 2020-01-07 16:30:00-05:00
+  url: http://math.mit.edu/nt/nts.html
 - desc: Counting cusp forms
   endtime: 2019-12-12 15:00:00-05:00
   label: BC
@@ -16,25 +25,6 @@
   speaker: "Djordje Mili\u0107evi\u0107 (Bryn Mawr)"
   time: 2019-12-12 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: Slopes of modular forms and ghost conjecture of Bergdall and Pollack
-  endtime: 2019-12-11 16:00:00-05:00
-  label: Harvard
-  note: null
-  place: Harvard
-  room: Science Center 507
-  seminar: Harvard number theory seminar
-  speaker: Liang Xiao BICMR
-  time: 2019-12-11 15:00:00-05:00
-  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: ''
-  endtime: 2019-12-10 17:30:00-05:00
-  label: MIT
-  place: MIT
-  room: Room 2-143
-  seminar: MIT number theory seminar
-  speaker: 'SPEAKER:  Abhishek Oswal (University of Toronto)'
-  time: 2019-12-10 16:30:00-05:00
-  url: http://math.mit.edu/nt/nts.html
 - desc: null
   endtime: 2019-12-05 17:30:00-05:00
   label: TUFTS
@@ -53,36 +43,6 @@
   speaker: Nicole Looper (Brown)
   time: 2019-12-05 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: On the arithmetic of elliptic curves over quintic fields
-  endtime: 2019-12-04 16:00:00-05:00
-  label: Harvard
-  note: null
-  place: Harvard
-  room: Science Center 507
-  seminar: Harvard number theory seminar
-  speaker: Michele Fornea IAS
-  time: 2019-12-04 15:00:00-05:00
-  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: "\"On modularity of Kudla\x92s generating series of 0-cycles\""
-  endtime: 2019-12-03 17:30:00-05:00
-  label: BCMIT
-  note: BC-MIT
-  place: MIT
-  room: 2-449
-  seminar: BC-MIT number theory seminar
-  speaker: Shou-Wu Zhang (Princeton)
-  time: 2019-12-03 16:30:00-05:00
-  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
-- desc: '"Serre weights, Breuil-Mezard cycles and deformed affine Springer fibers"'
-  endtime: 2019-12-03 16:00:00-05:00
-  label: BCMIT
-  note: BC-MIT
-  place: MIT
-  room: 2-449
-  seminar: BC-MIT number theory seminar
-  speaker: Bao Le Hung (Northwestern)
-  time: 2019-12-03 15:00:00-05:00
-  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
 - desc: null
   endtime: 2019-11-28 15:00:00-05:00
   label: BC
@@ -110,16 +70,6 @@
   speaker: Melissa Emory (Toronto)
   time: 2019-11-21 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: Stabilization of the trace formula for abelian-type Shimura varieties
-  endtime: 2019-11-20 16:00:00-05:00
-  label: Harvard
-  note: null
-  place: Harvard
-  room: Science Center 507
-  seminar: Harvard number theory seminar
-  speaker: Yihang Zhu Columbia University
-  time: 2019-11-20 15:00:00-05:00
-  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
 - desc: High dimensional cohomology of congruence subgroups
   endtime: 2019-11-18 17:30:00-05:00
   label: special
@@ -165,16 +115,6 @@
   speaker: Ellen Eischen, U Oregon
   time: 2019-11-13 16:30:00-05:00
   url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: Bessel F-isocrystals for reductive groups
-  endtime: 2019-11-13 16:00:00-05:00
-  label: Harvard
-  note: null
-  place: Harvard
-  room: Science Center 507
-  seminar: Harvard number theory seminar
-  speaker: Daxin Xu Caltech
-  time: 2019-11-13 15:00:00-05:00
-  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
 - desc: null
   endtime: 2019-11-07 17:30:00-05:00
   label: TUFTS
@@ -193,16 +133,6 @@
   speaker: Yusuke Nakamura (Tokyo)
   time: 2019-11-07 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: Purity for flat cohomology
-  endtime: 2019-11-06 16:00:00-05:00
-  label: Harvard
-  note: null
-  place: Harvard
-  room: Sci Center 507
-  seminar: Harvard number theory seminar
-  speaker: Kestutis Cesnavicius CNRS/Paris-Sud
-  time: 2019-11-06 15:00:00-05:00
-  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
 - desc: 'Lecture II: Integer Points on Affine Cubic Surfaces'
   endtime: 2019-11-01 17:15:00-04:00
   label: special
@@ -230,36 +160,6 @@
   speaker: Navid Nabijou (Glasgow)
   time: 2019-10-31 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: Isolation of L^2 spectrum and Gan-Gross-Prasad conjecture
-  endtime: 2019-10-30 16:00:00-04:00
-  label: Harvard
-  note: null
-  place: Harvard
-  room: Science Center 530
-  seminar: Harvard number theory seminar
-  speaker: Yifeng Liu Yale University
-  time: 2019-10-30 15:00:00-04:00
-  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: '"An arithmetic count of rational plane curves"'
-  endtime: 2019-10-29 17:30:00-04:00
-  label: BCMIT
-  note: BC-MIT
-  place: BC
-  room: Maloney 560
-  seminar: BC-MIT number theory seminar
-  speaker: Kirsten Wickelgren (Duke)
-  time: 2019-10-29 16:30:00-04:00
-  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
-- desc: '"Modular forms on exceptional groups"'
-  endtime: 2019-10-29 16:00:00-04:00
-  label: BCMIT
-  note: BC-MIT
-  place: BC
-  room: Maloney 560
-  seminar: BC-MIT number theory seminar
-  speaker: Aaron Pollack (Duke)
-  time: 2019-10-29 15:00:00-04:00
-  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
 - desc: null
   endtime: 2019-10-24 17:30:00-04:00
   label: TUFTS
@@ -278,158 +178,3 @@
   speaker: Charlotte Chan (MIT)
   time: 2019-10-24 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: Reflection theorems generalizing the Ohno-Nakagawa identities
-  endtime: 2019-10-23 16:00:00-04:00
-  label: Harvard
-  note: null
-  place: Harvard
-  room: Science Center 507
-  seminar: Harvard number theory seminar
-  speaker: Evan O'Dorney Princeton University
-  time: 2019-10-23 15:00:00-04:00
-  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: null
-  endtime: 2019-10-17 17:30:00-04:00
-  label: TUFTS
-  place: Tufts
-  room: Bromfield-Pearson 101
-  seminar: Tufts algebra, geometry, and number theory seminar
-  speaker: Ross Goluboff (BC)
-  time: 2019-10-17 16:30:00-04:00
-  url: https://sites.google.com/view/tuftsagents/home
-- desc: Microlocal theory of sheaves of categories
-  endtime: 2019-10-17 15:00:00-04:00
-  label: BC
-  place: BC
-  room: Maloney 560
-  seminar: BC NT & AG seminar
-  speaker: German Stefanich (Berkeley)
-  time: 2019-10-17 14:00:00-04:00
-  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: Proofs by Example
-  endtime: 2019-10-16 16:00:00-04:00
-  label: Harvard
-  note: null
-  place: Harvard
-  room: Science Center 507
-  seminar: Harvard number theory seminar
-  speaker: Bejamin Matschke Boston University
-  time: 2019-10-16 15:00:00-04:00
-  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: null
-  endtime: 2019-10-10 17:30:00-04:00
-  label: TUFTS
-  place: Tufts
-  room: Bromfield-Pearson 101
-  seminar: Tufts algebra, geometry, and number theory seminar
-  speaker: Wanlin Li (MIT)
-  time: 2019-10-10 16:30:00-04:00
-  url: https://sites.google.com/view/tuftsagents/home
-- desc: Gluing Periods for DHT Mirrors
-  endtime: 2019-10-10 15:00:00-04:00
-  label: BC
-  place: BC
-  room: Maloney 560
-  seminar: BC NT & AG seminar
-  speaker: Charles Doran (Alberta)
-  time: 2019-10-10 14:00:00-04:00
-  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: Geometric lifts of odd Galois representations
-  endtime: 2019-10-09 16:00:00-04:00
-  label: Harvard
-  note: null
-  place: Harvard
-  room: Science Center 507
-  seminar: Harvard number theory seminar
-  speaker: Stefan Patrikis Utah
-  time: 2019-10-09 15:00:00-04:00
-  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: Picard ranks of families of K3 surfaces in positive characteristic (Harvard/MIT
-    algebraic geometry seminar)
-  endtime: 2019-10-08 16:00:00-04:00
-  label: Harvard
-  note: null
-  place: Harvard
-  room: Science Center 507
-  seminar: Harvard/MIT algebraic geometry seminar
-  speaker: Ananth Shankar MIT
-  time: 2019-10-08 15:00:00-04:00
-  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: null
-  endtime: 2019-10-03 17:30:00-04:00
-  label: TUFTS
-  place: Tufts
-  room: Bromfield-Pearson 101
-  seminar: Tufts algebra, geometry, and number theory seminar
-  speaker: Sebastian Bozlee (CU-Boulder)
-  time: 2019-10-03 16:30:00-04:00
-  url: https://sites.google.com/view/tuftsagents/home
-- desc: null
-  endtime: 2019-10-03 15:00:00-04:00
-  label: BC
-  place: BC
-  room: Maloney 560
-  seminar: BC NT & AG seminar
-  speaker: Jonathan Wise (Colorado)
-  time: 2019-10-03 14:00:00-04:00
-  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: Isogenies between abelian varieties in positive and mixed characteristic
-  endtime: 2019-10-02 16:00:00-04:00
-  label: Harvard
-  note: null
-  place: Harvard
-  room: Science Center 507
-  seminar: Harvard number theory seminar
-  speaker: Ananth Shankar MIT
-  time: 2019-10-02 15:00:00-04:00
-  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: Steenrod operations and the Artin-Tate pairing
-  endtime: 2019-09-25 16:00:00-04:00
-  label: Harvard
-  note: null
-  place: Harvard
-  room: Science Center 507
-  seminar: Harvard number theory seminar
-  speaker: Tony Feng MIT
-  time: 2019-09-25 15:00:00-04:00
-  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: The arithmetic fundamental lemma for diagonal cycles
-  endtime: 2019-09-18 16:00:00-04:00
-  label: Harvard
-  note: null
-  place: Harvard
-  room: Science Center 507
-  seminar: Harvard number theory seminar
-  speaker: Wei Zhang MIT
-  time: 2019-09-18 15:00:00-04:00
-  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: '"The sup-norm problem for modular forms over function fields and geometry"'
-  endtime: 2019-09-17 17:30:00-04:00
-  label: BCMIT
-  note: BC-MIT
-  place: MIT
-  room: 2-449
-  seminar: BC-MIT number theory seminar
-  speaker: Will Sawin (Columbia / Clay Mathematics Institute)
-  time: 2019-09-17 16:30:00-04:00
-  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
-- desc: '"Doubling archimedean zeta integrals for symplectic and unitary groups"'
-  endtime: 2019-09-17 16:00:00-04:00
-  label: BCMIT
-  note: BC-MIT
-  place: MIT
-  room: 2-449
-  seminar: BC-MIT number theory seminar
-  speaker: Zheng Liu (UC Santa Barbara)
-  time: 2019-09-17 15:00:00-04:00
-  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
-- desc: Multiplication tables of Galois extensions
-  endtime: 2019-09-11 16:00:00-04:00
-  label: Harvard
-  note: null
-  place: Harvard
-  room: Science Center 507
-  seminar: Harvard number theory seminar
-  speaker: Fabian Gundlach Harvard University
-  time: 2019-09-11 15:00:00-04:00
-  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl

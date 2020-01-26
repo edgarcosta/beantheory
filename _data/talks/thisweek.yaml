@@ -1,9 +1,20 @@
-- desc: ''
-  endtime: 2020-01-07 17:30:00-05:00
-  label: MIT
-  place: MIT
-  room: Building 2, Room 147
-  seminar: MIT number theory seminar
-  speaker: "SPEAKER:  Emre Sert\xF6z  (MPI MiS Leipzig)"
-  time: 2020-01-07 16:30:00-05:00
-  url: http://math.mit.edu/nt/nts.html
+- desc: Boundedness in families of projective varieties with applications to arithmetic
+    hyperbolicity
+  endtime: 2020-01-27 17:15:00-05:00
+  label: BU
+  note: null
+  place: BU
+  room: MCS B31
+  seminar: BU number theory seminar
+  speaker: Raymond van Bommel    (MIT)
+  time: 2020-01-27 16:15:00-05:00
+  url: http://math.bu.edu/research/algebra/seminar.html
+- desc: null
+  endtime: 2020-01-30 15:00:00-05:00
+  label: BC
+  place: BC
+  room: Maloney 560
+  seminar: BC NT & AG seminar
+  speaker: Ignacio Barros (Northeastern)
+  time: 2020-01-30 14:00:00-05:00
+  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
