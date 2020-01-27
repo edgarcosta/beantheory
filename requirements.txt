@@ -1,4 +1,5 @@
+beautifulsoup4
 cached-property
-python-dateutil
 icalendar
+python-dateutil
 pyyaml

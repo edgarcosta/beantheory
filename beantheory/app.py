@@ -8,7 +8,7 @@ from icalendar import Calendar, Event
 
 global_seminars = [
     # HARVARD(),
-    #BCMIT(),
+    BCMIT(),
     BU(),
     MIT(),
     TUFTS(),

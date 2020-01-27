@@ -2,93 +2,72 @@
 from generic import GenericSeminar
 from datetime import timedelta
 from cached_property import cached_property
+from bs4 import BeautifulSoup
+import re
+import calendar
 
 class BCMIT(GenericSeminar):
     url = "https://www2.bc.edu/benjamin-howard/BC-MIT.html"
     name = "BC-MIT number theory seminar"
     label = "BCMIT"
-    table_regex = r'<table border="5" cellpadding="10" width="100%">((.|\n)*?)</table>'
+    # table_regex = r'<table border="5" cellpadding="10" width="100%">((.|\n)*?)</table>'
     duration = timedelta(hours=1)
-
 
     def __init__(self):
         GenericSeminar.__init__(self)
         self.room = self.time = self.place = None
 
     @cached_property
+    def table(self):
+        soup = BeautifulSoup(self.html, 'html.parser')
+        rows = []
+        for elt in soup.find_all('h3'):
+            if elt.text.lstrip().split()[0] in calendar.month_name:
+                row = [elt.text]
+                for col in elt.find_next_siblings('p', limit=2):
+                    row.append(col.text)
+                rows.append(row)
+
+        return rows
+
+    @cached_property
     def html_talks(self):
-        def parse_room(i, words):
-            roomw = []
-            for j, w in enumerate(words[i:]):
-                roomw.append(w.rstrip(')'))
-                if w.endswith(')'):
-                    return i + j + 1, " ".join(roomw)
-            return None, None
+        day_place_regex = re.compile(r'(.+) \((MIT|BC),\s(.+)\)')
+        time_speaker_title = re.compile(r'(.+):(.+):(.+)')
+        hours_minutes = re.compile(r'(\d+):(\d+)-(\d+):(\d+)')
         res = []
         for row in self.table:
-            if len(row) != 1:
+            if len(row) != 3:
                 self.errors.append('Could not parse: {} '.format(row))
                 continue
-
-            words = row[0].split()
-            day, note = self.parse_day(" ".join(words[:3]))
-            i = 3
-            if words[3].startswith('(MIT'):
-                place = 'MIT'
-                i, room = parse_room(4, words)
-            elif words[3].startswith('(BC'):
-                place = 'BC'
-                if words[3] == '(BC)':
-                    room = 'Maloney 560'
-                    i = 4
-                else:
-                    i, room = parse_room(4, words)
-            else:
-                self.errors.append('Could not parse: {}, 3rd word does not match the possible cases'.format(row[0]))
-                continue
-            if i is None:
-                self.errors.append('Could not parse room: {}'.format(row[0]))
-                continue
-
-
-            if words[i] != '3:00-4:00:':
-                self.errors.append('Could not parse: {}, 3:00-4:00 not where expected'.format(row[0]))
-                continue
-
-            talk1 = dict(self.talk_constant)
-            talk2 = dict(self.talk_constant)
-            for k, t in enumerate([talk1, talk2]):
-                if k == 0:
-                    t['time'] = day + timedelta(hours=15)
-                else:
-                    t['time'] = day + timedelta(hours=16, minutes=30)
-                t['endtime'] = t['time'] + self.duration
-                t['place'] = place
-                t['room'] = room
-                t['note'] = note
-                t['desc'] = None
-
             try:
-                j = words.index('4:30-5:30:')
-            except ValueError:
-                self.errors.append('Could not parse: {}, as could not find 4:30-5:30:'.format(row[0]))
+                day, place, room = day_place_regex.findall(row[0])
+            except:
+                self.errors.append('Could not parse (day, place, room): {} '.format(row[0]))
                 continue
-            talk1['speaker'] = " ".join(words[i+1:j])
-            talk2['speaker'] = " ".join(words[j+1:])
-            for t in [talk1, talk2]:
-                if ":" in t['speaker']:
-                    t['speaker'], t['desc'] = t['speaker'].split(':',1)
-                if t['note']:
-                    t['note'] = 'BC-MIT &mdash; ' + t['note']
-                else:
-                    t['note'] = 'BC-MIT'
-            self.clean_talk(talk1)
-            self.clean_talk(talk2)
-            res += [talk1, talk2]
+
+            for talk_row in row[1:]:
+                talk = dict(self.talk_constant)
+                try:
+                    time, speaker, title = time_speaker_title.findall(talk_row)
+                except:
+                    self.errors.append('Could not parse (time, speaker, title): {} '.format(talk_row))
+                    continue
+                try:
+                    start_h, start_m, end_h, end_m = hours_minutes.findall(time)
+                except:
+                    self.errors.append('Could not parse (start_h, start_m, end_h, end_m): {} '.format(time))
+                    continue
+                talk['time'] = day + timedelta(hours=12 + int(start_h), minutes=int(start_m))
+                talk['endtime'] = day + timedelta(hours=12 + int(end_h), minutes=int(end_m))
+                talk['place'] = place
+                talk['room'] = room
+                talk['note'] = 'BC-MIT'
+                talk['speaker'] = speaker
+                talk['desc'] = title
+                self.clean_talk(talk)
+                res.append(talk)
         return res
-
-
-
 
 
 
