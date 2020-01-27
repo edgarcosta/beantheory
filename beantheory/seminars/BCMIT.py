@@ -33,8 +33,7 @@ class BCMIT(GenericSeminar):
     @cached_property
     def html_talks(self):
         day_place_regex = re.compile(r'(.+) \((MIT|BC),\s(.+)\)')
-        time_speaker_title = re.compile(r'(.+):(.+):(.+)')
-        hours_minutes = re.compile(r'(\d+):(\d+)-(\d+):(\d+)')
+        hours_minutes_rest = re.compile(r'(\d+):(\d+)-(\d+):(\d+):(.+)')
         res = []
         for row in self.table:
             if len(row) != 3:
@@ -54,14 +53,18 @@ class BCMIT(GenericSeminar):
             for talk_row in row[1:]:
                 talk = dict(self.talk_constant)
                 try:
-                    time, speaker, title = time_speaker_title.findall(talk_row)[0]
-                except Exception:
-                    self.errors.append('Could not parse (time, speaker, title): {} '.format(talk_row))
-                    continue
-                try:
-                    start_h, start_m, end_h, end_m = hours_minutes.findall(time)[0]
+                    start_h, start_m, end_h, end_m, rest = hours_minutes_rest.findall(time)[0]
                 except Exception:
                     self.errors.append('Could not parse (start_h, start_m, end_h, end_m): {} '.format(time))
+                    continue
+                try:
+                    if ":" in rest:
+                        speaker, title = rest.split(':', 1)
+                    else:
+                        speaker = rest
+                        title = None
+                except Exception:
+                    self.errors.append('Could not parse (speaker, title): {} '.format(rest))
                     continue
                 talk['time'] = day + timedelta(hours=12 + int(start_h), minutes=int(start_m))
                 talk['endtime'] = day + timedelta(hours=12 + int(end_h), minutes=int(end_m))
