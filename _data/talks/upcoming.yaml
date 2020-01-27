@@ -77,6 +77,16 @@
   time: 2020-02-25 15:00:00-05:00
   url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
 - desc: null
+  endtime: 2020-02-25 17:30:00-05:00
+  label: BCMIT
+  note: BC-MIT
+  place: MIT
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: Chao Li (Columbia)
+  time: 2020-02-25 16:30:00-05:00
+  url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
+- desc: null
   endtime: 2020-02-27 15:00:00-05:00
   label: BC
   note: null
@@ -217,6 +227,26 @@
   speaker: Li-Mei Lim   (BU)
   time: 2020-04-06 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
+- desc: null
+  endtime: 2020-04-07 16:00:00-04:00
+  label: BCMIT
+  note: BC-MIT
+  place: BC
+  room: Maloney 560
+  seminar: BC-MIT number theory seminar
+  speaker: Hang Xue (Arizona)
+  time: 2020-04-07 15:00:00-04:00
+  url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
+- desc: null
+  endtime: 2020-04-07 17:30:00-04:00
+  label: BCMIT
+  note: BC-MIT
+  place: BC
+  room: Maloney 560
+  seminar: BC-MIT number theory seminar
+  speaker: Jacob Tsimerman (Toronto)
+  time: 2020-04-07 16:30:00-04:00
+  url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
 - desc: null
   endtime: 2020-04-09 15:00:00-04:00
   label: BC

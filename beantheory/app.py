@@ -7,7 +7,7 @@ from utils import root_path
 from icalendar import Calendar, Event
 
 global_seminars = [
-    # HARVARD(),
+    HARVARD(),
     BCMIT(),
     BU(),
     MIT(),
@@ -21,7 +21,11 @@ def talks():
     talks = []
     seminars = []
     for s in global_seminars:
-        talks += s.talks
+        try:
+            talks += s.talks
+        except Exception as e:
+            print(e)
+            s.errors += ['Could not parse talks list']
         seminars.append(
             {
                 "name": s.name,

@@ -2,9 +2,7 @@
   label: BC
   name: BC NT & AG seminar
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- errors: "Could not parse (start_h, start_m, end_h, end_m): 4:30-5 \n Could not parse\
-    \ (start_h, start_m, end_h, end_m): 3:00-4 \n Could not parse (start_h, start_m,\
-    \ end_h, end_m): 4:30-5 "
+- errors: ''
   label: BCMIT
   name: BC-MIT number theory seminar
   url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
@@ -12,6 +10,10 @@
   label: BU
   name: BU number theory seminar
   url: http://math.bu.edu/research/algebra/seminar.html
+- errors: ''
+  label: Harvard
+  name: Harvard number theory seminar
+  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
 - errors: ''
   label: MIT
   name: MIT number theory seminar
