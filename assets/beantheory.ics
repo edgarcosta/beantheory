@@ -45,6 +45,81 @@ LOCATION:MIT usually 2 - 131
 URL:https://calendar.mit.edu/event/algebraic_topology_seminar_20191118
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Zheng Liu (UC Santa Barbara)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190917T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190917T160000
+DESCRIPTION:"Doubling archimedean zeta integrals for symplectic and unitar
+ y groups"
+LOCATION:MIT usually 2-449
+URL:https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Will Sawin (Columbia / Clay Mathematics Institute)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190917T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190917T173000
+DESCRIPTION:"The sup-norm problem for modular forms over function fields a
+ nd geometry"
+LOCATION:MIT usually 2-449
+URL:https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aaron Pollack (Duke)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191029T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191029T160000
+DESCRIPTION:"Modular forms on exceptional groups"
+LOCATION:BC usually Maloney 560
+URL:https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kirsten Wickelgren (Duke)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191029T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191029T173000
+DESCRIPTION:"An arithmetic count of rational plane curves"
+LOCATION:BC usually Maloney 560
+URL:https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bao Le Hung (Northwestern)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191203T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191203T160000
+DESCRIPTION:"Serre weights\, Breuil-Mezard cycles and deformed affine Spri
+ nger fibers"
+LOCATION:MIT usually 2-449
+URL:https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shou-Wu Zhang (Princeton)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191203T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191203T173000
+DESCRIPTION:"On modularity of Kudla’s generating series of 0-cycles"
+LOCATION:MIT usually 2-449
+URL:https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wei Ho (Michigan)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200204T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200204T160000
+DESCRIPTION:The Hasse principle for some genus one curves
+LOCATION:BC usually Maloney 560
+URL:https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Weissman (UC Santa Cruz)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200204T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200204T173000
+DESCRIPTION:The arithmetic of arithmetic hyperbolic Coxeter groups
+LOCATION:BC usually Maloney 560
+URL:https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daniel Litt (Georgia)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200225T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200225T160000
+DESCRIPTION:"The section conjecture at the boundary of moduli space"
+LOCATION:MIT usually 2-449
+URL:https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Raymond van Bommel    (MIT)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200127T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200127T171500

@@ -2,10 +2,12 @@
   label: BC
   name: BC NT & AG seminar
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- errors: ''
+- errors: "Could not parse (start_h, start_m, end_h, end_m): 4:30-5 \n Could not parse\
+    \ (start_h, start_m, end_h, end_m): 3:00-4 \n Could not parse (start_h, start_m,\
+    \ end_h, end_m): 4:30-5 "
   label: BCMIT
   name: BC-MIT number theory seminar
-  url: https://www2.bc.edu/benjamin-howard/BC-MIT.html
+  url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
 - errors: ''
   label: BU
   name: BU number theory seminar

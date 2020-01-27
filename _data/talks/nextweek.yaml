@@ -8,6 +8,26 @@
   speaker: Hao Li   (BC)
   time: 2020-02-03 16:15:00-05:00
   url: http://math.bu.edu/research/algebra/seminar.html
+- desc: The Hasse principle for some genus one curves
+  endtime: 2020-02-04 16:00:00-05:00
+  label: BCMIT
+  note: BC-MIT
+  place: BC
+  room: Maloney 560
+  seminar: BC-MIT number theory seminar
+  speaker: Wei Ho (Michigan)
+  time: 2020-02-04 15:00:00-05:00
+  url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
+- desc: The arithmetic of arithmetic hyperbolic Coxeter groups
+  endtime: 2020-02-04 17:30:00-05:00
+  label: BCMIT
+  note: BC-MIT
+  place: BC
+  room: Maloney 560
+  seminar: BC-MIT number theory seminar
+  speaker: Marty Weissman (UC Santa Cruz)
+  time: 2020-02-04 16:30:00-05:00
+  url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
 - desc: null
   endtime: 2020-02-06 15:00:00-05:00
   label: BC

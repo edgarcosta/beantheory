@@ -43,6 +43,26 @@
   speaker: Nicole Looper (Brown)
   time: 2019-12-05 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: "\"On modularity of Kudla\u2019s generating series of 0-cycles\""
+  endtime: 2019-12-03 17:30:00-05:00
+  label: BCMIT
+  note: BC-MIT
+  place: MIT
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: Shou-Wu Zhang (Princeton)
+  time: 2019-12-03 16:30:00-05:00
+  url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
+- desc: '"Serre weights, Breuil-Mezard cycles and deformed affine Springer fibers"'
+  endtime: 2019-12-03 16:00:00-05:00
+  label: BCMIT
+  note: BC-MIT
+  place: MIT
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: Bao Le Hung (Northwestern)
+  time: 2019-12-03 15:00:00-05:00
+  url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
 - desc: null
   endtime: 2019-11-28 15:00:00-05:00
   label: BC
@@ -160,6 +180,26 @@
   speaker: Navid Nabijou (Glasgow)
   time: 2019-10-31 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: '"An arithmetic count of rational plane curves"'
+  endtime: 2019-10-29 17:30:00-04:00
+  label: BCMIT
+  note: BC-MIT
+  place: BC
+  room: Maloney 560
+  seminar: BC-MIT number theory seminar
+  speaker: Kirsten Wickelgren (Duke)
+  time: 2019-10-29 16:30:00-04:00
+  url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
+- desc: '"Modular forms on exceptional groups"'
+  endtime: 2019-10-29 16:00:00-04:00
+  label: BCMIT
+  note: BC-MIT
+  place: BC
+  room: Maloney 560
+  seminar: BC-MIT number theory seminar
+  speaker: Aaron Pollack (Duke)
+  time: 2019-10-29 15:00:00-04:00
+  url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
 - desc: null
   endtime: 2019-10-24 17:30:00-04:00
   label: TUFTS
@@ -178,3 +218,23 @@
   speaker: Charlotte Chan (MIT)
   time: 2019-10-24 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: '"The sup-norm problem for modular forms over function fields and geometry"'
+  endtime: 2019-09-17 17:30:00-04:00
+  label: BCMIT
+  note: BC-MIT
+  place: MIT
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: Will Sawin (Columbia / Clay Mathematics Institute)
+  time: 2019-09-17 16:30:00-04:00
+  url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
+- desc: '"Doubling archimedean zeta integrals for symplectic and unitary groups"'
+  endtime: 2019-09-17 16:00:00-04:00
+  label: BCMIT
+  note: BC-MIT
+  place: MIT
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: Zheng Liu (UC Santa Barbara)
+  time: 2019-09-17 15:00:00-04:00
+  url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar

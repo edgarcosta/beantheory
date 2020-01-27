@@ -66,6 +66,16 @@
   speaker: Ananth Shankar   (MIT)
   time: 2020-02-24 16:15:00-05:00
   url: http://math.bu.edu/research/algebra/seminar.html
+- desc: '"The section conjecture at the boundary of moduli space"'
+  endtime: 2020-02-25 16:00:00-05:00
+  label: BCMIT
+  note: BC-MIT
+  place: MIT
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: Daniel Litt (Georgia)
+  time: 2020-02-25 15:00:00-05:00
+  url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
 - desc: null
   endtime: 2020-02-27 15:00:00-05:00
   label: BC

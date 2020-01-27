@@ -7,7 +7,7 @@ import re
 import calendar
 
 class BCMIT(GenericSeminar):
-    url = "https://www2.bc.edu/benjamin-howard/BC-MIT.html"
+    url = "https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar"
     name = "BC-MIT number theory seminar"
     label = "BCMIT"
     # table_regex = r'<table border="5" cellpadding="10" width="100%">((.|\n)*?)</table>'
@@ -41,21 +41,26 @@ class BCMIT(GenericSeminar):
                 self.errors.append('Could not parse: {} '.format(row))
                 continue
             try:
-                day, place, room = day_place_regex.findall(row[0])
-            except:
+                day, place, room = day_place_regex.findall(row[0])[0]
+            except Exception:
                 self.errors.append('Could not parse (day, place, room): {} '.format(row[0]))
                 continue
+            try:
+                day, note = self.parse_day(day)
+            except Exception:
+                self.errors.append('Could not parse (day, note): {} '.format(day))
+
 
             for talk_row in row[1:]:
                 talk = dict(self.talk_constant)
                 try:
-                    time, speaker, title = time_speaker_title.findall(talk_row)
-                except:
+                    time, speaker, title = time_speaker_title.findall(talk_row)[0]
+                except Exception:
                     self.errors.append('Could not parse (time, speaker, title): {} '.format(talk_row))
                     continue
                 try:
-                    start_h, start_m, end_h, end_m = hours_minutes.findall(time)
-                except:
+                    start_h, start_m, end_h, end_m = hours_minutes.findall(time)[0]
+                except Exception:
                     self.errors.append('Could not parse (start_h, start_m, end_h, end_m): {} '.format(time))
                     continue
                 talk['time'] = day + timedelta(hours=12 + int(start_h), minutes=int(start_m))
@@ -63,6 +68,8 @@ class BCMIT(GenericSeminar):
                 talk['place'] = place
                 talk['room'] = room
                 talk['note'] = 'BC-MIT'
+                if note:
+                    talk['note'] += '&mdash;' + note
                 talk['speaker'] = speaker
                 talk['desc'] = title
                 self.clean_talk(talk)
