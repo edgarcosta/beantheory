@@ -13,11 +13,16 @@ class GenericSeminar(object):
     duration = timedelta(hours=1)
     def __init__(self):
         r = requests.get(self.url)
-        # .text to access the decoded Unicode stream
-        # depending on the original encoding the value of
-        # .text may be off
-        self.html = r.text.replace('\n',' ').replace('&nbsp;',' ')
-        self.errors = []
+        try:
+            r.raise_for_status()
+            # .text to access the decoded Unicode stream
+            # depending on the original encoding the value of
+            # .text may be off
+            self.html = r.text.replace('\n',' ').replace('&nbsp;',' ')
+            self.errors = []
+        except Exception as e:
+            self.html = ""
+            self.errors = [str(e)]
 
     @cached_property
     def room(self):

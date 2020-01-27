@@ -10,7 +10,7 @@
   label: BU
   name: BU number theory seminar
   url: http://math.bu.edu/research/algebra/seminar.html
-- errors: ''
+- errors: '404 Client Error: Not Found for url: https://www.math.harvard.edu/cgi-bin/showtalk.pl'
   label: Harvard
   name: Harvard number theory seminar
   url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
