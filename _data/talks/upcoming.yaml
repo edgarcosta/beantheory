@@ -38,6 +38,16 @@
   time: 2020-02-18 16:15:00-05:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
+  endtime: 2020-02-18 17:30:00-05:00
+  label: MIT
+  note: null
+  place: MIT
+  room: 2-449
+  seminar: MIT number theory seminar
+  speaker: Ari Shnidman
+  time: 2020-02-18 16:30:00-05:00
+  url: http://math.mit.edu/nt/nts.html
+- desc: null
   endtime: 2020-02-20 15:00:00-05:00
   label: BC
   note: null

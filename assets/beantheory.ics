@@ -153,6 +153,7 @@ BEGIN:VEVENT
 SUMMARY:Hao Li   (BC)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200203T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200203T171500
+DESCRIPTION:The Gross-Kohnen-Zagier formula for function fields
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT
@@ -226,6 +227,13 @@ DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200211T173000
 DESCRIPTION:Supersingular main conjectures\, Sylvester's conjecture\n  and
   Goldfeld's conjecture
 LOCATION:MIT usually 2-143
+URL:http://math.mit.edu/nt/nts.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ari Shnidman
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200218T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200218T173000
+LOCATION:MIT usually 2-449
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
