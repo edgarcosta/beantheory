@@ -18,6 +18,16 @@
   speaker: Daniel Kriz (MIT)
   time: 2020-02-11 16:30:00-05:00
   url: http://math.mit.edu/nt/nts.html
+- desc: Katz 1973, Sections 1.1-1.6.
+  endtime: 2020-02-12 12:00:00-05:00
+  label: STAGE
+  note: null
+  place: MIT-STAGE
+  room: 2-449
+  seminar: STAGE
+  speaker: Algebraic modular forms and the q-expansion principle
+  time: 2020-02-12 10:00:00-05:00
+  url: http://math.mit.edu/nt/stage.html
 - desc: null
   endtime: 2020-02-13 15:00:00-05:00
   label: BC
@@ -47,6 +57,16 @@
   speaker: Ari Shnidman
   time: 2020-02-18 16:30:00-05:00
   url: http://math.mit.edu/nt/nts.html
+- desc: Katz 1973, Sections 1.7-1.13.
+  endtime: 2020-02-19 12:00:00-05:00
+  label: STAGE
+  note: null
+  place: MIT-STAGE
+  room: 2-449
+  seminar: STAGE
+  speaker: Modular schemes and Hecke operators
+  time: 2020-02-19 10:00:00-05:00
+  url: http://math.mit.edu/nt/stage.html
 - desc: null
   endtime: 2020-02-20 15:00:00-05:00
   label: BC
@@ -96,6 +116,16 @@
   speaker: Chao Li (Columbia)
   time: 2020-02-25 16:30:00-05:00
   url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
+- desc: Katz 1973, Chapter 2.
+  endtime: 2020-02-26 12:00:00-05:00
+  label: STAGE
+  note: null
+  place: MIT-STAGE
+  room: 2-449
+  seminar: STAGE
+  speaker: p-adic modular forms
+  time: 2020-02-26 10:00:00-05:00
+  url: http://math.mit.edu/nt/stage.html
 - desc: null
   endtime: 2020-02-27 15:00:00-05:00
   label: BC
@@ -125,6 +155,16 @@
   speaker: Alex Betts   (Kings College London/MPIM)
   time: 2020-03-02 16:15:00-05:00
   url: http://math.bu.edu/research/algebra/seminar.html
+- desc: Katz 1973, Chapter 3 up to Section 3.9 inclusive.
+  endtime: 2020-03-04 12:00:00-05:00
+  label: STAGE
+  note: null
+  place: MIT-STAGE
+  room: 2-449
+  seminar: STAGE
+  speaker: The canonical subgroup
+  time: 2020-03-04 10:00:00-05:00
+  url: http://math.mit.edu/nt/stage.html
 - desc: null
   endtime: 2020-03-05 15:00:00-05:00
   label: BC
@@ -314,6 +354,16 @@
   seminar: BC NT & AG seminar
   speaker: Changjian Su (Toronto)
   time: 2020-04-30 14:00:00-04:00
+  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: null
+  endtime: 2020-05-07 15:00:00-04:00
+  label: BC
+  note: null
+  place: BC
+  room: Maloney 560
+  seminar: BC NT & AG seminar
+  speaker: Ignacio Barros (Northeastern)
+  time: 2020-05-07 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: null
   endtime: 2020-05-12 17:30:00-04:00
