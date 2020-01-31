@@ -200,24 +200,6 @@
   speaker: Aaron Pollack (Duke)
   time: 2019-10-29 15:00:00-04:00
   url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
-- desc: null
-  endtime: 2019-10-24 17:30:00-04:00
-  label: TUFTS
-  place: Tufts
-  room: Bromfield-Pearson 101
-  seminar: Tufts algebra, geometry, and number theory seminar
-  speaker: Benjamin Linowitz (Oberlin)
-  time: 2019-10-24 16:30:00-04:00
-  url: https://sites.google.com/view/tuftsagents/home
-- desc: null
-  endtime: 2019-10-24 15:00:00-04:00
-  label: BC
-  place: BC
-  room: Maloney 560
-  seminar: BC NT & AG seminar
-  speaker: Charlotte Chan (MIT)
-  time: 2019-10-24 14:00:00-04:00
-  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: '"The sup-norm problem for modular forms over function fields and geometry"'
   endtime: 2019-09-17 17:30:00-04:00
   label: BCMIT

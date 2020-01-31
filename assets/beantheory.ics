@@ -321,20 +321,6 @@ LOCATION:Tufts usually Bromfield-Pearson 101
 URL:https://sites.google.com/view/tuftsagents/home
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Benjamin Linowitz (Oberlin)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191024T163000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191024T173000
-LOCATION:Tufts usually Bromfield-Pearson 101
-URL:https://sites.google.com/view/tuftsagents/home
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Charlotte Chan (MIT)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191024T140000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191024T150000
-LOCATION:BC usually Maloney 560
-URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Navid Nabijou (Glasgow)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191031T140000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191031T150000
@@ -396,7 +382,7 @@ LOCATION:BC usually Maloney 560
 URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ignacio Barros (Northeastern)
+SUMMARY:postponed to May 7
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200130T140000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200130T150000
 LOCATION:BC usually Maloney 560
