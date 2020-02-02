@@ -1,43 +1,4 @@
 - desc: null
-  endtime: 2020-02-10 17:15:00-05:00
-  label: BU
-  note: null
-  place: BU
-  room: MCS B31
-  seminar: BU number theory seminar
-  speaker: Jared Weinstein   (BU)
-  time: 2020-02-10 16:15:00-05:00
-  url: http://math.bu.edu/research/algebra/seminar.html
-- desc: "Supersingular main conjectures, Sylvester's conjecture\n  and Goldfeld's\
-    \ conjecture"
-  endtime: 2020-02-11 17:30:00-05:00
-  label: MIT
-  place: MIT
-  room: 2-143
-  seminar: MIT number theory seminar
-  speaker: Daniel Kriz (MIT)
-  time: 2020-02-11 16:30:00-05:00
-  url: http://math.mit.edu/nt/nts.html
-- desc: Katz 1973, Sections 1.1-1.6.
-  endtime: 2020-02-12 12:00:00-05:00
-  label: STAGE
-  note: null
-  place: MIT-STAGE
-  room: 2-449
-  seminar: STAGE
-  speaker: Algebraic modular forms and the q-expansion principle
-  time: 2020-02-12 10:00:00-05:00
-  url: http://math.mit.edu/nt/stage.html
-- desc: null
-  endtime: 2020-02-13 15:00:00-05:00
-  label: BC
-  place: BC
-  room: Maloney 560
-  seminar: BC NT & AG seminar
-  speaker: Ari Shnidman (Hebrew University)
-  time: 2020-02-13 14:00:00-05:00
-  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: null
   endtime: 2020-02-18 17:15:00-05:00
   label: BU
   note: (note special Tuesday meeting)
@@ -306,6 +267,15 @@
   speaker: No Seminar (Easter)
   time: 2020-04-09 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: null
+  endtime: 2020-04-09 17:30:00-04:00
+  label: TUFTS
+  place: Tufts
+  room: Bromfield-Pearson 101
+  seminar: Tufts algebra, geometry, and number theory seminar
+  speaker: Brian Lehmann (BC)
+  time: 2020-04-09 16:30:00-04:00
+  url: https://sites.google.com/view/tuftsagents/home
 - desc: null
   endtime: 2020-04-13 17:15:00-04:00
   label: BU
