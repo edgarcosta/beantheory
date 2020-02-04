@@ -51,7 +51,6 @@ class HARVARD(GenericSeminar):
     def html_talks(self):
         res = []
         for row in self.table:
-            #print(row)
             # discard abstract
             time, speaker, title, _ = row
             time, note = self.parse_day(time)
@@ -69,7 +68,6 @@ class HARVARD(GenericSeminar):
             talk['desc'] = title
             talk['note'] = note
             self.clean_talk(talk)
-            print(talk)
             res.append(talk)
         return res
 
