@@ -30,6 +30,8 @@ class HARVARD(GenericSeminar):
         res = []
         for div in soup.find_all('div',{'class':'event_item'}):
             startdate = div.find('span',{'class':'date-info'}).text
+            for elt in ['\r', '\n', '\t']:
+                startdate = startdate.replace(elt, '')
             abstract = div.find_all('p')[1].text
             speaker = div.find('div',{'class':'event-archive-speaker'}).text
             if speaker.startswith('Speaker:'):
@@ -49,8 +51,10 @@ class HARVARD(GenericSeminar):
     def html_talks(self):
         res = []
         for row in self.table:
+            #print(row)
             # discard abstract
             time, speaker, title, _ = row
+            print(time)
             time, note = self.parse_day(time)
             if time is None:
                 continue
@@ -66,6 +70,7 @@ class HARVARD(GenericSeminar):
             talk['desc'] = title
             talk['note'] = note
             self.clean_talk(talk)
+            print(talk)
             res.append(talk)
         return res
 

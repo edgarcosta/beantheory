@@ -10,7 +10,7 @@
   label: BU
   name: BU number theory seminar
   url: http://math.bu.edu/research/algebra/seminar.html
-- errors: Could not parse talks list
+- errors: ''
   label: Harvard
   name: Harvard number theory seminar
   url: https://www.math.harvard.edu/event/?cat=number-theory
