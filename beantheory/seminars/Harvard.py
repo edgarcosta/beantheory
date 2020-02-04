@@ -54,7 +54,6 @@ class HARVARD(GenericSeminar):
             #print(row)
             # discard abstract
             time, speaker, title, _ = row
-            print(time)
             time, note = self.parse_day(time)
             if time is None:
                 continue
