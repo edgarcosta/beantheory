@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-from ical import IcalSeminar
+from __future__ import absolute_import
+from .ical import IcalSeminar
 from cached_property import cached_property
 import re
 from datetime import timedelta
@@ -17,7 +18,7 @@ class STAGE(IcalSeminar):
     @cached_property
     def time(self):
         time_blob = re.search(r'(?<=Meetings are held on)(.*)(?=in MIT room)', self.html)
-        h = re.search(r'(?<=, )([0-9]+)(?=[[a|p]m|-)', time_blob.group(0)).group(0)
+        h = re.search('(?<=, )([0-9]+)(?=[[a|p]m|-)', time_blob.group(0)).group(0)
         h = int(h)
         if h < 8:
             h += 12
@@ -99,7 +100,7 @@ class STAGE(IcalSeminar):
             talk['speaker'] = speaker
             # this gets the title between utf-8 quotes
             for pattern in [u'\xe2\x80\x9c((.|\n)*?)\xe2\x80\x9d', u'"((.|\n)*?)"', u'((.)*?)\n']:
-                title = re.search(pattern, desc.decode('utf-8'))
+                title = re.search(pattern, desc)
                 if title is not None:
                     title = title.group(1)
                     break

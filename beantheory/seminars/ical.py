@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
+from __future__ import absolute_import
 import requests
 from datetime import timedelta, datetime
 from cached_property import cached_property
 import icalendar
 from pytz import timezone
-from generic import GenericSeminar
+from .generic import GenericSeminar
 
 
 eastern = timezone('US/Eastern')
@@ -37,9 +38,10 @@ class IcalSeminar(GenericSeminar):
                 res.append([
                     component.get('dtstart').dt.astimezone(eastern),
                     component.get('dtend').dt.astimezone(eastern),
-                    component.get('summary').encode('utf-8'),
-                    component.get("description").encode('utf-8'),
-                    component.get("location").encode('utf-8')])
+                    component.get('summary').encode('utf-8').decode('utf-8'),
+                    component.get("description").encode('utf-8').decode('utf-8'),
+                    component.get("location").encode('utf-8').decode('utf-8')
+                ])
 
         return res
 

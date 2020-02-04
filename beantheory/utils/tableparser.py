@@ -1,6 +1,10 @@
 # -*- coding: utf-8 -*-
 from html.parser import HTMLParser
-from htmlentitydefs import name2codepoint
+import sys
+if sys.version_info[0] < 3:
+    from htmlentitydefs import name2codepoint
+else:
+    from html.entities import name2codepoint
 
 class TableParser(HTMLParser):
     def __init__(self):

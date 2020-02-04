@@ -111,23 +111,14 @@
   time: 2019-11-21 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: High dimensional cohomology of congruence subgroups
-  endtime: 2019-11-18 17:30:00-05:00
+  endtime: 2019-11-18 12:30:00-05:00
   label: special
   note: Algebraic Topology Seminar
   place: MIT
   room: 2 - 131
   speaker: Peter Patzt (Perdue University)
-  time: 2019-11-18 16:30:00-05:00
+  time: 2019-11-18 11:30:00-05:00
   url: https://calendar.mit.edu/event/algebraic_topology_seminar_20191118
-- desc: Some congruences and consequences in number theory and beyond
-  endtime: 2019-11-14 17:30:00-05:00
-  label: special
-  note: Joint Mathematics Colloquium Brandeis-Harvard-MIT-Northeastern
-  place: Harvard
-  room: Science Center Hall A
-  speaker: Ellen Eischen, U Oregon
-  time: 2019-11-14 16:30:00-05:00
-  url: http://www.northeastern.edu/tzhou/bhmn/Eischen19.html
 - desc: null
   endtime: 2019-11-14 17:30:00-05:00
   label: TUFTS
@@ -146,14 +137,23 @@
   speaker: Jennifer Balakrishnan (BU)
   time: 2019-11-14 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: Some congruences and consequences in number theory and beyond
+  endtime: 2019-11-14 12:30:00-05:00
+  label: special
+  note: Joint Mathematics Colloquium Brandeis-Harvard-MIT-Northeastern
+  place: Harvard
+  room: Science Center Hall A
+  speaker: Ellen Eischen, U Oregon
+  time: 2019-11-14 11:30:00-05:00
+  url: http://www.northeastern.edu/tzhou/bhmn/Eischen19.html
 - desc: An Introduction to the Bernoulli Numbers, from Pythagoras to Present
-  endtime: 2019-11-13 17:30:00-05:00
+  endtime: 2019-11-13 12:30:00-05:00
   label: special
   note: Open neighborhood seminar
   place: Harvard
   room: Science Center 507
   speaker: Ellen Eischen, U Oregon
-  time: 2019-11-13 16:30:00-05:00
+  time: 2019-11-13 11:30:00-05:00
   url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
 - desc: null
   endtime: 2019-11-07 17:30:00-05:00
@@ -174,22 +174,13 @@
   time: 2019-11-07 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: 'Lecture II: Integer Points on Affine Cubic Surfaces'
-  endtime: 2019-11-01 17:15:00-04:00
+  endtime: 2019-11-01 13:15:00-04:00
   label: special
   note: Ahlfors Lectures
   place: Harvard
   room: Science Center Hall D
   speaker: Peter Sarnak
-  time: 2019-11-01 16:15:00-04:00
-  url: http://www.math.harvard.edu/conferences/ahlfors19/index.html
-- desc: 'Lecture I: Applications of Points on Subvarieties of Tori'
-  endtime: 2019-10-31 17:15:00-04:00
-  label: special
-  note: Ahlfors Lectures
-  place: Harvard
-  room: Science Center Hall D
-  speaker: Peter Sarnak
-  time: 2019-10-31 16:15:00-04:00
+  time: 2019-11-01 12:15:00-04:00
   url: http://www.math.harvard.edu/conferences/ahlfors19/index.html
 - desc: null
   endtime: 2019-10-31 15:00:00-04:00
@@ -200,6 +191,15 @@
   speaker: Navid Nabijou (Glasgow)
   time: 2019-10-31 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: 'Lecture I: Applications of Points on Subvarieties of Tori'
+  endtime: 2019-10-31 13:15:00-04:00
+  label: special
+  note: Ahlfors Lectures
+  place: Harvard
+  room: Science Center Hall D
+  speaker: Peter Sarnak
+  time: 2019-10-31 12:15:00-04:00
+  url: http://www.math.harvard.edu/conferences/ahlfors19/index.html
 - desc: '"An arithmetic count of rational plane curves"'
   endtime: 2019-10-29 17:30:00-04:00
   label: BCMIT

@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-from ical import IcalSeminar
+from __future__ import absolute_import
+from .ical import IcalSeminar
 from cached_property import cached_property
 import re
 

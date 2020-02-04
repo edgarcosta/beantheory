@@ -5,6 +5,7 @@ import re
 from cached_property import cached_property
 from beantheory.utils import TableParser
 from pytz import timezone
+from six import  string_types
 
 
 eastern = timezone('US/Eastern')
@@ -84,7 +85,7 @@ class GenericSeminar(object):
 
     @staticmethod
     def clean_talk(talk):
-        for key, val in talk.iteritems():
-            if isinstance(val, str) or isinstance(val, unicode):
+        for key, val in talk.items():
+            if isinstance(val, string_types):
                 talk[key] = val.strip()
 

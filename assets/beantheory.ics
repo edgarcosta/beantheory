@@ -5,24 +5,24 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Bean Theory
 BEGIN:VEVENT
 SUMMARY:Peter Sarnak
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191031T161500
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191031T171500
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191031T121500
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191031T131500
 DESCRIPTION:Lecture I: Applications of Points on Subvarieties of Tori
 LOCATION:Harvard usually Science Center Hall D
 URL:http://www.math.harvard.edu/conferences/ahlfors19/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Peter Sarnak
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191101T161500
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191101T171500
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191101T121500
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191101T131500
 DESCRIPTION:Lecture II: Integer Points on Affine Cubic Surfaces
 LOCATION:Harvard usually Science Center Hall D
 URL:http://www.math.harvard.edu/conferences/ahlfors19/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ellen Eischen\, U Oregon
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191113T163000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191113T173000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191113T113000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191113T123000
 DESCRIPTION:An Introduction to the Bernoulli Numbers\, from Pythagoras to 
  Present
 LOCATION:Harvard usually Science Center 507
@@ -30,19 +30,36 @@ URL:http://www.math.harvard.edu/cgi-bin/showtalk.pl
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ellen Eischen\, U Oregon
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191114T163000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191114T173000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191114T113000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191114T123000
 DESCRIPTION:Some congruences and consequences in number theory and beyond
 LOCATION:Harvard usually Science Center Hall A
 URL:http://www.northeastern.edu/tzhou/bhmn/Eischen19.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Peter Patzt (Perdue University)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191118T163000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191118T173000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191118T113000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191118T123000
 DESCRIPTION:High dimensional cohomology of congruence subgroups
 LOCATION:MIT usually 2 - 131
 URL:https://calendar.mit.edu/event/algebraic_topology_seminar_20191118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jordan Ellenberg (University of Wisconsin at Madison)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200205T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200205T160000
+DESCRIPTION:Counting rational points on stacks
+LOCATION:Harvard usually Science Center 507
+URL:https://www.math.harvard.edu/event/?cat=number-theory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rachel Pries (Colorado State University)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200212T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200212T160000
+DESCRIPTION:The intersection of the Torelli locus with the non-ordinary lo
+ cus in PEL-type Shimura varieties
+LOCATION:Harvard usually Science Center 507
+URL:https://www.math.harvard.edu/event/?cat=number-theory
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zheng Liu (UC Santa Barbara)
@@ -592,11 +609,11 @@ LOCATION:BC usually Maloney 560
 URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Speaker: TBA
+SUMMARY:Speaker: Samuel Marks
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200205T100000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200205T120000
-DESCRIPTION:Title: TBA
-LOCATION:MIT-STAGE usually Building 2\, 2-132
+DESCRIPTION:Title: p-adic modular forms Ã  la Serre
+LOCATION:MIT-STAGE usually Building 2\, 2-449
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT

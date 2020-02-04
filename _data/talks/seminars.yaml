@@ -10,10 +10,10 @@
   label: BU
   name: BU number theory seminar
   url: http://math.bu.edu/research/algebra/seminar.html
-- errors: '404 Client Error: Not Found for url: https://www.math.harvard.edu/cgi-bin/showtalk.pl'
+- errors: Could not parse talks list
   label: Harvard
   name: Harvard number theory seminar
-  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
+  url: https://www.math.harvard.edu/event/?cat=number-theory
 - errors: ''
   label: MIT
   name: MIT number theory seminar

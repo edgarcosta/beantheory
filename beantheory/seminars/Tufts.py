@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-from ical import IcalSeminar
+from __future__ import absolute_import
+from .ical import IcalSeminar
 
 class TUFTS(IcalSeminar):
     url = "https://sites.google.com/view/tuftsagents/home"

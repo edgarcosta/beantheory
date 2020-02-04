@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-from generic import GenericSeminar
+from __future__ import absolute_import
+from .generic import GenericSeminar
 from datetime import timedelta
 from cached_property import cached_property
 from bs4 import BeautifulSoup

@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
-from generic import GenericSeminar
-from beantheory.utils.tableparser import TableParser
+from __future__ import absolute_import
+from .generic import GenericSeminar
 from cached_property import cached_property
-import re
 import os
 import yaml
 from pytz import timezone
 from datetime import timedelta
+from bs4 import BeautifulSoup
 
 
 
@@ -15,35 +15,33 @@ from datetime import timedelta
 
 
 class HARVARD(GenericSeminar):
-    url = "http://www.math.harvard.edu/cgi-bin/showtalk.pl"
+    url = "https://www.math.harvard.edu/event/?cat=number-theory"
     # The ical file is useless
     # cal_url = r"http://www.math.harvard.edu/seminars/seminars.ics"
     name = "Harvard number theory seminar"
     place = "Harvard"
     label = "Harvard"
     time = timedelta(hours=3)
-    room = None
+    room = "Science Center 507"
 
     @cached_property
     def html_table(self):
-        talks_regex = r'<table width="100%" border=0 cellpadding=3 cellspacing=0>([\s\S]*?)</table></center>'
-        talks = re.findall(talks_regex, self.html)
-        parser = TableParser()
-        for t in talks:
-            parser.feed(t)
-        start = [i for i, r in enumerate(parser.table) if len(r)==3]
-
+        soup = BeautifulSoup(self.html, 'html.parser')
         res = []
-        for i, s in enumerate(start):
-            row = []
-            if i == len(start) - 1:
-                e = len(parser.table)
-            else:
-                e = start[i + 1]
-            for j in range(s, e):
-                row += parser.table[j]
-            res.append(row)
-
+        for div in soup.find_all('div',{'class':'event_item'}):
+            startdate = div.find('span',{'class':'date-info'}).text
+            abstract = div.find_all('p')[1].text
+            speaker = div.find('div',{'class':'event-archive-speaker'}).text
+            if speaker.startswith('Speaker:'):
+                speaker = speaker[8:].lstrip()
+            speaker = speaker.rstrip()
+            if '-' in speaker:
+                speaker, uni = speaker.split('-')
+                uni = '(' + uni.lstrip() + ')'
+                speaker = speaker.rstrip()
+                speaker = speaker + " " + uni
+            title = div.find('h3').text
+            res.append((startdate, speaker, title, abstract))
         return res
 
 
@@ -51,22 +49,8 @@ class HARVARD(GenericSeminar):
     def html_talks(self):
         res = []
         for row in self.table:
-            # ignore the seminars that the name doesn't include the words
-            # number and theory
-            if not ('number' in row[0].lower() and 'theory' in row[0].lower()):
-                continue
-            if len(row) < 4:
-                self.errors.append("This row has to few columns: {}".format(row))
             # discard abstract
-            _, speaker, title, timeplace = row[:4]
-            time, place = re.search(r'on \w*, (.*?) in (.*)$', timeplace).groups()
-            # fix for stuff like 3:00 pm - 4:00 pm
-            for elt in [' pm ', ' am ']:
-                i = time.find(elt)
-                if i > 0:
-                    time = time[:i + 4]
-            if '-' in time:
-                time, _ = time.split('-', 1)
+            time, speaker, title, _ = row
             time, note = self.parse_day(time)
             if time is None:
                 continue
@@ -76,11 +60,10 @@ class HARVARD(GenericSeminar):
                 note = None
 
             talk = dict(self.talk_constant)
-            talk['room'] = place
             talk['time'] = time
             talk['endtime'] = time + self.duration
-            talk['speaker'] = row[1].lstrip(' ')
-            talk['desc'] = title.lstrip(' ')
+            talk['speaker'] = speaker
+            talk['desc'] = title
             talk['note'] = note
             self.clean_talk(talk)
             res.append(talk)

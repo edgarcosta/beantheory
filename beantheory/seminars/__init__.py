@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-__all__ = ['GenericSeminar', 'MIT', 'STAGE', 'BU', 'BC', 'BCMIT', 'TUFTS', 'HARVARD']
+__all__ = ['GenericSeminar', 'MIT', 'STAGE', 'BU', 'BC', 'BCMIT', 'TUFTS', 'HARVARD', 'SPECIAL']
 
 
 from .generic import GenericSeminar

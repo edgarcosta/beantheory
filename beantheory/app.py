@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
+from __future__ import absolute_import
 import os
 import yaml
 from datetime import date, datetime
-from seminars import BU, MIT, BC, BCMIT, TUFTS, STAGE, HARVARD, SPECIAL
-from utils import root_path
+from .seminars import BU, MIT, BC, BCMIT, TUFTS, STAGE, HARVARD, SPECIAL
+from .utils import root_path
 from icalendar import Calendar, Event
 
 global_seminars = [
@@ -115,7 +116,7 @@ def git_infos():
         date = Popen([git_date_cmd], shell=True, stdout=PIPE, cwd=cwd).communicate()[0]
         cmd_output = rev.rstrip("\n"), date.rstrip("\n")
     except Exception:
-        cmd_output = "-", "-", "-"
+        cmd_output = "-", "-"
     return cmd_output
 
 
