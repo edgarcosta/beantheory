@@ -416,6 +416,8 @@ BEGIN:VEVENT
 SUMMARY:Laure Flapan (MIT)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200206T140000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200206T150000
+DESCRIPTION:Algebraic Hecke characters and Hodge/Tate classes on some self
+ -products
 LOCATION:BC usually Maloney 560
 URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT
