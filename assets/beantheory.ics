@@ -178,6 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Jared Weinstein   (BU)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200210T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200210T171500
+DESCRIPTION:Moduli spaces of shtukas over function fields
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT
