@@ -346,13 +346,6 @@ LOCATION:Tufts usually Bromfield-Pearson 101
 URL:https://sites.google.com/view/tuftsagents/home
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Navid Nabijou (Glasgow)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191031T140000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191031T150000
-LOCATION:BC usually Maloney 560
-URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Yusuke Nakamura (Tokyo)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191107T140000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191107T150000
@@ -620,10 +613,11 @@ LOCATION:MIT-STAGE usually Building 2\, 2-449
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Algebraic modular forms and the q-expansion principle
+SUMMARY:Naomi Sweeting
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200212T100000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200212T120000
-DESCRIPTION:Katz 1973\, Sections 1.1-1.6.
+DESCRIPTION:Algebraic modular forms and the q-expansion principle.  Katz 1
+ 973\, Sections 1.1-1.6.
 LOCATION:MIT-STAGE usually 2-449
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
