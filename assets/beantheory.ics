@@ -232,10 +232,10 @@ LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPEAKER:  Emre SertÃ¶z  (MPI MiS Leipzig)
+SUMMARY:Emre Sertöz in 2-147
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200107T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200107T173000
-LOCATION:MIT usually Building 2\, Room 147
+LOCATION:MIT usually 2-449
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT

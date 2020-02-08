@@ -27,13 +27,14 @@
   speaker: Zhuang He (Northeastern)
   time: 2020-01-23 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: ''
+- desc: null
   endtime: 2020-01-07 17:30:00-05:00
   label: MIT
+  note: null
   place: MIT
-  room: Building 2, Room 147
+  room: 2-449
   seminar: MIT number theory seminar
-  speaker: "SPEAKER:  Emre Sert\xC3\xB6z  (MPI MiS Leipzig)"
+  speaker: "Emre Sert\xF6z in 2-147"
   time: 2020-01-07 16:30:00-05:00
   url: http://math.mit.edu/nt/nts.html
 - desc: Counting cusp forms
