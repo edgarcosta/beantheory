@@ -1,51 +1,49 @@
-- desc: Moduli spaces of shtukas over function fields
-  endtime: 2020-02-10 17:15:00-05:00
+- desc: null
+  endtime: 2020-02-18 17:15:00-05:00
   label: BU
-  note: null
+  note: (note special Tuesday meeting)
   place: BU
   room: MCS B31
   seminar: BU number theory seminar
-  speaker: Jared Weinstein   (BU)
-  time: 2020-02-10 16:15:00-05:00
+  speaker: Karen Yeats   (Waterloo)
+  time: 2020-02-18 16:15:00-05:00
   url: http://math.bu.edu/research/algebra/seminar.html
-- desc: "Supersingular main conjectures, Sylvester's conjecture\n  and Goldfeld's\
-    \ conjecture"
-  endtime: 2020-02-11 17:30:00-05:00
+- desc: null
+  endtime: 2020-02-18 17:30:00-05:00
   label: MIT
+  note: null
   place: MIT
-  room: 2-143
+  room: 2-449
   seminar: MIT number theory seminar
-  speaker: Daniel Kriz (MIT)
-  time: 2020-02-11 16:30:00-05:00
+  speaker: Ari Shnidman
+  time: 2020-02-18 16:30:00-05:00
   url: http://math.mit.edu/nt/nts.html
-- desc: Algebraic modular forms and the q-expansion principle.  Katz 1973, Sections
-    1.1-1.6.
-  endtime: 2020-02-12 12:00:00-05:00
+- desc: Katz 1973, Sections 1.7-1.13.
+  endtime: 2020-02-19 12:00:00-05:00
   label: STAGE
   note: null
   place: MIT-STAGE
   room: 2-449
   seminar: STAGE
-  speaker: Naomi Sweeting
-  time: 2020-02-12 10:00:00-05:00
+  speaker: Modular schemes and Hecke operators
+  time: 2020-02-19 10:00:00-05:00
   url: http://math.mit.edu/nt/stage.html
-- desc: The intersection of the Torelli locus with the non-ordinary locus in PEL-type
-    Shimura varieties
-  endtime: 2020-02-12 16:00:00-05:00
-  label: Harvard
-  note: null
-  place: Harvard
-  room: Science Center 507
-  seminar: Harvard number theory seminar
-  speaker: Rachel Pries (Colorado State University)
-  time: 2020-02-12 15:00:00-05:00
-  url: https://www.math.harvard.edu/event/?cat=number-theory
 - desc: null
-  endtime: 2020-02-13 15:00:00-05:00
+  endtime: 2020-02-20 15:00:00-05:00
   label: BC
+  note: null
   place: BC
   room: Maloney 560
   seminar: BC NT & AG seminar
-  speaker: Ari Shnidman (Hebrew University)
-  time: 2020-02-13 14:00:00-05:00
+  speaker: Jared Weinstein (BU)
+  time: 2020-02-20 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: null
+  endtime: 2020-02-20 17:30:00-05:00
+  label: TUFTS
+  place: Tufts
+  room: Bromfield-Pearson 101
+  seminar: Tufts algebra, geometry, and number theory seminar
+  speaker: Abbey Bourdon (Wake Forest)
+  time: 2020-02-20 16:30:00-05:00
+  url: https://sites.google.com/view/tuftsagents/home

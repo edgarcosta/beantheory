@@ -1,3 +1,61 @@
+- desc: Algebraic Hecke characters and Hodge/Tate classes on some self-products
+  endtime: 2020-02-06 15:00:00-05:00
+  label: BC
+  place: BC
+  room: Maloney 560
+  seminar: BC NT & AG seminar
+  speaker: Laure Flapan (MIT)
+  time: 2020-02-06 14:00:00-05:00
+  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: Counting rational points on stacks
+  endtime: 2020-02-05 16:00:00-05:00
+  label: Harvard
+  note: null
+  place: Harvard
+  room: Science Center 507
+  seminar: Harvard number theory seminar
+  speaker: Jordan Ellenberg (University of Wisconsin at Madison)
+  time: 2020-02-05 15:00:00-05:00
+  url: https://www.math.harvard.edu/event/?cat=number-theory
+- desc: "Title: p-adic modular forms \xC3\_ la Serre"
+  endtime: 2020-02-05 12:00:00-05:00
+  label: STAGE
+  place: MIT-STAGE
+  room: Building 2, 2-449
+  seminar: STAGE
+  speaker: 'Speaker: Samuel Marks'
+  time: 2020-02-05 10:00:00-05:00
+  url: http://math.mit.edu/nt/stage.html
+- desc: The arithmetic of arithmetic hyperbolic Coxeter groups
+  endtime: 2020-02-04 17:30:00-05:00
+  label: BCMIT
+  note: BC-MIT
+  place: BC
+  room: Maloney 560
+  seminar: BC-MIT number theory seminar
+  speaker: Marty Weissman (UC Santa Cruz)
+  time: 2020-02-04 16:30:00-05:00
+  url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
+- desc: The Hasse principle for some genus one curves
+  endtime: 2020-02-04 16:00:00-05:00
+  label: BCMIT
+  note: BC-MIT
+  place: BC
+  room: Maloney 560
+  seminar: BC-MIT number theory seminar
+  speaker: Wei Ho (Michigan)
+  time: 2020-02-04 15:00:00-05:00
+  url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
+- desc: The Gross-Kohnen-Zagier formula for function fields
+  endtime: 2020-02-03 17:15:00-05:00
+  label: BU
+  note: null
+  place: BU
+  room: MCS B31
+  seminar: BU number theory seminar
+  speaker: Hao Li   (BC)
+  time: 2020-02-03 16:15:00-05:00
+  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
   endtime: 2020-01-30 15:00:00-05:00
   label: BC
