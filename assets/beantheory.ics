@@ -186,6 +186,8 @@ BEGIN:VEVENT
 SUMMARY:Karen Yeats   (Waterloo)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200218T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200218T171500
+DESCRIPTION:An arithmetic graph invariant with applications in quantum fie
+ ld theory
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT
@@ -616,16 +618,17 @@ BEGIN:VEVENT
 SUMMARY:Naomi Sweeting
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200212T100000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200212T120000
-DESCRIPTION:Algebraic modular forms and the q-expansion principle.  Katz 1
- 973\, Sections 1.1-1.6.
+DESCRIPTION:Modular Forms from a Geometric Perspective.  Katz 1973\, Secti
+ ons 1.1-1.6.
 LOCATION:MIT-STAGE usually 2-449
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Modular schemes and Hecke operators
+SUMMARY:Borys Kadets
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200219T100000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200219T120000
-DESCRIPTION:Katz 1973\, Sections 1.7-1.13.
+DESCRIPTION:Modular schemes and Hecke operators.  Katz 1973\, Sections 1.7
+ -1.13.
 LOCATION:MIT-STAGE usually 2-449
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT

@@ -1,4 +1,4 @@
-- desc: null
+- desc: An arithmetic graph invariant with applications in quantum field theory
   endtime: 2020-02-18 17:15:00-05:00
   label: BU
   note: (note special Tuesday meeting)
@@ -18,14 +18,14 @@
   speaker: Ari Shnidman
   time: 2020-02-18 16:30:00-05:00
   url: http://math.mit.edu/nt/nts.html
-- desc: Katz 1973, Sections 1.7-1.13.
+- desc: Modular schemes and Hecke operators.  Katz 1973, Sections 1.7-1.13.
   endtime: 2020-02-19 12:00:00-05:00
   label: STAGE
   note: null
   place: MIT-STAGE
   room: 2-449
   seminar: STAGE
-  speaker: Modular schemes and Hecke operators
+  speaker: Borys Kadets
   time: 2020-02-19 10:00:00-05:00
   url: http://math.mit.edu/nt/stage.html
 - desc: null
