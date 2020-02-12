@@ -18,15 +18,14 @@
   speaker: Daniel Kriz (MIT)
   time: 2020-02-11 16:30:00-05:00
   url: http://math.mit.edu/nt/nts.html
-- desc: Modular Forms from a Geometric Perspective.  Katz 1973, Sections 1.1-1.6.
-  endtime: 2020-02-12 12:00:00-05:00
+- desc: rules
+  endtime: 2020-02-12 11:10:00-05:00
   label: STAGE
-  note: null
   place: MIT-STAGE
-  room: 2-449
+  room: Building 2, 2-449
   seminar: STAGE
-  speaker: Naomi Sweeting
-  time: 2020-02-12 10:00:00-05:00
+  speaker: 'Speaker: Naomi Sweeting'
+  time: 2020-02-12 10:10:00-05:00
   url: http://math.mit.edu/nt/stage.html
 - desc: The intersection of the Torelli locus with the non-ordinary locus in PEL-type
     Shimura varieties
