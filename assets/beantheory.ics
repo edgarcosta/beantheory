@@ -632,18 +632,19 @@ LOCATION:MIT-STAGE usually 2-449
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:p-adic modular forms
+SUMMARY:Wanlin Li
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200226T100000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200226T120000
-DESCRIPTION:Katz 1973\, Chapter 2.
+DESCRIPTION:p-adic modular forms.  Katz 1973\, Chapter 2.
 LOCATION:MIT-STAGE usually 2-449
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The canonical subgroup
+SUMMARY:Yifan Wu
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200304T100000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200304T120000
-DESCRIPTION:Katz 1973\, Chapter 3 up to Section 3.9 inclusive.
+DESCRIPTION:The canonical subgroup.  Katz 1973\, Chapter 3 up to Section 3
+ .9 inclusive.
 LOCATION:MIT-STAGE usually 2-449
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT

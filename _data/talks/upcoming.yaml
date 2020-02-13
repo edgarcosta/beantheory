@@ -28,14 +28,14 @@
   speaker: Chao Li (Columbia)
   time: 2020-02-25 16:30:00-05:00
   url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
-- desc: Katz 1973, Chapter 2.
+- desc: p-adic modular forms.  Katz 1973, Chapter 2.
   endtime: 2020-02-26 12:00:00-05:00
   label: STAGE
   note: null
   place: MIT-STAGE
   room: 2-449
   seminar: STAGE
-  speaker: p-adic modular forms
+  speaker: Wanlin Li
   time: 2020-02-26 10:00:00-05:00
   url: http://math.mit.edu/nt/stage.html
 - desc: null
@@ -67,14 +67,14 @@
   speaker: Alex Betts   (Kings College London/MPIM)
   time: 2020-03-02 16:15:00-05:00
   url: http://math.bu.edu/research/algebra/seminar.html
-- desc: Katz 1973, Chapter 3 up to Section 3.9 inclusive.
+- desc: The canonical subgroup.  Katz 1973, Chapter 3 up to Section 3.9 inclusive.
   endtime: 2020-03-04 12:00:00-05:00
   label: STAGE
   note: null
   place: MIT-STAGE
   room: 2-449
   seminar: STAGE
-  speaker: The canonical subgroup
+  speaker: Yifan Wu
   time: 2020-03-04 10:00:00-05:00
   url: http://math.mit.edu/nt/stage.html
 - desc: null
