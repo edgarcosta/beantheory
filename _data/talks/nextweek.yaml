@@ -28,10 +28,19 @@
   speaker: Borys Kadets
   time: 2020-02-19 10:00:00-05:00
   url: http://math.mit.edu/nt/stage.html
+- desc: "Malle\u2019s Conjecture for octic $D_4$-fields"
+  endtime: 2020-02-19 16:00:00-05:00
+  label: Harvard
+  note: null
+  place: Harvard
+  room: Science Center 507
+  seminar: Harvard number theory seminar
+  speaker: Ila Varma (University of Toronto)
+  time: 2020-02-19 15:00:00-05:00
+  url: https://www.math.harvard.edu/event/?cat=number-theory
 - desc: null
   endtime: 2020-02-20 15:00:00-05:00
   label: BC
-  note: null
   place: BC
   room: Maloney 560
   seminar: BC NT & AG seminar

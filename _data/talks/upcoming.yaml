@@ -38,10 +38,20 @@
   speaker: Wanlin Li
   time: 2020-02-26 10:00:00-05:00
   url: http://math.mit.edu/nt/stage.html
+- desc: Dynamical generalizations of the Prime Number Theorem and disjointness of
+    additive and multiplicative semigroup actions
+  endtime: 2020-02-26 16:00:00-05:00
+  label: Harvard
+  note: null
+  place: Harvard
+  room: Science Center 507
+  seminar: Harvard number theory seminar
+  speaker: Florian K. Richter (Northwestern University)
+  time: 2020-02-26 15:00:00-05:00
+  url: https://www.math.harvard.edu/event/?cat=number-theory
 - desc: null
   endtime: 2020-02-27 15:00:00-05:00
   label: BC
-  note: null
   place: BC
   room: Maloney 560
   seminar: BC NT & AG seminar
@@ -161,9 +171,18 @@
   time: 2020-03-26 16:30:00-04:00
   url: https://sites.google.com/view/tuftsagents/home
 - desc: null
+  endtime: 2020-03-31 17:30:00-04:00
+  label: MIT
+  note: null
+  place: MIT
+  room: 2-449
+  seminar: MIT number theory seminar
+  speaker: Nicole Looper
+  time: 2020-03-31 16:30:00-04:00
+  url: http://math.mit.edu/nt/nts.html
+- desc: null
   endtime: 2020-04-02 15:00:00-04:00
   label: BC
-  note: null
   place: BC
   room: Maloney 560
   seminar: BC NT & AG seminar
@@ -240,7 +259,6 @@
 - desc: null
   endtime: 2020-04-16 15:00:00-04:00
   label: BC
-  note: null
   place: BC
   room: Maloney 560
   seminar: BC NT & AG seminar
@@ -259,7 +277,6 @@
 - desc: null
   endtime: 2020-04-23 15:00:00-04:00
   label: BC
-  note: null
   place: BC
   room: Maloney 560
   seminar: BC NT & AG seminar
@@ -269,7 +286,6 @@
 - desc: null
   endtime: 2020-04-30 15:00:00-04:00
   label: BC
-  note: null
   place: BC
   room: Maloney 560
   seminar: BC NT & AG seminar
@@ -279,7 +295,6 @@
 - desc: null
   endtime: 2020-05-07 15:00:00-04:00
   label: BC
-  note: null
   place: BC
   room: Maloney 560
   seminar: BC NT & AG seminar

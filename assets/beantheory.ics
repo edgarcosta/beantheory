@@ -62,6 +62,23 @@ LOCATION:Harvard usually Science Center 507
 URL:https://www.math.harvard.edu/event/?cat=number-theory
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ila Varma (University of Toronto)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200219T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200219T160000
+DESCRIPTION:Malle’s Conjecture for octic $D_4$-fields
+LOCATION:Harvard usually Science Center 507
+URL:https://www.math.harvard.edu/event/?cat=number-theory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florian K. Richter (Northwestern University)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200226T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200226T160000
+DESCRIPTION:Dynamical generalizations of the Prime Number Theorem and disj
+ ointness of additive and multiplicative semigroup actions
+LOCATION:Harvard usually Science Center 507
+URL:https://www.math.harvard.edu/event/?cat=number-theory
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Zheng Liu (UC Santa Barbara)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190917T150000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190917T160000
@@ -257,6 +274,13 @@ LOCATION:MIT usually 2-449
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nicole Looper
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200331T163000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200331T173000
+LOCATION:MIT usually 2-449
+URL:http://math.mit.edu/nt/nts.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mirela Ciperiani
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200512T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200512T173000
@@ -334,26 +358,11 @@ LOCATION:Tufts usually Bromfield-Pearson 101
 URL:https://sites.google.com/view/tuftsagents/home
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brandon Alberts (UConn)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191107T163000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191107T173000
-LOCATION:Tufts usually Bromfield-Pearson 101
-URL:https://sites.google.com/view/tuftsagents/home
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aaron Landesman (Stanford)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191121T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191121T173000
 LOCATION:Tufts usually Bromfield-Pearson 101
 URL:https://sites.google.com/view/tuftsagents/home
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yusuke Nakamura (Tokyo)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191107T140000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191107T150000
-DESCRIPTION:Rational point problem on singular Fano varieties.
-LOCATION:BC usually Maloney 560
-URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jennifer Balakrishnan (BU)

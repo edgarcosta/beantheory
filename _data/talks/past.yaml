@@ -214,24 +214,6 @@
   speaker: Ellen Eischen, U Oregon
   time: 2019-11-13 16:30:00-05:00
   url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: null
-  endtime: 2019-11-07 17:30:00-05:00
-  label: TUFTS
-  place: Tufts
-  room: Bromfield-Pearson 101
-  seminar: Tufts algebra, geometry, and number theory seminar
-  speaker: Brandon Alberts (UConn)
-  time: 2019-11-07 16:30:00-05:00
-  url: https://sites.google.com/view/tuftsagents/home
-- desc: Rational point problem on singular Fano varieties.
-  endtime: 2019-11-07 15:00:00-05:00
-  label: BC
-  place: BC
-  room: Maloney 560
-  seminar: BC NT & AG seminar
-  speaker: Yusuke Nakamura (Tokyo)
-  time: 2019-11-07 14:00:00-05:00
-  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: 'Lecture II: Integer Points on Affine Cubic Surfaces'
   endtime: 2019-11-01 17:15:00-04:00
   label: special
