@@ -1,58 +1,69 @@
-- desc: An arithmetic graph invariant with applications in quantum field theory
-  endtime: 2020-02-18 17:15:00-05:00
+- desc: null
+  endtime: 2020-02-24 17:15:00-05:00
   label: BU
-  note: (note special Tuesday meeting)
+  note: null
   place: BU
   room: MCS B31
   seminar: BU number theory seminar
-  speaker: Karen Yeats   (Waterloo)
-  time: 2020-02-18 16:15:00-05:00
+  speaker: Ananth Shankar   (MIT)
+  time: 2020-02-24 16:15:00-05:00
   url: http://math.bu.edu/research/algebra/seminar.html
-- desc: null
-  endtime: 2020-02-18 17:30:00-05:00
-  label: MIT
-  note: null
+- desc: '"The section conjecture at the boundary of moduli space"'
+  endtime: 2020-02-25 16:00:00-05:00
+  label: BCMIT
+  note: BC-MIT
   place: MIT
   room: 2-449
-  seminar: MIT number theory seminar
-  speaker: Ari Shnidman
-  time: 2020-02-18 16:30:00-05:00
-  url: http://math.mit.edu/nt/nts.html
-- desc: Modular schemes and Hecke operators.  Katz 1973, Sections 1.7-1.13.
-  endtime: 2020-02-19 12:00:00-05:00
+  seminar: BC-MIT number theory seminar
+  speaker: Daniel Litt (Georgia)
+  time: 2020-02-25 15:00:00-05:00
+  url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
+- desc: null
+  endtime: 2020-02-25 17:30:00-05:00
+  label: BCMIT
+  note: BC-MIT
+  place: MIT
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: Chao Li (Columbia)
+  time: 2020-02-25 16:30:00-05:00
+  url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
+- desc: p-adic modular forms.  Katz 1973, Chapter 2.
+  endtime: 2020-02-26 12:00:00-05:00
   label: STAGE
   note: null
   place: MIT-STAGE
   room: 2-449
   seminar: STAGE
-  speaker: Borys Kadets
-  time: 2020-02-19 10:00:00-05:00
+  speaker: Wanlin Li
+  time: 2020-02-26 10:00:00-05:00
   url: http://math.mit.edu/nt/stage.html
-- desc: "Malle\u2019s Conjecture for octic $D_4$-fields"
-  endtime: 2020-02-19 16:00:00-05:00
+- desc: Dynamical generalizations of the Prime Number Theorem and disjointness of
+    additive and multiplicative semigroup actions
+  endtime: 2020-02-26 16:00:00-05:00
   label: Harvard
   note: null
   place: Harvard
   room: Science Center 507
   seminar: Harvard number theory seminar
-  speaker: Ila Varma (University of Toronto)
-  time: 2020-02-19 15:00:00-05:00
+  speaker: Florian K. Richter (Northwestern University)
+  time: 2020-02-26 15:00:00-05:00
   url: https://www.math.harvard.edu/event/?cat=number-theory
 - desc: null
-  endtime: 2020-02-20 15:00:00-05:00
+  endtime: 2020-02-27 15:00:00-05:00
   label: BC
   place: BC
   room: Maloney 560
   seminar: BC NT & AG seminar
-  speaker: Jared Weinstein (BU)
-  time: 2020-02-20 14:00:00-05:00
+  speaker: Evangelia Gazaki (Virginia)
+  time: 2020-02-27 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: null
-  endtime: 2020-02-20 17:30:00-05:00
+  endtime: 2020-02-27 17:30:00-05:00
   label: TUFTS
   place: Tufts
   room: Bromfield-Pearson 101
   seminar: Tufts algebra, geometry, and number theory seminar
-  speaker: Abbey Bourdon (Wake Forest)
-  time: 2020-02-20 16:30:00-05:00
+  speaker: Lucile Devin (Montreal)
+  time: 2020-02-27 16:30:00-05:00
   url: https://sites.google.com/view/tuftsagents/home
