@@ -212,6 +212,7 @@ BEGIN:VEVENT
 SUMMARY:Ananth Shankar   (MIT)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200224T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200224T171500
+DESCRIPTION:The p-curvature conjecture in families
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT
@@ -632,12 +633,11 @@ LOCATION:MIT-STAGE usually Building 2\, 2-449
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Borys Kadets
+SUMMARY:Speaker: Borys Kadets
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200219T100000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200219T120000
-DESCRIPTION:Modular schemes and Hecke operators.  Katz 1973\, Sections 1.7
- -1.13.
-LOCATION:MIT-STAGE usually 2-449
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200219T110000
+DESCRIPTION:Title: Hecke operators and the strong q-expansion principle 
+LOCATION:MIT-STAGE usually Building 2\, 2-449
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
