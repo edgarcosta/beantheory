@@ -345,13 +345,6 @@ LOCATION:Tufts usually Bromfield-Pearson 101
 URL:https://sites.google.com/view/tuftsagents/home
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nicole Looper (Brown)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191114T163000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191114T173000
-LOCATION:Tufts usually Bromfield-Pearson 101
-URL:https://sites.google.com/view/tuftsagents/home
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Naomi Tanabe (Bowdoin)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191205T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191205T173000
@@ -364,14 +357,6 @@ DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191121T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191121T173000
 LOCATION:Tufts usually Bromfield-Pearson 101
 URL:https://sites.google.com/view/tuftsagents/home
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jennifer Balakrishnan (BU)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191114T140000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191114T150000
-DESCRIPTION:A tale of three curves
-LOCATION:BC usually Maloney 560
-URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Melissa Emory (Toronto)
