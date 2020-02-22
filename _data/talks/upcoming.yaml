@@ -215,6 +215,16 @@
   time: 2020-04-23 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
 - desc: null
+  endtime: 2020-04-28 17:30:00-04:00
+  label: MIT
+  note: null
+  place: MIT
+  room: 2-449
+  seminar: MIT number theory seminar
+  speaker: Uriya First
+  time: 2020-04-28 16:30:00-04:00
+  url: http://math.mit.edu/nt/nts.html
+- desc: null
   endtime: 2020-04-30 15:00:00-04:00
   label: BC
   place: BC
