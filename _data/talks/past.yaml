@@ -1,4 +1,61 @@
 - desc: null
+  endtime: 2020-02-20 17:30:00-05:00
+  label: TUFTS
+  place: Tufts
+  room: Bromfield-Pearson 101
+  seminar: Tufts algebra, geometry, and number theory seminar
+  speaker: Abbey Bourdon (Wake Forest)
+  time: 2020-02-20 16:30:00-05:00
+  url: https://sites.google.com/view/tuftsagents/home
+- desc: Moduli spaces of shtukas over function fields
+  endtime: 2020-02-20 15:00:00-05:00
+  label: BC
+  place: BC
+  room: Maloney 560
+  seminar: BC NT & AG seminar
+  speaker: Jared Weinstein (BU)
+  time: 2020-02-20 14:00:00-05:00
+  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: "Malle\u2019s Conjecture for octic $D_4$-fields"
+  endtime: 2020-02-19 16:00:00-05:00
+  label: Harvard
+  note: null
+  place: Harvard
+  room: Science Center 507
+  seminar: Harvard number theory seminar
+  speaker: Ila Varma (University of Toronto)
+  time: 2020-02-19 15:00:00-05:00
+  url: https://www.math.harvard.edu/event/?cat=number-theory
+- desc: 'Title: Hecke operators and the strong q-expansion principle '
+  endtime: 2020-02-19 11:00:00-05:00
+  label: STAGE
+  place: MIT-STAGE
+  room: Building 2, 2-449
+  seminar: STAGE
+  speaker: 'Speaker: Borys Kadets'
+  time: 2020-02-19 10:00:00-05:00
+  url: http://math.mit.edu/nt/stage.html
+- desc: null
+  endtime: 2020-02-18 17:30:00-05:00
+  label: MIT
+  note: null
+  place: MIT
+  room: 2-449
+  seminar: MIT number theory seminar
+  speaker: Ari Shnidman
+  time: 2020-02-18 16:30:00-05:00
+  url: http://math.mit.edu/nt/nts.html
+- desc: An arithmetic graph invariant with applications in quantum field theory
+  endtime: 2020-02-18 17:15:00-05:00
+  label: BU
+  note: (note special Tuesday meeting)
+  place: BU
+  room: MCS B31
+  seminar: BU number theory seminar
+  speaker: Karen Yeats   (Waterloo)
+  time: 2020-02-18 16:15:00-05:00
+  url: http://math.bu.edu/research/algebra/seminar.html
+- desc: null
   endtime: 2020-02-13 15:00:00-05:00
   label: BC
   place: BC
