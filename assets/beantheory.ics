@@ -157,6 +157,7 @@ BEGIN:VEVENT
 SUMMARY:Chao Li (Columbia)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200225T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200225T173000
+DESCRIPTION:"On the Kudla-Rapoport conjecture"
 LOCATION:MIT usually 2-449
 URL:https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
 END:VEVENT
@@ -634,7 +635,7 @@ LOCATION:MIT-STAGE usually Building 2\, 2-449
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wanlin Li
+SUMMARY:
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200226T100000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200226T120000
 DESCRIPTION:p-adic modular forms.  Katz 1973\, Chapter 2.

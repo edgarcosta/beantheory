@@ -18,7 +18,7 @@
   speaker: Daniel Litt (Georgia)
   time: 2020-02-25 15:00:00-05:00
   url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
-- desc: null
+- desc: '"On the Kudla-Rapoport conjecture"'
   endtime: 2020-02-25 17:30:00-05:00
   label: BCMIT
   note: BC-MIT
@@ -35,7 +35,7 @@
   place: MIT-STAGE
   room: 2-449
   seminar: STAGE
-  speaker: Wanlin Li
+  speaker: ''
   time: 2020-02-26 10:00:00-05:00
   url: http://math.mit.edu/nt/stage.html
 - desc: Dynamical generalizations of the Prime Number Theorem and disjointness of
