@@ -79,6 +79,14 @@ LOCATION:Harvard usually Science Center 507
 URL:https://www.math.harvard.edu/event/?cat=number-theory
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Alex Cowan (Harvard University)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200304T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200304T160000
+DESCRIPTION:Non-random behaviour in sums of modular symbols
+LOCATION:Harvard usually Science Center 507
+URL:https://www.math.harvard.edu/event/?cat=number-theory
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Zheng Liu (UC Santa Barbara)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190917T150000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190917T160000
@@ -221,6 +229,7 @@ BEGIN:VEVENT
 SUMMARY:Alex Betts   (Kings College London/MPIM)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200302T161500
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200302T171500
+DESCRIPTION:Effective Chabauty--Kim for the thrice-punctured line
 LOCATION:BU usually MCS B31
 URL:http://math.bu.edu/research/algebra/seminar.html
 END:VEVENT

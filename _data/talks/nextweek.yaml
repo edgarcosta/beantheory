@@ -1,4 +1,4 @@
-- desc: null
+- desc: Effective Chabauty--Kim for the thrice-punctured line
   endtime: 2020-03-02 17:15:00-05:00
   label: BU
   note: null
@@ -18,6 +18,16 @@
   speaker: Yifan Wu
   time: 2020-03-04 10:00:00-05:00
   url: http://math.mit.edu/nt/stage.html
+- desc: Non-random behaviour in sums of modular symbols
+  endtime: 2020-03-04 16:00:00-05:00
+  label: Harvard
+  note: null
+  place: Harvard
+  room: Science Center 507
+  seminar: Harvard number theory seminar
+  speaker: Alex Cowan (Harvard University)
+  time: 2020-03-04 15:00:00-05:00
+  url: https://www.math.harvard.edu/event/?cat=number-theory
 - desc: null
   endtime: 2020-03-05 15:00:00-05:00
   label: BC
