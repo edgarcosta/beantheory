@@ -28,14 +28,14 @@
   speaker: Chao Li (Columbia)
   time: 2020-02-25 16:30:00-05:00
   url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
-- desc: p-adic modular forms.  Katz 1973, Chapter 2.
+- desc: "p-adic modular forms \xE0 la Katz.  Katz 1973, Chapter 2. (notes)"
   endtime: 2020-02-26 12:00:00-05:00
   label: STAGE
   note: null
   place: MIT-STAGE
   room: 2-449
   seminar: STAGE
-  speaker: ''
+  speaker: Murilo Corato Zanarella
   time: 2020-02-26 10:00:00-05:00
   url: http://math.mit.edu/nt/stage.html
 - desc: Dynamical generalizations of the Prime Number Theorem and disjointness of
@@ -49,7 +49,7 @@
   speaker: Florian K. Richter (Northwestern University)
   time: 2020-02-26 15:00:00-05:00
   url: https://www.math.harvard.edu/event/?cat=number-theory
-- desc: null
+- desc: Zero-cycles over arithmetic fields.
   endtime: 2020-02-27 15:00:00-05:00
   label: BC
   place: BC

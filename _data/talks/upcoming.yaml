@@ -27,6 +27,16 @@
   time: 2020-03-16 16:15:00-04:00
   url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
+  endtime: 2020-03-17 17:30:00-04:00
+  label: MIT
+  note: null
+  place: MIT
+  room: 2-449
+  seminar: MIT number theory seminar
+  speaker: Vesselin Dimitrov
+  time: 2020-03-17 16:30:00-04:00
+  url: http://math.mit.edu/nt/nts.html
+- desc: null
   endtime: 2020-03-19 15:00:00-04:00
   label: BC
   place: BC
@@ -195,6 +205,16 @@
   speaker: Changjian Su (Toronto)
   time: 2020-04-30 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: null
+  endtime: 2020-05-05 17:30:00-04:00
+  label: MIT
+  note: null
+  place: MIT
+  room: 2-449
+  seminar: MIT number theory seminar
+  speaker: Jan Vonk
+  time: 2020-05-05 16:30:00-04:00
+  url: http://math.mit.edu/nt/nts.html
 - desc: null
   endtime: 2020-05-07 15:00:00-04:00
   label: BC
