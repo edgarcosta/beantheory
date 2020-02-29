@@ -285,10 +285,13 @@ LOCATION:MIT usually 2-449
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alexander Betts
+SUMMARY:SPEAKER:  Alexander Betts (Max Planck Institute for Mathematics Bo
+ nn)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200303T163000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200303T173000
-LOCATION:MIT usually 2-449
+DESCRIPTION:Growth of Tamagawa Numbers of Semistable Hyperelliptic Curves 
+ in Field Extensions
+LOCATION:MIT usually Room 2-143  http://whereis.mit.edu/?go=2
 URL:http://math.mit.edu/nt/nts.html
 END:VEVENT
 BEGIN:VEVENT
