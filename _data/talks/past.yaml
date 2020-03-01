@@ -1,4 +1,73 @@
 - desc: null
+  endtime: 2020-02-27 17:30:00-05:00
+  label: TUFTS
+  place: Tufts
+  room: Bromfield-Pearson 101
+  seminar: Tufts algebra, geometry, and number theory seminar
+  speaker: Lucile Devin (Montreal)
+  time: 2020-02-27 16:30:00-05:00
+  url: https://sites.google.com/view/tuftsagents/home
+- desc: Zero-cycles over arithmetic fields.
+  endtime: 2020-02-27 15:00:00-05:00
+  label: BC
+  place: BC
+  room: Maloney 560
+  seminar: BC NT & AG seminar
+  speaker: Evangelia Gazaki (Virginia)
+  time: 2020-02-27 14:00:00-05:00
+  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
+- desc: Dynamical generalizations of the Prime Number Theorem and disjointness of
+    additive and multiplicative semigroup actions
+  endtime: 2020-02-26 16:00:00-05:00
+  label: Harvard
+  note: null
+  place: Harvard
+  room: Science Center 507
+  seminar: Harvard number theory seminar
+  speaker: Florian K. Richter (Northwestern University)
+  time: 2020-02-26 15:00:00-05:00
+  url: https://www.math.harvard.edu/event/?cat=number-theory
+- desc: "p-adic modular forms \xE0 la Katz.  Katz 1973, Chapter 2. (notes)"
+  endtime: 2020-02-26 12:00:00-05:00
+  label: STAGE
+  note: null
+  place: MIT-STAGE
+  room: 2-449
+  seminar: STAGE
+  speaker: Murilo Corato Zanarella
+  time: 2020-02-26 10:00:00-05:00
+  url: http://math.mit.edu/nt/stage.html
+- desc: '"On the Kudla-Rapoport conjecture"'
+  endtime: 2020-02-25 17:30:00-05:00
+  label: BCMIT
+  note: BC-MIT
+  place: MIT
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: Chao Li (Columbia)
+  time: 2020-02-25 16:30:00-05:00
+  url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
+- desc: '"The section conjecture at the boundary of moduli space"'
+  endtime: 2020-02-25 16:00:00-05:00
+  label: BCMIT
+  note: BC-MIT
+  place: MIT
+  room: 2-449
+  seminar: BC-MIT number theory seminar
+  speaker: Daniel Litt (Georgia)
+  time: 2020-02-25 15:00:00-05:00
+  url: https://sites.google.com/bc.edu/benjamin-howard/bc-mit-seminar
+- desc: The p-curvature conjecture in families
+  endtime: 2020-02-24 17:15:00-05:00
+  label: BU
+  note: null
+  place: BU
+  room: MCS B31
+  seminar: BU number theory seminar
+  speaker: Ananth Shankar   (MIT)
+  time: 2020-02-24 16:15:00-05:00
+  url: http://math.bu.edu/research/algebra/seminar.html
+- desc: null
   endtime: 2020-02-20 17:30:00-05:00
   label: TUFTS
   place: Tufts

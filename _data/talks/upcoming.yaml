@@ -1,22 +1,4 @@
 - desc: null
-  endtime: 2020-03-12 15:00:00-04:00
-  label: BC
-  place: BC
-  room: Maloney 560
-  seminar: BC NT & AG seminar
-  speaker: Siu-Cheong Lau (BU)
-  time: 2020-03-12 14:00:00-04:00
-  url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: null
-  endtime: 2020-03-12 17:30:00-04:00
-  label: TUFTS
-  place: Tufts
-  room: Bromfield-Pearson 101
-  seminar: Tufts algebra, geometry, and number theory seminar
-  speaker: Asher Auel (Dartmouth)
-  time: 2020-03-12 16:30:00-04:00
-  url: https://sites.google.com/view/tuftsagents/home
-- desc: null
   endtime: 2020-03-16 17:15:00-04:00
   label: BU
   note: null
