@@ -665,11 +665,27 @@ LOCATION:MIT-STAGE usually 2-449
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yifan Wu
+SUMMARY:Speaker: Yifan Wu
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200304T100000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200304T120000
-DESCRIPTION:The canonical subgroup.  Katz 1973\, Chapter 3 up to Section 3
- .9 inclusive.
+DESCRIPTION:Title: The Canonical Subgroup
+LOCATION:MIT-STAGE usually Building 2\, 2-449
+URL:http://math.mit.edu/nt/stage.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Motivation from complex analysis\; Gauss-Manin connection
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200318T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200318T120000
+DESCRIPTION:Katz 1973\, Appendix 1.  (If this is too long\, some might spi
+ ll over until the next meeting.)
+LOCATION:MIT-STAGE usually 2-449
+URL:http://math.mit.edu/nt/stage.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frobenius on p-adic modular forms and the theta operator
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200401T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200401T120000
+DESCRIPTION:Katz 1973\, Appendix 2.
 LOCATION:MIT-STAGE usually 2-449
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT

@@ -18,6 +18,17 @@
   speaker: Vesselin Dimitrov
   time: 2020-03-17 16:30:00-04:00
   url: http://math.mit.edu/nt/nts.html
+- desc: Katz 1973, Appendix 1.  (If this is too long, some might spill over until
+    the next meeting.)
+  endtime: 2020-03-18 12:00:00-04:00
+  label: STAGE
+  note: null
+  place: MIT-STAGE
+  room: 2-449
+  seminar: STAGE
+  speaker: Motivation from complex analysis; Gauss-Manin connection
+  time: 2020-03-18 10:00:00-04:00
+  url: http://math.mit.edu/nt/stage.html
 - desc: null
   endtime: 2020-03-19 15:00:00-04:00
   label: BC
@@ -65,6 +76,16 @@
   speaker: Nicole Looper
   time: 2020-03-31 16:30:00-04:00
   url: http://math.mit.edu/nt/nts.html
+- desc: Katz 1973, Appendix 2.
+  endtime: 2020-04-01 12:00:00-04:00
+  label: STAGE
+  note: null
+  place: MIT-STAGE
+  room: 2-449
+  seminar: STAGE
+  speaker: Frobenius on p-adic modular forms and the theta operator
+  time: 2020-04-01 10:00:00-04:00
+  url: http://math.mit.edu/nt/stage.html
 - desc: null
   endtime: 2020-04-02 15:00:00-04:00
   label: BC

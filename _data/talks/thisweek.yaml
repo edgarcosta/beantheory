@@ -17,14 +17,13 @@
   speaker: 'SPEAKER:  Alexander Betts (Max Planck Institute for Mathematics Bonn)'
   time: 2020-03-03 16:30:00-05:00
   url: http://math.mit.edu/nt/nts.html
-- desc: The canonical subgroup.  Katz 1973, Chapter 3 up to Section 3.9 inclusive.
+- desc: 'Title: The Canonical Subgroup'
   endtime: 2020-03-04 12:00:00-05:00
   label: STAGE
-  note: null
   place: MIT-STAGE
-  room: 2-449
+  room: Building 2, 2-449
   seminar: STAGE
-  speaker: Yifan Wu
+  speaker: 'Speaker: Yifan Wu'
   time: 2020-03-04 10:00:00-05:00
   url: http://math.mit.edu/nt/stage.html
 - desc: Non-random behaviour in sums of modular symbols
