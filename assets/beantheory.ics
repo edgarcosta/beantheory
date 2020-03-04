@@ -623,11 +623,12 @@ LOCATION:MIT-STAGE usually Building 2\, 2-449
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Motivation from complex analysis\; Gauss-Manin connection
+SUMMARY:Alex Best
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200318T100000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200318T120000
-DESCRIPTION:Katz 1973\, Appendix 1.  (If this is too long\, some might spi
- ll over until the next meeting.)
+DESCRIPTION:Motivation from complex analysis\; Gauss-Manin connection.  Ka
+ tz 1973\, Appendix 1.  (If this is too long\, some might spill over until 
+ the next meeting.)
 LOCATION:MIT-STAGE usually 2-449
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
