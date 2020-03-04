@@ -16,17 +16,6 @@
   speaker: Evangelia Gazaki (Virginia)
   time: 2020-02-27 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: Dynamical generalizations of the Prime Number Theorem and disjointness of
-    additive and multiplicative semigroup actions
-  endtime: 2020-02-26 16:00:00-05:00
-  label: Harvard
-  note: null
-  place: Harvard
-  room: Science Center 507
-  seminar: Harvard number theory seminar
-  speaker: Florian K. Richter (Northwestern University)
-  time: 2020-02-26 15:00:00-05:00
-  url: https://www.math.harvard.edu/event/?cat=number-theory
 - desc: "p-adic modular forms \xE0 la Katz.  Katz 1973, Chapter 2. (notes)"
   endtime: 2020-02-26 12:00:00-05:00
   label: STAGE
@@ -85,16 +74,6 @@
   speaker: Jared Weinstein (BU)
   time: 2020-02-20 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: "Malle\u2019s Conjecture for octic $D_4$-fields"
-  endtime: 2020-02-19 16:00:00-05:00
-  label: Harvard
-  note: null
-  place: Harvard
-  room: Science Center 507
-  seminar: Harvard number theory seminar
-  speaker: Ila Varma (University of Toronto)
-  time: 2020-02-19 15:00:00-05:00
-  url: https://www.math.harvard.edu/event/?cat=number-theory
 - desc: 'Title: Hecke operators and the strong q-expansion principle '
   endtime: 2020-02-19 11:00:00-05:00
   label: STAGE
@@ -133,17 +112,6 @@
   speaker: Ari Shnidman (Hebrew University)
   time: 2020-02-13 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: The intersection of the Torelli locus with the non-ordinary locus in PEL-type
-    Shimura varieties
-  endtime: 2020-02-12 16:00:00-05:00
-  label: Harvard
-  note: null
-  place: Harvard
-  room: Science Center 507
-  seminar: Harvard number theory seminar
-  speaker: Rachel Pries (Colorado State University)
-  time: 2020-02-12 15:00:00-05:00
-  url: https://www.math.harvard.edu/event/?cat=number-theory
 - desc: rules
   endtime: 2020-02-12 11:10:00-05:00
   label: STAGE
@@ -182,16 +150,6 @@
   speaker: Laure Flapan (MIT)
   time: 2020-02-06 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: Counting rational points on stacks
-  endtime: 2020-02-05 16:00:00-05:00
-  label: Harvard
-  note: null
-  place: Harvard
-  room: Science Center 507
-  seminar: Harvard number theory seminar
-  speaker: Jordan Ellenberg (University of Wisconsin at Madison)
-  time: 2020-02-05 15:00:00-05:00
-  url: https://www.math.harvard.edu/event/?cat=number-theory
 - desc: "Title: p-adic modular forms \xC3\_ la Serre"
   endtime: 2020-02-05 12:00:00-05:00
   label: STAGE
@@ -326,51 +284,6 @@
   speaker: No seminar (Thanksgiving break)
   time: 2019-11-28 14:00:00-05:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: High dimensional cohomology of congruence subgroups
-  endtime: 2019-11-18 17:30:00-05:00
-  label: special
-  note: Algebraic Topology Seminar
-  place: MIT
-  room: 2 - 131
-  speaker: Peter Patzt (Perdue University)
-  time: 2019-11-18 16:30:00-05:00
-  url: https://calendar.mit.edu/event/algebraic_topology_seminar_20191118
-- desc: Some congruences and consequences in number theory and beyond
-  endtime: 2019-11-14 17:30:00-05:00
-  label: special
-  note: Joint Mathematics Colloquium Brandeis-Harvard-MIT-Northeastern
-  place: Harvard
-  room: Science Center Hall A
-  speaker: Ellen Eischen, U Oregon
-  time: 2019-11-14 16:30:00-05:00
-  url: http://www.northeastern.edu/tzhou/bhmn/Eischen19.html
-- desc: An Introduction to the Bernoulli Numbers, from Pythagoras to Present
-  endtime: 2019-11-13 17:30:00-05:00
-  label: special
-  note: Open neighborhood seminar
-  place: Harvard
-  room: Science Center 507
-  speaker: Ellen Eischen, U Oregon
-  time: 2019-11-13 16:30:00-05:00
-  url: http://www.math.harvard.edu/cgi-bin/showtalk.pl
-- desc: 'Lecture II: Integer Points on Affine Cubic Surfaces'
-  endtime: 2019-11-01 17:15:00-04:00
-  label: special
-  note: Ahlfors Lectures
-  place: Harvard
-  room: Science Center Hall D
-  speaker: Peter Sarnak
-  time: 2019-11-01 16:15:00-04:00
-  url: http://www.math.harvard.edu/conferences/ahlfors19/index.html
-- desc: 'Lecture I: Applications of Points on Subvarieties of Tori'
-  endtime: 2019-10-31 17:15:00-04:00
-  label: special
-  note: Ahlfors Lectures
-  place: Harvard
-  room: Science Center Hall D
-  speaker: Peter Sarnak
-  time: 2019-10-31 16:15:00-04:00
-  url: http://www.math.harvard.edu/conferences/ahlfors19/index.html
 - desc: '"An arithmetic count of rational plane curves"'
   endtime: 2019-10-29 17:30:00-04:00
   label: BCMIT
