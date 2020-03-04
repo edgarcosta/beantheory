@@ -87,22 +87,13 @@
   time: 2020-04-01 10:00:00-04:00
   url: http://math.mit.edu/nt/stage.html
 - desc: 'Lecture I: What is p-adic Hodge theory?'
-  endtime: 2020-04-01 13:30:00-04:00
+  endtime: 2020-04-01 17:30:00-04:00
   label: special
   note: Simons Lecture Series
   place: MIT
   room: Room 2-190
   speaker: Bhargav Bhatt
-  time: 2020-04-01 12:30:00-04:00
-  url: https://math.mit.edu/news/seminars/simons.php
-- desc: 'Lecture II: Applications to algebraic geometry'
-  endtime: 2020-04-02 13:30:00-04:00
-  label: special
-  note: Simons Lecture Series
-  place: MIT
-  room: Room 2-190
-  speaker: Bhargav Bhatt
-  time: 2020-04-02 12:30:00-04:00
+  time: 2020-04-01 16:30:00-04:00
   url: https://math.mit.edu/news/seminars/simons.php
 - desc: null
   endtime: 2020-04-02 15:00:00-04:00
@@ -122,14 +113,23 @@
   speaker: Chris Rasmussen (Wesleyan)
   time: 2020-04-02 16:30:00-04:00
   url: https://sites.google.com/view/tuftsagents/home
-- desc: 'Lecture III: Connections to algebraic topology'
-  endtime: 2020-04-03 13:30:00-04:00
+- desc: 'Lecture II: Applications to algebraic geometry'
+  endtime: 2020-04-02 17:30:00-04:00
   label: special
   note: Simons Lecture Series
   place: MIT
   room: Room 2-190
   speaker: Bhargav Bhatt
-  time: 2020-04-03 12:30:00-04:00
+  time: 2020-04-02 16:30:00-04:00
+  url: https://math.mit.edu/news/seminars/simons.php
+- desc: 'Lecture III: Connections to algebraic topology'
+  endtime: 2020-04-03 17:30:00-04:00
+  label: special
+  note: Simons Lecture Series
+  place: MIT
+  room: Room 2-190
+  speaker: Bhargav Bhatt
+  time: 2020-04-03 16:30:00-04:00
   url: https://math.mit.edu/news/seminars/simons.php
 - desc: null
   endtime: 2020-04-06 17:15:00-04:00
