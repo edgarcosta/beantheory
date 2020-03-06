@@ -36,6 +36,23 @@ LOCATION:Harvard usually Science Center 507
 URL:https://www.math.harvard.edu/event/?cat=number-theory
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vesselin Dimitrov (University of Toronto)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200311T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200311T160000
+DESCRIPTION:Schinzel-Zassenhaus\, height gap and overconvergence
+LOCATION:Harvard usually Science Center 507
+URL:https://www.math.harvard.edu/event/?cat=number-theory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shekhar Khare (UCLA)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200401T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200401T160000
+DESCRIPTION:Wiles defect for Hecke algebras that are not complete intersec
+ tions
+LOCATION:Harvard usually Science Center 507
+URL:https://www.math.harvard.edu/event/?cat=number-theory
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Zheng Liu (UC Santa Barbara)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20190917T150000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20190917T160000
@@ -344,13 +361,6 @@ LOCATION:Tufts usually Bromfield-Pearson 101
 URL:https://sites.google.com/view/tuftsagents/home
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:No seminar (Thanksgiving break)
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191128T140000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191128T150000
-LOCATION:BC usually Maloney 560
-URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nicole Looper (Brown)
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20191205T140000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20191205T150000
@@ -582,11 +592,11 @@ LOCATION:BC usually Maloney 560
 URL:https://sites.google.com/bc.edu/2019-20bcntagseminar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Speaker: Samuel Marks
+SUMMARY:Samuel Marks
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20200205T100000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20200205T120000
-DESCRIPTION:Title: p-adic modular forms Ã  la Serre
-LOCATION:MIT-STAGE usually Building 2\, 2-449
+DESCRIPTION:p-adic modular forms à la Serre.  Serre\, Chapter 1.  (notes)
+LOCATION:MIT-STAGE usually 2-449
 URL:http://math.mit.edu/nt/stage.html
 END:VEVENT
 BEGIN:VEVENT
