@@ -1,28 +1,40 @@
-- desc: Schinzel-Zassenhaus, height gap and overconvergence
-  endtime: 2020-03-11 16:00:00-04:00
-  label: Harvard
+- desc: Basic functions and the stable trace formula
+  endtime: 2020-03-16 17:15:00-04:00
+  label: BU
   note: null
-  place: Harvard
-  room: Science Center 507
-  seminar: Harvard number theory seminar
-  speaker: Vesselin Dimitrov (University of Toronto)
-  time: 2020-03-11 15:00:00-04:00
-  url: https://www.math.harvard.edu/event/?cat=number-theory
+  place: BU
+  room: MCS B31
+  seminar: BU number theory seminar
+  speaker: Tian An Wong   (Smith College)
+  time: 2020-03-16 16:15:00-04:00
+  url: http://math.bu.edu/research/algebra/seminar.html
 - desc: null
-  endtime: 2020-03-12 15:00:00-04:00
+  endtime: 2020-03-17 17:30:00-04:00
+  label: MIT
+  note: null
+  place: MIT
+  room: 2-449
+  seminar: MIT number theory seminar
+  speaker: Vesselin Dimitrov
+  time: 2020-03-17 16:30:00-04:00
+  url: http://math.mit.edu/nt/nts.html
+- desc: Motivation from complex analysis; Gauss-Manin connection.  Katz 1973, Appendix
+    1.  (If this is too long, some might spill over until the next meeting.)
+  endtime: 2020-03-18 12:00:00-04:00
+  label: STAGE
+  note: null
+  place: MIT-STAGE
+  room: 2-449
+  seminar: STAGE
+  speaker: Alex Best
+  time: 2020-03-18 10:00:00-04:00
+  url: http://math.mit.edu/nt/stage.html
+- desc: null
+  endtime: 2020-03-19 15:00:00-04:00
   label: BC
   place: BC
   room: Maloney 560
   seminar: BC NT & AG seminar
-  speaker: Siu-Cheong Lau (BU)
-  time: 2020-03-12 14:00:00-04:00
+  speaker: David Soudry (Tel Aviv)
+  time: 2020-03-19 14:00:00-04:00
   url: https://sites.google.com/bc.edu/2019-20bcntagseminar
-- desc: null
-  endtime: 2020-03-12 17:30:00-04:00
-  label: TUFTS
-  place: Tufts
-  room: Bromfield-Pearson 101
-  seminar: Tufts algebra, geometry, and number theory seminar
-  speaker: Asher Auel (Dartmouth)
-  time: 2020-03-12 16:30:00-04:00
-  url: https://sites.google.com/view/tuftsagents/home
